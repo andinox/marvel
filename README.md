@@ -29,19 +29,23 @@ Ce projet a été conçu pour être exécuté dans un environnement Python 3.11.
    pip install django matplotlib requests
    ```
 
-## Démarrage du Serveur
+3. **Configuration de la partie GraphDB :**
 
-1. Ouvrez un terminal dans le répertoire du projet.
+   - Ajoutez l'ontologie `nicolas.ttl` et les déclarations `statements.ttl` dans un référentiel nommé "PROJECT".
 
-2. **Lancer le serveur web :**
+4. **Démarrage du Serveur**
 
-   ```bash
-   python manage.py runserver
-   ```
+   - Ouvrez un terminal dans le répertoire du projet.
 
-3. Accédez à votre navigateur et entrez l'adresse suivante :
-   ```plaintext
-   http://127.0.0.1:8000/
-   ```
+   - **Lancer le serveur web :**
 
-Ces étapes vous permettront de créer un environnement virtuel, d'installer les bibliothèques nécessaires, et de démarrer le site web localement. Explorez le projet et contribuez selon vos besoins.
+     ```bash
+     python manage.py runserver
+     ```
+
+   - Accédez à votre navigateur et entrez l'adresse suivante :
+     ```plaintext
+     http://127.0.0.1:8000/
+     ```
+
+Ces étapes vous permettront de créer un environnement virtuel, d'installer les bibliothèques nécessaires, et de démarrer le site web localement. Assurez-vous également d'ajouter les fichiers d'ontologie et de déclarations dans le référentiel "PROJECT" pour la partie GraphDB.
