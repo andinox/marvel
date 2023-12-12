@@ -7,7 +7,7 @@ Ce projet a été conçu pour être exécuté dans un environnement Python 3.11.
 1. **Création de l'environnement virtuel (venv):**
 
    ```bash
-   python3.11 -m venv venv
+   python -m venv venv
    ```
 
    Activez l'environnement virtuel :

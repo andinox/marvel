@@ -25,7 +25,7 @@ def home(request):
               riedel:nom ?nom;
               riedel:revenu ?revenu;
               riedel:cote ?cote;
-              owl:sameAS ?wiki.
+              riedel:genre ?Genre;
     }
     """
 
@@ -54,17 +54,31 @@ def home(request):
                 'Méchant': [0,[]],
                 'Neutre': [0,[]]
             }
+            coteG = {
+                'féminin': [0,0],
+                'masculin': [0,0],
+                'agenre': [0,0],
+                'mâle' : [0,0],
+                'genre-fluide' : [0,0],
+                'hermaphrodisme' : [0,0],
+                'femelle' : [0,0],
+            }
             value = value["results"]["bindings"]
             for i in value:
-                valeurs.append([i['nom']["value"], i['cote']['value'], i['revenu']['value']])
+                valeurs.append([i['nom']["value"], i['cote']['value'],i['Genre']['value'], i['revenu']['value']])
                 cote[i['cote']['value']][0] += 1
                 cote[i['cote']['value']][1].append(int(i['revenu']['value']))
-            x = ["Gentil","Méchant","Neutre"]
+                coteG[i['Genre']['value']][0]+=int(i['revenu']['value'])
+                coteG[i['Genre']['value']][1] += 1
+            x = ["féminin","masculin","agenre","genre-fluide","hermaphrodisme"]
             y = [
-                sum(cote['Gentil'][1])/len(cote['Gentil'][1]),
-                sum(cote['Méchant'][1])/len(cote['Méchant'][1]),
-                sum(cote['Neutre'][1])/len(cote['Neutre'][1])
+                coteG['féminin'][0]/coteG['féminin'][1] + coteG['femelle'][0]/coteG['femelle'][1],
+                coteG['masculin'][0]/coteG['masculin'][1] + coteG['mâle'][0]/coteG['mâle'][1],
+                coteG['agenre'][0]/coteG['agenre'][1],
+                coteG['genre-fluide'][0]/coteG['genre-fluide'][1],
+                coteG['hermaphrodisme'][0]/coteG['hermaphrodisme'][1]
             ]
+            print(coteG)
             plt.bar(x, y)
             image_stream = BytesIO()
             plt.savefig(image_stream, format='png')

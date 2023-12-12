@@ -32,6 +32,10 @@ riedel:revenu rdf:type owl:DatatypeProperty .
 ###  https://cours.iut-orsay.fr/npbd/projet/riedel/nom
 riedel:nom rdf:type owl:DatatypeProperty .
 
+
+###  https://cours.iut-orsay.fr/npbd/projet/riedel/genre
+riedel:genre rdf:type owl:DatatypeProperty .
+
 #################################################################
 #    Classes
 #################################################################

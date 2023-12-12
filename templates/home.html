@@ -14,7 +14,7 @@
     </style>
 </head>
 <body>
-    <h1>VENTE DE COMICS EN FUNCTION DU COTE DU PERSONNAGE PRINCIPAL</h1>
+    <h1>VENTE DE COMICS EN FUNCTION DU GENRE DU PERSONNAGE PRINCIPAL</h1>
     <div class="text-center">
         <img src="data:image/png;base64,{{ plot }}" alt="Matplotlib Plot" class="img-fluid">
     </div>
@@ -44,15 +44,17 @@
                     <tr>
                         <th scope="col">Nom</th>
                         <th scope="col">Côté</th>
+                        <th scope="col">Genre</th>
                         <th scope="col">Revenu</th>
                     </tr>
                 </thead>
                 <tbody>
-                    {% for i,y,z in valeurs %}
+                    {% for i,y,z,d in valeurs %}
                         <tr>
                             <td>{{ i }}</td>
                             <td>{{ y }}</td>
-                            <td>~ {{ z }} €</td>
+                            <td>{{ z }}</td>
+                            <td>~ {{ d }} €</td>
                         </tr>
                     {% endfor %}
                 </tbody>
