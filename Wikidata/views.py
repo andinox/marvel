@@ -7,6 +7,7 @@ import base64
 
 # Create your views here.
 def home(request):
+    global coteG, coteGd
     valeurs = None
     url = "http://localhost:7200/repositories/PROJECT"
     query = """
@@ -63,6 +64,15 @@ def home(request):
                 'hermaphrodisme' : [0,0],
                 'femelle' : [0,0],
             }
+            coteGd = {
+                'féminin': 0,
+                'masculin': 0,
+                'agenre': 0,
+                'mâle': 0,
+                'genre-fluide': 0,
+                'hermaphrodisme': 0,
+                'femelle': 0,
+            }
             value = value["results"]["bindings"]
             for i in value:
                 valeurs.append([i['nom']["value"], i['cote']['value'],i['Genre']['value'], i['revenu']['value']])
@@ -70,6 +80,8 @@ def home(request):
                 cote[i['cote']['value']][1].append(int(i['revenu']['value']))
                 coteG[i['Genre']['value']][0]+=int(i['revenu']['value'])
                 coteG[i['Genre']['value']][1] += 1
+                coteGd[i['Genre']['value']] += 1
+
             x = ["féminin","masculin","agenre","genre-fluide","hermaphrodisme"]
             y = [
                 coteG['féminin'][0]/coteG['féminin'][1] + coteG['femelle'][0]/coteG['femelle'][1],
@@ -78,6 +90,7 @@ def home(request):
                 coteG['genre-fluide'][0]/coteG['genre-fluide'][1],
                 coteG['hermaphrodisme'][0]/coteG['hermaphrodisme'][1]
             ]
+
             print(coteG)
             plt.bar(x, y)
             image_stream = BytesIO()
@@ -99,4 +112,4 @@ def home(request):
         # Gérer les erreurs de requête
         print(f"Erreur de requête: {e}")
 
-    return render(request, 'home.html', {"plot" : base64_image, "valeurs": valeurs, "cote": nb})
+    return render(request, 'home.html', {"plot" : base64_image, "valeurs": valeurs, "cote": coteGd})
