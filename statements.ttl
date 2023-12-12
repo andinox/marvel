@@ -2426,8 +2426,6 @@ riedel:SnakeMarston a riedel:Personnage .
 
 riedel:Isbisa a riedel:Personnage .
 
-riedel:JARVIS a riedel:Personnage .
-
 riedel:StevenLang a riedel:Personnage .
 
 riedel:Aspic%28comics%29 a riedel:Personnage .
@@ -2693,8 +2691,6 @@ riedel:PowerMan a riedel:Personnage .
 riedel:Terraformer a riedel:Personnage .
 
 riedel:Tazza a riedel:Personnage .
-
-riedel:homer a riedel:Personnage .
 
 riedel:Hummingbird a riedel:Personnage .
 
@@ -3573,6 +3569,29 @@ riedel:Mzee a riedel:Personnage .
 riedel:Ban-Luck a riedel:Personnage .
 
 riedel:BrokenHaiku a riedel:Personnage .
+
+riedel:genre a owl:DatatypeProperty .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/C.F.> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NthMan%3ATheUltimateNinja#AlfieO%27Meagan>
+  a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/LeongCaoMáº¡nh> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NgaCaoMáº¡nh> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/SeñorMuerte/SeñorSuerte> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/J.A.R.V.I.S.> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/H.O.M.E.R.> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/KukulkÃ¡n> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Porc-Ã©pic%28comics%29> a riedel:Personnage .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Recorder#211> a riedel:Personnage .
 
 riedel:She-Hulk riedel:cote "Gentil" .
 
@@ -5960,8 +5979,6 @@ riedel:SnakeMarston riedel:cote "Méchant" .
 
 riedel:Isbisa riedel:cote "Méchant" .
 
-riedel:JARVIS riedel:cote "Gentil" .
-
 riedel:StevenLang riedel:cote "Méchant" .
 
 riedel:Aspic%28comics%29 riedel:cote "Méchant" .
@@ -6227,8 +6244,6 @@ riedel:PowerMan riedel:cote "Gentil" .
 riedel:Terraformer riedel:cote "Méchant" .
 
 riedel:Tazza riedel:cote "Méchant" .
-
-riedel:homer riedel:cote "Méchant" .
 
 riedel:Hummingbird riedel:cote "Gentil" .
 
@@ -7107,6 +7122,29 @@ riedel:Mzee riedel:cote "Gentil" .
 riedel:Ban-Luck riedel:cote "Méchant" .
 
 riedel:BrokenHaiku riedel:cote "Gentil" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/C.F.> riedel:cote "Méchant" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NthMan%3ATheUltimateNinja#AlfieO%27Meagan>
+  riedel:cote "Gentil" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/LeongCaoMáº¡nh> riedel:cote "Gentil" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NgaCaoMáº¡nh> riedel:cote "Gentil" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/SeñorMuerte/SeñorSuerte> riedel:cote
+    "Méchant" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/J.A.R.V.I.S.> riedel:cote "Gentil" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/H.O.M.E.R.> riedel:cote "Méchant" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/KukulkÃ¡n> riedel:cote "Méchant" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Porc-Ã©pic%28comics%29> riedel:cote
+    "Méchant" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Recorder#211> riedel:cote "Gentil" .
 
 riedel:She-Hulk riedel:revenu "1000000" .
 
@@ -9494,8 +9532,6 @@ riedel:SnakeMarston riedel:revenu "350000" .
 
 riedel:Isbisa riedel:revenu "180000" .
 
-riedel:JARVIS riedel:revenu "200000" .
-
 riedel:StevenLang riedel:revenu "250000" .
 
 riedel:Aspic%28comics%29 riedel:revenu "300000" .
@@ -9759,8 +9795,6 @@ riedel:PowerMan riedel:revenu "180000" .
 riedel:Terraformer riedel:revenu "200000" .
 
 riedel:Tazza riedel:revenu "250000" .
-
-riedel:homer riedel:revenu "300000" .
 
 riedel:Hummingbird riedel:revenu "350000" .
 
@@ -10639,6 +10673,29 @@ riedel:Mzee riedel:revenu "350000" .
 riedel:Ban-Luck riedel:revenu "180000" .
 
 riedel:BrokenHaiku riedel:revenu "200000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/C.F.> riedel:revenu "300000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NthMan%3ATheUltimateNinja#AlfieO%27Meagan>
+  riedel:revenu "180000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/LeongCaoMáº¡nh> riedel:revenu "180000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NgaCaoMáº¡nh> riedel:revenu "200000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/SeñorMuerte/SeñorSuerte> riedel:revenu
+    "250000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/J.A.R.V.I.S.> riedel:revenu "200000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/H.O.M.E.R.> riedel:revenu "300000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/KukulkÃ¡n> riedel:revenu "300000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Porc-Ã©pic%28comics%29> riedel:revenu
+    "300000" .
+
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Recorder#211> riedel:revenu "350000" .
 
 riedel:She-Hulk riedel:nom "She-Hulk"@fr .
 
@@ -13026,8 +13083,6 @@ riedel:SnakeMarston riedel:nom "Snake Marston"@fr .
 
 riedel:Isbisa riedel:nom "Isbisa"@fr .
 
-riedel:JARVIS riedel:nom "J.A.R.V.I.S."@fr .
-
 riedel:StevenLang riedel:nom "Steven Lang"@fr .
 
 riedel:Aspic%28comics%29 riedel:nom "Aspic (comics)"@fr .
@@ -13293,8 +13348,6 @@ riedel:PowerMan riedel:nom "Power Man"@fr .
 riedel:Terraformer riedel:nom "Terraformer"@fr .
 
 riedel:Tazza riedel:nom "Tazza"@fr .
-
-riedel:homer riedel:nom "H.O.M.E.R."@fr .
 
 riedel:Hummingbird riedel:nom "Hummingbird"@fr .
 
@@ -14174,2970 +14227,2039 @@ riedel:Ban-Luck riedel:nom "Ban-Luck"@fr .
 
 riedel:BrokenHaiku riedel:nom "Broken Haiku"@fr .
 
-riedel:She-Hulk owl:sameAS <http://www.wikidata.org/entity/Q3841033> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/C.F.> riedel:nom "C.F."@fr .
 
-riedel:HowardStark owl:sameAS <http://www.wikidata.org/entity/Q773035> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NthMan%3ATheUltimateNinja#AlfieO%27Meagan>
+  riedel:nom "Nth Man: The Ultimate Ninja#Alfie O'Meagan"@fr .
 
-riedel:Scorcher owl:sameAS <http://www.wikidata.org/entity/Q776854> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/LeongCaoMáº¡nh> riedel:nom "Leong Cao Máº¡nh"@fr .
 
-riedel:RedSonja owl:sameAS <http://www.wikidata.org/entity/Q162335> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/NgaCaoMáº¡nh> riedel:nom "Nga Cao Máº¡nh"@fr .
 
-riedel:Defensor owl:sameAS <http://www.wikidata.org/entity/Q593915> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/SeñorMuerte/SeñorSuerte> riedel:nom
+    "Señor Muerte / Señor Suerte"@fr .
 
-riedel:Surferd%27argent owl:sameAS <http://www.wikidata.org/entity/Q95153> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/J.A.R.V.I.S.> riedel:nom "J.A.R.V.I.S."@fr .
 
-riedel:Homme-Fourmi owl:sameAS <http://www.wikidata.org/entity/Q166113> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/H.O.M.E.R.> riedel:nom "H.O.M.E.R."@fr .
 
-riedel:OldLace owl:sameAS <http://www.wikidata.org/entity/Q266069> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/KukulkÃ¡n> riedel:nom "KukulkÃ¡n"@fr .
 
-riedel:LeColosse owl:sameAS <http://www.wikidata.org/entity/Q371692> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Porc-Ã©pic%28comics%29> riedel:nom
+    "Porc-Ã©pic (comics)"@fr .
 
-riedel:LeCaméléon owl:sameAS <http://www.wikidata.org/entity/Q521305> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/Recorder#211> riedel:nom "Recorder #211"@fr .
 
-riedel:PresterJohn owl:sameAS <http://www.wikidata.org/entity/Q511037> .
+riedel:She-Hulk riedel:genre "féminin"@fr .
 
-riedel:MorganLeFay owl:sameAS <http://www.wikidata.org/entity/Q645718> .
+riedel:HowardStark riedel:genre "masculin"@fr .
 
-riedel:Annihilus owl:sameAS <http://www.wikidata.org/entity/Q771247> .
+riedel:Scorcher riedel:genre "masculin"@fr .
 
-riedel:Lyja owl:sameAS <http://www.wikidata.org/entity/Q3832323> .
+riedel:RedSonja riedel:genre "féminin"@fr .
 
-riedel:Miek owl:sameAS <http://www.wikidata.org/entity/Q3857099> .
+riedel:Defensor riedel:genre "masculin"@fr .
 
-riedel:CharlotteWitter owl:sameAS <http://www.wikidata.org/entity/Q432041> .
+riedel:Surferd%27argent riedel:genre "masculin"@fr .
 
-riedel:Bushmaster owl:sameAS <http://www.wikidata.org/entity/Q262480> .
+riedel:Homme-Fourmi riedel:genre "masculin"@fr .
 
-riedel:BettyRoss owl:sameAS <http://www.wikidata.org/entity/Q616633> .
+riedel:OldLace riedel:genre "féminin"@fr .
 
-riedel:Stick owl:sameAS <http://www.wikidata.org/entity/Q683548> .
+riedel:LeColosse riedel:genre "masculin"@fr .
 
-riedel:ValeriaRichards owl:sameAS <http://www.wikidata.org/entity/Q734861> .
+riedel:LeCaméléon riedel:genre "masculin"@fr .
 
-riedel:Genis-Vell owl:sameAS <http://www.wikidata.org/entity/Q775371> .
+riedel:PresterJohn riedel:genre "masculin"@fr .
 
-riedel:RumikoFujikawa owl:sameAS <http://www.wikidata.org/entity/Q936100> .
+riedel:MorganLeFay riedel:genre "féminin"@fr .
 
-riedel:BlackRacer owl:sameAS <http://www.wikidata.org/entity/Q959466> .
+riedel:Annihilus riedel:genre "masculin"@fr .
 
-riedel:ClayQuartermain owl:sameAS <http://www.wikidata.org/entity/Q965099> .
+riedel:Lyja riedel:genre "féminin"@fr .
 
-riedel:HumanTorch owl:sameAS <http://www.wikidata.org/entity/Q1004568> .
+riedel:CharlotteWitter riedel:genre "féminin"@fr .
 
-riedel:PatsyWalker owl:sameAS <http://www.wikidata.org/entity/Q1051167> .
+riedel:BettyRoss riedel:genre "féminin"@fr .
 
-riedel:Hepzibah owl:sameAS <http://www.wikidata.org/entity/Q372151> .
+riedel:Stick riedel:genre "masculin"@fr .
 
-riedel:MariaStark owl:sameAS <http://www.wikidata.org/entity/Q3847537> .
+riedel:ValeriaRichards riedel:genre "féminin"@fr .
 
-riedel:MODOK owl:sameAS <http://www.wikidata.org/entity/Q208927> .
+riedel:Genis-Vell riedel:genre "masculin"@fr .
 
-riedel:Zarathos owl:sameAS <http://www.wikidata.org/entity/Q255860> .
+riedel:RumikoFujikawa riedel:genre "féminin"@fr .
 
-riedel:Dents-de-sabre owl:sameAS <http://www.wikidata.org/entity/Q431862> .
+riedel:BlackRacer riedel:genre "féminin"@fr .
 
-riedel:MillaDonovan owl:sameAS <http://www.wikidata.org/entity/Q540442> .
+riedel:ClayQuartermain riedel:genre "masculin"@fr .
 
-riedel:Two-GunKid owl:sameAS <http://www.wikidata.org/entity/Q961242> .
+riedel:HumanTorch riedel:genre "masculin"@fr .
 
-riedel:LuciavonBardas owl:sameAS <http://www.wikidata.org/entity/Q3838493> .
+riedel:PatsyWalker riedel:genre "féminin"@fr .
 
-riedel:Mr.Rotondi owl:sameAS <http://www.wikidata.org/entity/Q3866808> .
+riedel:Hepzibah riedel:genre "féminin"@fr .
 
-riedel:LeCambrioleur owl:sameAS <http://www.wikidata.org/entity/Q606569> .
+riedel:MariaStark riedel:genre "féminin"@fr .
 
-riedel:HenryPeterGyrich owl:sameAS <http://www.wikidata.org/entity/Q555791> .
+riedel:Zarathos riedel:genre "masculin"@fr .
 
-riedel:LeRhino owl:sameAS <http://www.wikidata.org/entity/Q572626> .
+riedel:Dents-de-sabre riedel:genre "masculin"@fr .
 
-riedel:Karnilla owl:sameAS <http://www.wikidata.org/entity/Q683177> .
+riedel:MillaDonovan riedel:genre "féminin"@fr .
 
-riedel:MissHulk owl:sameAS <http://www.wikidata.org/entity/Q677627> .
+riedel:Two-GunKid riedel:genre "masculin"@fr .
 
-riedel:CarolDanvers owl:sameAS <http://www.wikidata.org/entity/Q726756> .
+riedel:LuciavonBardas riedel:genre "féminin"@fr .
 
-riedel:Crotus owl:sameAS <http://www.wikidata.org/entity/Q869961> .
+riedel:Mr.Rotondi riedel:genre "masculin"@fr .
 
-riedel:Krakoa owl:sameAS <http://www.wikidata.org/entity/Q897782> .
+riedel:LeCambrioleur riedel:genre "masculin"@fr .
 
-riedel:Chattenoire owl:sameAS <http://www.wikidata.org/entity/Q912640> .
+riedel:HenryPeterGyrich riedel:genre "masculin"@fr .
 
-riedel:PepperPotts owl:sameAS <http://www.wikidata.org/entity/Q936542> .
+riedel:LeRhino riedel:genre "masculin"@fr .
 
-riedel:DocteurFatalis owl:sameAS <http://www.wikidata.org/entity/Q430178> .
+riedel:Karnilla riedel:genre "féminin"@fr .
 
-riedel:RocketRaccoon owl:sameAS <http://www.wikidata.org/entity/Q638476> .
+riedel:MissHulk riedel:genre "féminin"@fr .
 
-riedel:LePunisher owl:sameAS <http://www.wikidata.org/entity/Q729150> .
+riedel:CarolDanvers riedel:genre "féminin"@fr .
 
-riedel:ChaseStein owl:sameAS <http://www.wikidata.org/entity/Q734247> .
+riedel:Crotus riedel:genre "masculin"@fr .
 
-riedel:MasterMold owl:sameAS <http://www.wikidata.org/entity/Q746713> .
+riedel:Chattenoire riedel:genre "féminin"@fr .
 
-riedel:CassandraNova owl:sameAS <http://www.wikidata.org/entity/Q858901> .
+riedel:PepperPotts riedel:genre "féminin"@fr .
 
-riedel:DraxleDestructeur owl:sameAS <http://www.wikidata.org/entity/Q898039> .
+riedel:DocteurFatalis riedel:genre "masculin"@fr .
 
-riedel:CaptainMar-Vell owl:sameAS <http://www.wikidata.org/entity/Q927598> .
+riedel:RocketRaccoon riedel:genre "masculin"@fr .
 
-riedel:Laservivant owl:sameAS <http://www.wikidata.org/entity/Q932198> .
+riedel:LePunisher riedel:genre "masculin"@fr .
 
-riedel:SharonCarter owl:sameAS <http://www.wikidata.org/entity/Q978515> .
+riedel:ChaseStein riedel:genre "masculin"@fr .
 
-riedel:MartinSoap owl:sameAS <http://www.wikidata.org/entity/Q3850139> .
+riedel:MasterMold riedel:genre "masculin"@fr .
 
-riedel:MistyKnight owl:sameAS <http://www.wikidata.org/entity/Q3859385> .
+riedel:CassandraNova riedel:genre "féminin"@fr .
 
-riedel:Arcade owl:sameAS <http://www.wikidata.org/entity/Q931048> .
+riedel:DraxleDestructeur riedel:genre "masculin"@fr .
 
-riedel:Jubilé owl:sameAS <http://www.wikidata.org/entity/Q59665> .
+riedel:CaptainMar-Vell riedel:genre "masculin"@fr .
 
-riedel:Spider-Man owl:sameAS <http://www.wikidata.org/entity/Q79037> .
+riedel:Laservivant riedel:genre "masculin"@fr .
 
-riedel:UnionJack owl:sameAS <http://www.wikidata.org/entity/Q898165>, <http://www.wikidata.org/entity/Q7885781> .
+riedel:SharonCarter riedel:genre "féminin"@fr .
 
-riedel:Séléné owl:sameAS <http://www.wikidata.org/entity/Q369805> .
+riedel:MartinSoap riedel:genre "masculin"@fr .
 
-riedel:LeFléau owl:sameAS <http://www.wikidata.org/entity/Q841372> .
+riedel:MistyKnight riedel:genre "féminin"@fr .
 
-riedel:Blade owl:sameAS <http://www.wikidata.org/entity/Q881024> .
+riedel:Arcade riedel:genre "masculin"@fr .
 
-riedel:Bourreau owl:sameAS <http://www.wikidata.org/entity/Q260810> .
+riedel:Jubilé riedel:genre "féminin"@fr .
 
-riedel:Ronin owl:sameAS <http://www.wikidata.org/entity/Q253251> .
+riedel:Spider-Man riedel:genre "masculin"@fr .
 
-riedel:Anneaudelaliberté owl:sameAS <http://www.wikidata.org/entity/Q285634> .
+riedel:UnionJack riedel:genre "masculin"@fr .
 
-riedel:Hercule owl:sameAS <http://www.wikidata.org/entity/Q534889> .
+riedel:Séléné riedel:genre "féminin"@fr .
 
-riedel:Microchip owl:sameAS <http://www.wikidata.org/entity/Q978786> .
+riedel:LeFléau riedel:genre "masculin"@fr .
 
-riedel:Aigle owl:sameAS <http://www.wikidata.org/entity/Q671436> .
+riedel:Blade riedel:genre "masculin"@fr .
 
-riedel:GhostRider owl:sameAS <http://www.wikidata.org/entity/Q868958>, <http://www.wikidata.org/entity/Q836748>,
-    <http://www.wikidata.org/entity/Q5557137> .
+riedel:Bourreau riedel:genre "masculin"@fr .
 
-riedel:Jigsaw owl:sameAS <http://www.wikidata.org/entity/Q955796> .
+riedel:Anneaudelaliberté riedel:genre "masculin"@fr .
 
-riedel:EdwinJarvis owl:sameAS <http://www.wikidata.org/entity/Q544290> .
+riedel:Hercule riedel:genre "masculin"@fr .
 
-riedel:BaronStrucker owl:sameAS <http://www.wikidata.org/entity/Q576524> .
+riedel:Microchip riedel:genre "masculin"@fr .
 
-riedel:Uatu owl:sameAS <http://www.wikidata.org/entity/Q615226> .
+riedel:Aigle riedel:genre "masculin"@fr .
 
-riedel:Vindicator owl:sameAS <http://www.wikidata.org/entity/Q641682> .
+riedel:GhostRider riedel:genre "masculin"@fr .
 
-riedel:LeFaucon owl:sameAS <http://www.wikidata.org/entity/Q672591> .
+riedel:Jigsaw riedel:genre "masculin"@fr .
 
-riedel:RobertKelly owl:sameAS <http://www.wikidata.org/entity/Q662139> .
+riedel:EdwinJarvis riedel:genre "masculin"@fr .
 
-riedel:JoeRobertson owl:sameAS <http://www.wikidata.org/entity/Q944573> .
+riedel:BaronStrucker riedel:genre "masculin"@fr .
 
-riedel:NickFury owl:sameAS <http://www.wikidata.org/entity/Q7880226>, <http://www.wikidata.org/entity/Q975100> .
+riedel:Uatu riedel:genre "masculin"@fr .
 
-riedel:Magnéto owl:sameAS <http://www.wikidata.org/entity/Q840291> .
+riedel:Vindicator riedel:genre "féminin"@fr .
 
-riedel:Nova owl:sameAS <http://www.wikidata.org/entity/Q19398>, <http://www.wikidata.org/entity/Q2356215> .
+riedel:LeFaucon riedel:genre "masculin"@fr .
 
-riedel:Destinée owl:sameAS <http://www.wikidata.org/entity/Q1051111> .
+riedel:RobertKelly riedel:genre "masculin"@fr .
 
-riedel:Thor owl:sameAS <http://www.wikidata.org/entity/Q717588> .
+riedel:JoeRobertson riedel:genre "masculin"@fr .
 
-riedel:SpeedDemon owl:sameAS <http://www.wikidata.org/entity/Q385744> .
+riedel:NickFury riedel:genre "masculin"@fr .
 
-riedel:Jason owl:sameAS <http://www.wikidata.org/entity/Q544580> .
+riedel:Magnéto riedel:genre "masculin"@fr .
 
-riedel:Ezekiel owl:sameAS <http://www.wikidata.org/entity/Q923391> .
+riedel:Nova riedel:genre "féminin"@fr, "masculin"@fr .
 
-riedel:Mentor owl:sameAS <http://www.wikidata.org/entity/Q930794>, <http://www.wikidata.org/entity/Q16386976> .
+riedel:Destinée riedel:genre "féminin"@fr .
 
-riedel:Namor owl:sameAS <http://www.wikidata.org/entity/Q613067> .
+riedel:Thor riedel:genre "masculin"@fr .
 
-riedel:Elektra owl:sameAS <http://www.wikidata.org/entity/Q913359> .
+riedel:SpeedDemon riedel:genre "masculin"@fr .
 
-riedel:Fang owl:sameAS <http://www.wikidata.org/entity/Q551766> .
+riedel:Jason riedel:genre "masculin"@fr .
 
-riedel:Ka-Zar owl:sameAS <http://www.wikidata.org/entity/Q938086> .
+riedel:Ezekiel riedel:genre "masculin"@fr .
 
-riedel:Riot owl:sameAS <http://www.wikidata.org/entity/Q507241> .
+riedel:Mentor riedel:genre "masculin"@fr .
 
-riedel:MillietheModel owl:sameAS <http://www.wikidata.org/entity/Q94336> .
+riedel:Namor riedel:genre "masculin"@fr .
 
-riedel:Lionheart owl:sameAS <http://www.wikidata.org/entity/Q386407> .
+riedel:Elektra riedel:genre "féminin"@fr .
 
-riedel:MaryJaneWatson owl:sameAS <http://www.wikidata.org/entity/Q27810> .
+riedel:Fang riedel:genre "masculin"@fr .
 
-riedel:Veuvenoire owl:sameAS <http://www.wikidata.org/entity/Q369197> .
+riedel:Ka-Zar riedel:genre "masculin"@fr .
 
-riedel:Magma owl:sameAS <http://www.wikidata.org/entity/Q3843256> .
+riedel:Riot riedel:genre "agenre"@fr .
 
-riedel:Mojo owl:sameAS <http://www.wikidata.org/entity/Q632369> .
+riedel:MillietheModel riedel:genre "féminin"@fr .
 
-riedel:MisterSinistre owl:sameAS <http://www.wikidata.org/entity/Q302534> .
+riedel:Lionheart riedel:genre "féminin"@fr .
 
-riedel:Zaran owl:sameAS <http://www.wikidata.org/entity/Q368056> .
+riedel:MaryJaneWatson riedel:genre "féminin"@fr .
 
-riedel:Bullseye owl:sameAS <http://www.wikidata.org/entity/Q388316> .
+riedel:Veuvenoire riedel:genre "féminin"@fr .
 
-riedel:Ajak owl:sameAS <http://www.wikidata.org/entity/Q554230> .
+riedel:Mojo riedel:genre "masculin"@fr .
 
-riedel:NightRaven owl:sameAS <http://www.wikidata.org/entity/Q615144> .
+riedel:MisterSinistre riedel:genre "masculin"@fr .
 
-riedel:Blastaar owl:sameAS <http://www.wikidata.org/entity/Q635781> .
+riedel:Zaran riedel:genre "masculin"@fr .
 
-riedel:Sasquatch owl:sameAS <http://www.wikidata.org/entity/Q744104> .
+riedel:Bullseye riedel:genre "masculin"@fr .
 
-riedel:Sorcier owl:sameAS <http://www.wikidata.org/entity/Q740257> .
+riedel:Ajak riedel:genre "masculin"@fr .
 
-riedel:Crossbones owl:sameAS <http://www.wikidata.org/entity/Q647315> .
+riedel:NightRaven riedel:genre "masculin"@fr .
 
-riedel:LaPanthèrenoire owl:sameAS <http://www.wikidata.org/entity/Q998220> .
+riedel:Blastaar riedel:genre "masculin"@fr .
 
-riedel:ShiverMan owl:sameAS <http://www.wikidata.org/entity/Q980846> .
+riedel:Sasquatch riedel:genre "masculin"@fr .
 
-riedel:MoonKnight owl:sameAS <http://www.wikidata.org/entity/Q1037532> .
+riedel:Sorcier riedel:genre "masculin"@fr .
 
-riedel:Magus owl:sameAS <http://www.wikidata.org/entity/Q385246> .
+riedel:Crossbones riedel:genre "masculin"@fr .
 
-riedel:Exorciste owl:sameAS <http://www.wikidata.org/entity/Q509235> .
+riedel:LaPanthèrenoire riedel:genre "masculin"@fr .
 
-riedel:Hulk owl:sameAS <http://www.wikidata.org/entity/Q188760> .
+riedel:ShiverMan riedel:genre "masculin"@fr .
 
-riedel:Tornade owl:sameAS <http://www.wikidata.org/entity/Q632212> .
+riedel:MoonKnight riedel:genre "masculin"@fr .
 
-riedel:AgentX owl:sameAS <http://www.wikidata.org/entity/Q1054789> .
+riedel:Magus riedel:genre "masculin"@fr .
 
-riedel:Belasco owl:sameAS <http://www.wikidata.org/entity/Q750828> .
+riedel:Exorciste riedel:genre "masculin"@fr .
 
-riedel:BeautifulDreamer owl:sameAS <http://www.wikidata.org/entity/Q722277> .
+riedel:Hulk riedel:genre "masculin"@fr .
 
-riedel:Démolisseur owl:sameAS <http://www.wikidata.org/entity/Q654551> .
+riedel:Tornade riedel:genre "féminin"@fr .
 
-riedel:LaChose owl:sameAS <http://www.wikidata.org/entity/Q910204> .
+riedel:AgentX riedel:genre "masculin"@fr .
 
-riedel:GwenStacy owl:sameAS <http://www.wikidata.org/entity/Q945817> .
+riedel:Belasco riedel:genre "masculin"@fr .
 
-riedel:ScottLang owl:sameAS <http://www.wikidata.org/entity/Q81787> .
+riedel:BeautifulDreamer riedel:genre "féminin"@fr .
 
-riedel:Wolverine owl:sameAS <http://www.wikidata.org/entity/Q186422> .
+riedel:Démolisseur riedel:genre "masculin"@fr .
 
-riedel:Dominus owl:sameAS <http://www.wikidata.org/entity/Q281174> .
+riedel:LaChose riedel:genre "masculin"@fr .
 
-riedel:Nemrod owl:sameAS <http://www.wikidata.org/entity/Q887309> .
+riedel:GwenStacy riedel:genre "féminin"@fr .
 
-riedel:IronMan owl:sameAS <http://www.wikidata.org/entity/Q180704> .
+riedel:ScottLang riedel:genre "masculin"@fr .
 
-riedel:FlashThompson owl:sameAS <http://www.wikidata.org/entity/Q552000> .
+riedel:Wolverine riedel:genre "masculin"@fr .
 
-riedel:SisterSin owl:sameAS <http://www.wikidata.org/entity/Q577086> .
+riedel:IronMan riedel:genre "masculin"@fr .
 
-riedel:LeHurleur owl:sameAS <http://www.wikidata.org/entity/Q647105> .
+riedel:FlashThompson riedel:genre "masculin"@fr .
 
-riedel:LaylaMiller owl:sameAS <http://www.wikidata.org/entity/Q744170> .
+riedel:SisterSin riedel:genre "féminin"@fr .
 
-riedel:Suaire owl:sameAS <http://www.wikidata.org/entity/Q945117> .
+riedel:LeHurleur riedel:genre "masculin"@fr .
 
-riedel:Arkon owl:sameAS <http://www.wikidata.org/entity/Q961019> .
+riedel:LaylaMiller riedel:genre "féminin"@fr .
 
-riedel:DocteurStrange owl:sameAS <http://www.wikidata.org/entity/Q907767> .
+riedel:Suaire riedel:genre "masculin"@fr .
 
-riedel:Monako owl:sameAS <http://www.wikidata.org/entity/Q3860391> .
+riedel:Arkon riedel:genre "masculin"@fr .
 
-riedel:Moondark owl:sameAS <http://www.wikidata.org/entity/Q3862764> .
+riedel:DocteurStrange riedel:genre "masculin"@fr .
 
-riedel:Heimdall owl:sameAS <http://www.wikidata.org/entity/Q1139706> .
+riedel:Monako riedel:genre "masculin"@fr .
 
-riedel:HommeModulaire owl:sameAS <http://www.wikidata.org/entity/Q3139753> .
+riedel:Heimdall riedel:genre "masculin"@fr .
 
-riedel:IronFist owl:sameAS <http://www.wikidata.org/entity/Q1194243> .
+riedel:HommeModulaire riedel:genre "masculin"@fr .
 
-riedel:Phastos owl:sameAS <http://www.wikidata.org/entity/Q3378650> .
+riedel:IronFist riedel:genre "masculin"@fr .
 
-riedel:Satana owl:sameAS <http://www.wikidata.org/entity/Q3473863> .
+riedel:Satana riedel:genre "féminin"@fr .
 
-riedel:Set owl:sameAS <http://www.wikidata.org/entity/Q3480615> .
+riedel:Set riedel:genre "masculin"@fr .
 
-riedel:ShaShan owl:sameAS <http://www.wikidata.org/entity/Q3481117> .
+riedel:Shaman riedel:genre "masculin"@fr .
 
-riedel:Shaman owl:sameAS <http://www.wikidata.org/entity/Q3481293> .
+riedel:SilverDagger riedel:genre "masculin"@fr .
 
-riedel:SilverDagger owl:sameAS <http://www.wikidata.org/entity/Q3483990> .
+riedel:FrèreVaudou riedel:genre "masculin"@fr .
 
-riedel:FrèreVaudou owl:sameAS <http://www.wikidata.org/entity/Q1149808> .
+riedel:Klaatu riedel:genre "masculin"@fr .
 
-riedel:Klaatu owl:sameAS <http://www.wikidata.org/entity/Q3197716> .
+riedel:BarneyBarton riedel:genre "masculin"@fr .
 
-riedel:BarneyBarton owl:sameAS <http://www.wikidata.org/entity/Q1393840> .
+riedel:Hellrazor riedel:genre "masculin"@fr .
 
-riedel:Hellrazor owl:sameAS <http://www.wikidata.org/entity/Q1403316> .
+riedel:Geirrodur riedel:genre "masculin"@fr .
 
-riedel:Geirrodur owl:sameAS <http://www.wikidata.org/entity/Q3100189> .
+riedel:JackO%27Diamonds riedel:genre "masculin"@fr .
 
-riedel:JackO%27Diamonds owl:sameAS <http://www.wikidata.org/entity/Q3157285> .
+riedel:Phaeder riedel:genre "masculin"@fr .
 
-riedel:Phaeder owl:sameAS <http://www.wikidata.org/entity/Q3377938> .
+riedel:Caiera riedel:genre "féminin"@fr .
 
-riedel:Caiera owl:sameAS <http://www.wikidata.org/entity/Q1130690> .
+riedel:JackFlag riedel:genre "masculin"@fr .
 
-riedel:JackFlag owl:sameAS <http://www.wikidata.org/entity/Q1168504> .
+riedel:Skaar riedel:genre "masculin"@fr .
 
-riedel:Skaar owl:sameAS <http://www.wikidata.org/entity/Q1394575> .
+riedel:Korath riedel:genre "masculin"@fr .
 
-riedel:Super-adaptoïde owl:sameAS <http://www.wikidata.org/entity/Q1408114> .
+riedel:SewardTrainer riedel:genre "masculin"@fr .
 
-riedel:Korath owl:sameAS <http://www.wikidata.org/entity/Q3198900> .
+riedel:Silverclaw riedel:genre "féminin"@fr .
 
-riedel:SewardTrainer owl:sameAS <http://www.wikidata.org/entity/Q3480848> .
+riedel:ChampionoftheUniverse riedel:genre "masculin"@fr .
 
-riedel:Silverclaw owl:sameAS <http://www.wikidata.org/entity/Q3484019> .
+riedel:LizAllen riedel:genre "féminin"@fr .
 
-riedel:ChampionoftheUniverse owl:sameAS <http://www.wikidata.org/entity/Q5070048> .
+riedel:BaronBlood riedel:genre "masculin"@fr .
 
-riedel:LizAllen owl:sameAS <http://www.wikidata.org/entity/Q1132203> .
+riedel:N%27astirh riedel:genre "masculin"@fr .
 
-riedel:BaronBlood owl:sameAS <http://www.wikidata.org/entity/Q1168440> .
+riedel:Morlun riedel:genre "masculin"@fr .
 
-riedel:N%27astirh owl:sameAS <http://www.wikidata.org/entity/Q1222745> .
+riedel:Garokk riedel:genre "masculin"@fr .
 
-riedel:Morlun owl:sameAS <http://www.wikidata.org/entity/Q1425172> .
+riedel:GraydonCreed riedel:genre "masculin"@fr .
 
-riedel:Garokk owl:sameAS <http://www.wikidata.org/entity/Q3098432> .
+riedel:JohnCarik riedel:genre "masculin"@fr .
 
-riedel:GraydonCreed owl:sameAS <http://www.wikidata.org/entity/Q3115851> .
+riedel:Shadrac riedel:genre "masculin"@fr .
 
-riedel:ImusChampion owl:sameAS <http://www.wikidata.org/entity/Q3149576> .
+riedel:ChiefExaminer riedel:genre "masculin"@fr .
 
-riedel:JohnCarik owl:sameAS <http://www.wikidata.org/entity/Q3181193> .
+riedel:CliveReston riedel:genre "masculin"@fr .
 
-riedel:Shadrac owl:sameAS <http://www.wikidata.org/entity/Q3481183> .
+riedel:Frankenstein%27sMonster riedel:genre "masculin"@fr .
 
-riedel:ChiefExaminer owl:sameAS <http://www.wikidata.org/entity/Q5096734> .
+riedel:BenUrich riedel:genre "masculin"@fr .
 
-riedel:CliveReston owl:sameAS <http://www.wikidata.org/entity/Q5134657> .
+riedel:LeBolide riedel:genre "masculin"@fr .
 
-riedel:Frankenstein%27sMonster owl:sameAS <http://www.wikidata.org/entity/Q1131389> .
+riedel:Hommepourpre riedel:genre "masculin"@fr .
 
-riedel:CircuitBreaker owl:sameAS <http://www.wikidata.org/entity/Q5121574> .
+riedel:PercivalPinkerton riedel:genre "masculin"@fr .
 
-riedel:BenUrich owl:sameAS <http://www.wikidata.org/entity/Q1150975> .
+riedel:RazaLong-Couteau riedel:genre "masculin"@fr .
 
-riedel:Foolkiller owl:sameAS <http://www.wikidata.org/entity/Q1173022> .
+riedel:Cat-Man riedel:genre "masculin"@fr .
 
-riedel:LeBolide owl:sameAS <http://www.wikidata.org/entity/Q1402209> .
+riedel:Ch%27od riedel:genre "masculin"@fr .
 
-riedel:Hommepourpre owl:sameAS <http://www.wikidata.org/entity/Q3139793> .
+riedel:FoggyNelson riedel:genre "masculin"@fr .
 
-riedel:PercivalPinkerton owl:sameAS <http://www.wikidata.org/entity/Q3375156> .
+riedel:L%27Hommeimpossible riedel:genre "masculin"@fr .
 
-riedel:RazaLong-Couteau owl:sameAS <http://www.wikidata.org/entity/Q3421361> .
+riedel:Moissonneur riedel:genre "masculin"@fr .
 
-riedel:CaptainMidlands owl:sameAS <http://www.wikidata.org/entity/Q5036732> .
+riedel:CalebHammer riedel:genre "masculin"@fr .
 
-riedel:Cat-Man owl:sameAS <http://www.wikidata.org/entity/Q5050980> .
+riedel:Dracula riedel:genre "masculin"@fr .
 
-riedel:Centurious owl:sameAS <http://www.wikidata.org/entity/Q5063090> .
+riedel:Joystick riedel:genre "féminin"@fr .
 
-riedel:Ch%27od owl:sameAS <http://www.wikidata.org/entity/Q5065882> .
+riedel:Ragnarok riedel:genre "masculin"@fr .
 
-riedel:FoggyNelson owl:sameAS <http://www.wikidata.org/entity/Q1096719> .
+riedel:Kangourou riedel:genre "masculin"@fr .
 
-riedel:L%27Hommeimpossible owl:sameAS <http://www.wikidata.org/entity/Q1149855> .
+riedel:Cerberus riedel:genre "mâle"@fr .
 
-riedel:Moissonneur owl:sameAS <http://www.wikidata.org/entity/Q3109958> .
+riedel:Spitfire riedel:genre "féminin"@fr .
 
-riedel:Headlok owl:sameAS <http://www.wikidata.org/entity/Q3128999> .
+riedel:Fantôme riedel:genre "masculin"@fr .
 
-riedel:Ranark owl:sameAS <http://www.wikidata.org/entity/Q3418767> .
+riedel:Odin riedel:genre "masculin"@fr .
 
-riedel:SchizoidMan owl:sameAS <http://www.wikidata.org/entity/Q3475359> .
+riedel:ShootingStar riedel:genre "féminin"@fr .
 
-riedel:CalebHammer owl:sameAS <http://www.wikidata.org/entity/Q5019250> .
+riedel:Vengeance riedel:genre "masculin"@fr .
 
-riedel:CoalTiger owl:sameAS <http://www.wikidata.org/entity/Q5137783> .
+riedel:Kronos riedel:genre "masculin"@fr .
 
-riedel:Shiva owl:sameAS <http://www.wikidata.org/entity/Q3482395> .
+riedel:Shanna riedel:genre "féminin"@fr .
 
-riedel:Dracula owl:sameAS <http://www.wikidata.org/entity/Q1131724> .
+riedel:Guardian riedel:genre "masculin"@fr .
 
-riedel:Joystick owl:sameAS <http://www.wikidata.org/entity/Q3187261> .
+riedel:Quasar riedel:genre "masculin"@fr .
 
-riedel:Prodigy owl:sameAS <http://www.wikidata.org/entity/Q3406639> .
+riedel:Blizzard riedel:genre "masculin"@fr .
 
-riedel:Ragnarok owl:sameAS <http://www.wikidata.org/entity/Q1394613> .
+riedel:Gorgone riedel:genre "masculin"@fr .
 
-riedel:Kangourou owl:sameAS <http://www.wikidata.org/entity/Q3192657> .
+riedel:Jardinier riedel:genre "masculin"@fr .
 
-riedel:Cerberus owl:sameAS <http://www.wikidata.org/entity/Q5063908> .
+riedel:Satannish riedel:genre "masculin"@fr .
 
-riedel:Spitfire owl:sameAS <http://www.wikidata.org/entity/Q3493623> .
+riedel:CameronHodge riedel:genre "masculin"@fr .
 
-riedel:Oblivion owl:sameAS <http://www.wikidata.org/entity/Q3348240> .
+riedel:CaptainUltra riedel:genre "masculin"@fr .
 
-riedel:Fantôme owl:sameAS <http://www.wikidata.org/entity/Q1168830>, <http://www.wikidata.org/entity/Q3066649> .
+riedel:CombatColin riedel:genre "masculin"@fr .
 
-riedel:Odin owl:sameAS <http://www.wikidata.org/entity/Q1319513> .
+riedel:Candra riedel:genre "féminin"@fr .
 
-riedel:Captain owl:sameAS <http://www.wikidata.org/entity/Q5036516> .
+riedel:Harfang riedel:genre "féminin"@fr .
 
-riedel:ShootingStar owl:sameAS <http://www.wikidata.org/entity/Q3482472> .
+riedel:Loki riedel:genre "genre-fluide"@fr .
 
-riedel:Vengeance owl:sameAS <http://www.wikidata.org/entity/Q1113901> .
+riedel:JaneFoster riedel:genre "féminin"@fr .
 
-riedel:Kronos owl:sameAS <http://www.wikidata.org/entity/Q3199922> .
+riedel:ChristianWalker riedel:genre "masculin"@fr .
 
-riedel:Shanna owl:sameAS <http://www.wikidata.org/entity/Q1170251> .
+riedel:Héra riedel:genre "féminin"@fr .
 
-riedel:Guardian owl:sameAS <http://www.wikidata.org/entity/Q1410619> .
+riedel:MariaHill riedel:genre "féminin"@fr .
 
-riedel:Puck owl:sameAS <http://www.wikidata.org/entity/Q3410524> .
+riedel:Rattler riedel:genre "masculin"@fr .
 
-riedel:Quasar owl:sameAS <http://www.wikidata.org/entity/Q1992429>, <http://www.wikidata.org/entity/Q5142064> .
+riedel:Arès riedel:genre "masculin"@fr .
 
-riedel:Clown owl:sameAS <http://www.wikidata.org/entity/Q5136024> .
+riedel:Killjoy riedel:genre "masculin"@fr .
 
-riedel:Geist owl:sameAS <http://www.wikidata.org/entity/Q3100198> .
+riedel:Dieu riedel:genre "hermaphrodisme"@fr .
 
-riedel:Blizzard owl:sameAS <http://www.wikidata.org/entity/Q3142385> .
+riedel:Orka riedel:genre "masculin"@fr .
 
-riedel:Gorgone owl:sameAS <http://www.wikidata.org/entity/Q3359399> .
+riedel:Étranger riedel:genre "masculin"@fr .
 
-riedel:Halflife owl:sameAS <http://www.wikidata.org/entity/Q3125958> .
+riedel:LeMaîtredesmaléfices riedel:genre "masculin"@fr .
 
-riedel:Homme-Gorille owl:sameAS <http://www.wikidata.org/entity/Q3139736> .
+riedel:Patriote riedel:genre "masculin"@fr .
 
-riedel:Korg owl:sameAS <http://www.wikidata.org/entity/Q3198935> .
+riedel:S%27ym riedel:genre "masculin"@fr .
 
-riedel:Jardinier owl:sameAS <http://www.wikidata.org/entity/Q3162643> .
+riedel:DaisyJohnson riedel:genre "féminin"@fr .
 
-riedel:Phobos owl:sameAS <http://www.wikidata.org/entity/Q3381348> .
+riedel:IsaiahBradley riedel:genre "masculin"@fr .
 
-riedel:Possesseur owl:sameAS <http://www.wikidata.org/entity/Q3399689> .
+riedel:Slyde riedel:genre "masculin"@fr .
 
-riedel:RollerSkater owl:sameAS <http://www.wikidata.org/entity/Q3440451> .
+riedel:Aegis riedel:genre "féminin"@fr, "masculin"@fr .
 
-riedel:Satannish owl:sameAS <http://www.wikidata.org/entity/Q3473873> .
+riedel:Phalène riedel:genre "féminin"@fr .
 
-riedel:Scarabée owl:sameAS <http://www.wikidata.org/entity/Q1168065> .
+riedel:Kimura riedel:genre "féminin"@fr .
 
-riedel:Perun owl:sameAS <http://www.wikidata.org/entity/Q3376197> .
+riedel:MargaliSzardos riedel:genre "féminin"@fr .
 
-riedel:Buzz owl:sameAS <http://www.wikidata.org/entity/Q5003506> .
+riedel:Phyla-Vell riedel:genre "féminin"@fr .
 
-riedel:CameronHodge owl:sameAS <http://www.wikidata.org/entity/Q5026269> .
+riedel:Snapdragon riedel:genre "féminin"@fr .
 
-riedel:CaptainUltra owl:sameAS <http://www.wikidata.org/entity/Q5036840> .
+riedel:HappyHogan riedel:genre "masculin"@fr .
 
-riedel:Challenger owl:sameAS <http://www.wikidata.org/entity/Q5068947> .
+riedel:Weasel riedel:genre "masculin"@fr .
 
-riedel:Cipher owl:sameAS <http://www.wikidata.org/entity/Q5121266> .
+riedel:Graymalkin riedel:genre "masculin"@fr .
 
-riedel:CombatColin owl:sameAS <http://www.wikidata.org/entity/Q5150610> .
+riedel:Battlestar riedel:genre "masculin"@fr .
 
-riedel:Rage owl:sameAS <http://www.wikidata.org/entity/Q3417464> .
+riedel:GlennTalbot riedel:genre "masculin"@fr .
 
-riedel:Ravenous owl:sameAS <http://www.wikidata.org/entity/Q3420273> .
+riedel:Air-Walker riedel:genre "masculin"@fr .
 
-riedel:Candra owl:sameAS <http://www.wikidata.org/entity/Q5032038> .
+riedel:Immortus riedel:genre "masculin"@fr .
 
-riedel:Harfang owl:sameAS <http://www.wikidata.org/entity/Q3127430> .
+riedel:LadyDorma riedel:genre "féminin"@fr .
 
-riedel:Loki owl:sameAS <http://www.wikidata.org/entity/Q1147326> .
+riedel:CassandraLang riedel:genre "féminin"@fr .
 
-riedel:Butterball owl:sameAS <http://www.wikidata.org/entity/Q5002848> .
+riedel:CourtneyRoss riedel:genre "féminin"@fr .
 
-riedel:JaneFoster owl:sameAS <http://www.wikidata.org/entity/Q1370752> .
+riedel:Agamotto riedel:genre "masculin"@fr .
 
-riedel:ChristianWalker owl:sameAS <http://www.wikidata.org/entity/Q5110260> .
+riedel:MalcolmColcord riedel:genre "masculin"@fr .
 
-riedel:Héra owl:sameAS <http://www.wikidata.org/entity/Q3144988> .
+riedel:BlackTarantula riedel:genre "masculin"@fr .
 
-riedel:MariaHill owl:sameAS <http://www.wikidata.org/entity/Q1319784> .
+riedel:PhantomBullet riedel:genre "masculin"@fr .
 
-riedel:Rattler owl:sameAS <http://www.wikidata.org/entity/Q3420153> .
+riedel:Thorpool riedel:genre "masculin"@fr .
 
-riedel:Arès owl:sameAS <http://www.wikidata.org/entity/Q1277573> .
+riedel:DakimhtheEnchanter riedel:genre "masculin"@fr .
 
-riedel:Killjoy owl:sameAS <http://www.wikidata.org/entity/Q3196652> .
+riedel:DanielDrumm riedel:genre "masculin"@fr .
 
-riedel:Dieu owl:sameAS <http://www.wikidata.org/entity/Q1421468> .
+riedel:Naga riedel:genre "masculin"@fr .
 
-riedel:Orka owl:sameAS <http://www.wikidata.org/entity/Q3356429> .
+riedel:Stardust riedel:genre "féminin"@fr .
 
-riedel:Gauntlet owl:sameAS <http://www.wikidata.org/entity/Q3099457> .
+riedel:Ink riedel:genre "masculin"@fr .
 
-riedel:Étranger owl:sameAS <http://www.wikidata.org/entity/Q1168494> .
+riedel:LeCaïd riedel:genre "masculin"@fr .
 
-riedel:LeMaîtredesmaléfices owl:sameAS <http://www.wikidata.org/entity/Q1093359> .
+riedel:Carnage riedel:genre "masculin"@fr .
 
-riedel:Patriote owl:sameAS <http://www.wikidata.org/entity/Q1402575> .
+riedel:Nox riedel:genre "féminin"@fr .
 
-riedel:S%27ym owl:sameAS <http://www.wikidata.org/entity/Q1315642> .
+riedel:Galactus riedel:genre "masculin"@fr .
 
-riedel:DaisyJohnson owl:sameAS <http://www.wikidata.org/entity/Q1424480> .
+riedel:IronLad riedel:genre "masculin"@fr .
 
-riedel:Proctor owl:sameAS <http://www.wikidata.org/entity/Q3406471> .
+riedel:BlackWidow riedel:genre "féminin"@fr .
 
-riedel:IsaiahBradley owl:sameAS <http://www.wikidata.org/entity/Q3155104> .
+riedel:Destroyer riedel:genre "masculin"@fr .
 
-riedel:PuffAdder owl:sameAS <http://www.wikidata.org/entity/Q3410600> .
+riedel:Aron riedel:genre "masculin"@fr .
 
-riedel:RedWolf owl:sameAS <http://www.wikidata.org/entity/Q3422805> .
+riedel:Andromeda riedel:genre "féminin"@fr .
 
-riedel:Slyde owl:sameAS <http://www.wikidata.org/entity/Q3486816> .
+riedel:Letha riedel:genre "féminin"@fr .
 
-riedel:Goldbug owl:sameAS <http://www.wikidata.org/entity/Q3110018> .
+riedel:Microbe riedel:genre "masculin"@fr .
 
-riedel:Aegis owl:sameAS <http://www.wikidata.org/entity/Q1407054>, <http://www.wikidata.org/entity/Q4687619> .
+riedel:SharonVentura riedel:genre "féminin"@fr .
 
-riedel:Phalène owl:sameAS <http://www.wikidata.org/entity/Q3378034> .
+riedel:Rose riedel:genre "féminin"@fr .
 
-riedel:Komodo owl:sameAS <http://www.wikidata.org/entity/Q3198564> .
+riedel:Infinity riedel:genre "féminin"@fr .
 
-riedel:Kimura owl:sameAS <http://www.wikidata.org/entity/Q3196932> .
+riedel:Topaze riedel:genre "féminin"@fr .
 
-riedel:MargaliSzardos owl:sameAS <http://www.wikidata.org/entity/Q1165043> .
+riedel:Deathwatch riedel:genre "masculin"@fr .
 
-riedel:Phyla-Vell owl:sameAS <http://www.wikidata.org/entity/Q1235121> .
+riedel:ScarletSpider riedel:genre "mâle"@fr .
 
-riedel:Snapdragon owl:sameAS <http://www.wikidata.org/entity/Q3487126> .
+riedel:Thundra riedel:genre "féminin"@fr .
 
-riedel:HappyHogan owl:sameAS <http://www.wikidata.org/entity/Q1319498> .
+riedel:D%27Spayre riedel:genre "masculin"@fr .
 
-riedel:Weasel owl:sameAS <http://www.wikidata.org/entity/Q1403772> .
+riedel:Menace riedel:genre "féminin"@fr .
 
-riedel:Graymalkin owl:sameAS <http://www.wikidata.org/entity/Q3115862> .
+riedel:Fantasia riedel:genre "féminin"@fr .
 
-riedel:Hijacker owl:sameAS <http://www.wikidata.org/entity/Q3135474> .
+riedel:Sunstroke riedel:genre "masculin"@fr .
 
-riedel:Battlestar owl:sameAS <http://www.wikidata.org/entity/Q1168463> .
+riedel:Talisman riedel:genre "féminin"@fr .
 
-riedel:GlennTalbot owl:sameAS <http://www.wikidata.org/entity/Q3108827> .
+riedel:Overlord riedel:genre "masculin"@fr .
 
-riedel:Air-Walker owl:sameAS <http://www.wikidata.org/entity/Q1605367> .
+riedel:LeMaître riedel:genre "masculin"@fr .
 
-riedel:Immortus owl:sameAS <http://www.wikidata.org/entity/Q3543422> .
+riedel:Barracuda riedel:genre "masculin"@fr .
 
-riedel:LadyDorma owl:sameAS <http://www.wikidata.org/entity/Q3543851> .
+riedel:MisterHyde riedel:genre "masculin"@fr .
 
-riedel:CassandraLang owl:sameAS <http://www.wikidata.org/entity/Q3968689> .
+riedel:Delilah riedel:genre "féminin"@fr .
 
-riedel:CourtneyRoss owl:sameAS <http://www.wikidata.org/entity/Q5178659> .
+riedel:DemonHunter riedel:genre "masculin"@fr .
 
-riedel:Desak owl:sameAS <http://www.wikidata.org/entity/Q5263611> .
+riedel:Absalom riedel:genre "masculin"@fr .
 
-riedel:Agamotto owl:sameAS <http://www.wikidata.org/entity/Q1463221> .
+riedel:BlackBox riedel:genre "masculin"@fr .
 
-riedel:MalcolmColcord owl:sameAS <http://www.wikidata.org/entity/Q3281680> .
+riedel:Cloud9 riedel:genre "féminin"@fr .
 
-riedel:BlackMarvel owl:sameAS <http://www.wikidata.org/entity/Q3544444> .
+riedel:JohnSublime riedel:genre "masculin"@fr .
 
-riedel:BlackTarantula owl:sameAS <http://www.wikidata.org/entity/Q3544440> .
+riedel:Deadpool riedel:genre "masculin"@fr .
 
-riedel:Trickshot owl:sameAS <http://www.wikidata.org/entity/Q3539043> .
+riedel:Sway riedel:genre "féminin"@fr .
 
-riedel:PhantomBullet owl:sameAS <http://www.wikidata.org/entity/Q3901265> .
+riedel:MomieVivante riedel:genre "masculin"@fr .
 
-riedel:Thorpool owl:sameAS <http://www.wikidata.org/entity/Q3990813> .
+riedel:NathanielRichards riedel:genre "masculin"@fr .
 
-riedel:DakimhtheEnchanter owl:sameAS <http://www.wikidata.org/entity/Q5209954> .
+riedel:LaughingMask riedel:genre "masculin"@fr .
 
-riedel:DanielDrumm owl:sameAS <http://www.wikidata.org/entity/Q5217006> .
+riedel:PinkPearl riedel:genre "féminin"@fr .
 
-riedel:Naga owl:sameAS <http://www.wikidata.org/entity/Q3335047> .
+riedel:Death%27s-Head%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:Solo owl:sameAS <http://www.wikidata.org/entity/Q3964376> .
+riedel:DinahSoar riedel:genre "féminin"@fr .
 
-riedel:Mandrill owl:sameAS <http://www.wikidata.org/entity/Q3285571> .
+riedel:Armadillo riedel:genre "masculin"@fr .
 
-riedel:Stardust owl:sameAS <http://www.wikidata.org/entity/Q3497111> .
+riedel:ElAguila riedel:genre "masculin"@fr .
 
-riedel:Trauma owl:sameAS <http://www.wikidata.org/entity/Q3538104> .
+riedel:Doop riedel:genre "masculin"@fr .
 
-riedel:Maelstrom owl:sameAS <http://www.wikidata.org/entity/Q3276326> .
+riedel:Terminus riedel:genre "masculin"@fr .
 
-riedel:Ink owl:sameAS <http://www.wikidata.org/entity/Q1648739> .
+riedel:AletaOgord riedel:genre "féminin"@fr .
 
-riedel:DarkAngel owl:sameAS <http://www.wikidata.org/entity/Q5223134> .
+riedel:LePenseurfou riedel:genre "masculin"@fr .
 
-riedel:Mirage owl:sameAS <http://www.wikidata.org/entity/Q3315842> .
+riedel:Spider-ManNoir riedel:genre "masculin"@fr .
 
-riedel:Fafnir owl:sameAS <http://www.wikidata.org/entity/Q3297367> .
+riedel:ApacheKid riedel:genre "masculin"@fr .
 
-riedel:LeCaïd owl:sameAS <http://www.wikidata.org/entity/Q1753322> .
+riedel:Bereet riedel:genre "féminin"@fr .
 
-riedel:Carnage owl:sameAS <http://www.wikidata.org/entity/Q1753328> .
+riedel:Spiritof%2776 riedel:genre "masculin"@fr .
 
-riedel:Nox owl:sameAS <http://www.wikidata.org/entity/Q3345635> .
+riedel:DakotaNorth riedel:genre "féminin"@fr .
 
-riedel:Sprite owl:sameAS <http://www.wikidata.org/entity/Q3967283> .
+riedel:Elysius riedel:genre "féminin"@fr .
 
-riedel:Galactus owl:sameAS <http://www.wikidata.org/entity/Q1429836> .
+riedel:Surtur riedel:genre "masculin"@fr .
 
-riedel:IronLad owl:sameAS <http://www.wikidata.org/entity/Q1447287> .
+riedel:Manbot riedel:genre "masculin"@fr .
 
-riedel:DeathMetal owl:sameAS <http://www.wikidata.org/entity/Q5247170> .
+riedel:MisterNegative riedel:genre "masculin"@fr .
 
-riedel:Nighthawk owl:sameAS <http://www.wikidata.org/entity/Q3341413> .
+riedel:NedLeeds riedel:genre "masculin"@fr .
 
-riedel:BlackWidow owl:sameAS <http://www.wikidata.org/entity/Q3544992> .
+riedel:Tatterdemalion riedel:genre "masculin"@fr .
 
-riedel:Destroyer owl:sameAS <http://www.wikidata.org/entity/Q3549354>, <http://www.wikidata.org/entity/Q2473486>,
-    <http://www.wikidata.org/entity/Q5265360> .
+riedel:ThorGirl riedel:genre "féminin"@fr .
 
-riedel:Aron owl:sameAS <http://www.wikidata.org/entity/Q1748505> .
+riedel:CrimsonCurse riedel:genre "féminin"@fr .
 
-riedel:Andromeda owl:sameAS <http://www.wikidata.org/entity/Q1645950> .
+riedel:DemonBear riedel:genre "masculin"@fr .
 
-riedel:Mayhem owl:sameAS <http://www.wikidata.org/entity/Q3302974> .
+riedel:DirkAnger riedel:genre "masculin"@fr .
 
-riedel:Letha owl:sameAS <http://www.wikidata.org/entity/Q3236889> .
+riedel:DavidMoreau riedel:genre "masculin"@fr .
 
-riedel:Llan owl:sameAS <http://www.wikidata.org/entity/Q3257489> .
+riedel:Idunn riedel:genre "féminin"@fr .
 
-riedel:Microbe owl:sameAS <http://www.wikidata.org/entity/Q3312055> .
+riedel:DocteurFaustus riedel:genre "masculin"@fr .
 
-riedel:SharonVentura owl:sameAS <http://www.wikidata.org/entity/Q3959215> .
+riedel:Stunner riedel:genre "féminin"@fr .
 
-riedel:NightThrasher owl:sameAS <http://www.wikidata.org/entity/Q3341396> .
+riedel:MarikoYashida riedel:genre "féminin"@fr .
 
-riedel:Rose owl:sameAS <http://www.wikidata.org/entity/Q3941234> .
+riedel:Nagala riedel:genre "féminin"@fr .
 
-riedel:Super-Axe owl:sameAS <http://www.wikidata.org/entity/Q3504036> .
+riedel:Hogun riedel:genre "masculin"@fr .
 
-riedel:Infinity owl:sameAS <http://www.wikidata.org/entity/Q3544977> .
+riedel:Jarella riedel:genre "féminin"@fr .
 
-riedel:Topaze owl:sameAS <http://www.wikidata.org/entity/Q3532068> .
+riedel:Noh-Varr riedel:genre "masculin"@fr .
 
-riedel:Deathwatch owl:sameAS <http://www.wikidata.org/entity/Q5247745> .
+riedel:PhineasHorton riedel:genre "masculin"@fr .
 
-riedel:Diamond owl:sameAS <http://www.wikidata.org/entity/Q5270721> .
+riedel:DelphyneGorgon riedel:genre "féminin"@fr .
 
-riedel:ScarletSpider owl:sameAS <http://www.wikidata.org/entity/Q3929460> .
+riedel:Lunatik riedel:genre "masculin"@fr .
 
-riedel:Thundra owl:sameAS <http://www.wikidata.org/entity/Q3990968> .
+riedel:Malekith riedel:genre "masculin"@fr .
 
-riedel:D%27Spayre owl:sameAS <http://www.wikidata.org/entity/Q5203177> .
+riedel:Mangog riedel:genre "masculin"@fr .
 
-riedel:Deacon owl:sameAS <http://www.wikidata.org/entity/Q5245011> .
+riedel:SteelWind riedel:genre "féminin"@fr .
 
-riedel:Matador owl:sameAS <http://www.wikidata.org/entity/Q3298177> .
+riedel:Stegron riedel:genre "masculin"@fr .
 
-riedel:Menace owl:sameAS <http://www.wikidata.org/entity/Q1748149> .
+riedel:SuziEndo riedel:genre "féminin"@fr .
 
-riedel:Nomad owl:sameAS <http://www.wikidata.org/entity/Q3877909> .
+riedel:PeggyCarter riedel:genre "féminin"@fr .
 
-riedel:Fantasia owl:sameAS <http://www.wikidata.org/entity/Q3512189> .
+riedel:SpackerDave riedel:genre "masculin"@fr .
 
-riedel:Sunstroke owl:sameAS <http://www.wikidata.org/entity/Q3503993> .
+riedel:CrimsonCowl riedel:genre "féminin"@fr .
 
-riedel:Talisman owl:sameAS <http://www.wikidata.org/entity/Q3514512> .
+riedel:CynthiaVonDoom riedel:genre "féminin"@fr .
 
-riedel:Overlord owl:sameAS <http://www.wikidata.org/entity/Q3887685> .
+riedel:Webwing riedel:genre "masculin"@fr .
 
-riedel:LeMaître owl:sameAS <http://www.wikidata.org/entity/Q3224430> .
+riedel:HerbertLandon riedel:genre "masculin"@fr .
 
-riedel:Barracuda owl:sameAS <http://www.wikidata.org/entity/Q3544280> .
+riedel:EdwinCord riedel:genre "masculin"@fr .
 
-riedel:TexasTwister owl:sameAS <http://www.wikidata.org/entity/Q3519352> .
+riedel:LadyLotus riedel:genre "féminin"@fr .
 
-riedel:MisterHyde owl:sameAS <http://www.wikidata.org/entity/Q1638775> .
+riedel:LeoZelinsky riedel:genre "masculin"@fr .
 
-riedel:Delilah owl:sameAS <http://www.wikidata.org/entity/Q5253976> .
+riedel:AbeBrown riedel:genre "masculin"@fr .
 
-riedel:DemonHunter owl:sameAS <http://www.wikidata.org/entity/Q5256211> .
+riedel:Bushman riedel:genre "masculin"@fr .
 
-riedel:Absalom owl:sameAS <http://www.wikidata.org/entity/Q1463241> .
+riedel:Entropy riedel:genre "masculin"@fr .
 
-riedel:BlackBox owl:sameAS <http://www.wikidata.org/entity/Q1447221> .
+riedel:Charlie-27 riedel:genre "masculin"@fr .
 
-riedel:Cloud9 owl:sameAS <http://www.wikidata.org/entity/Q1638527> .
+riedel:DmitriBukharin riedel:genre "masculin"@fr .
 
-riedel:JohnSublime owl:sameAS <http://www.wikidata.org/entity/Q1638473> .
+riedel:JudasTraveller riedel:genre "mâle"@fr .
 
-riedel:Deadpool owl:sameAS <http://www.wikidata.org/entity/Q1631090> .
+riedel:UltimateCapitanAmerica riedel:genre "masculin"@fr .
 
-riedel:Thunderstrike owl:sameAS <http://www.wikidata.org/entity/Q3526131> .
+riedel:SquirrelGirl riedel:genre "féminin"@fr .
 
-riedel:Sway owl:sameAS <http://www.wikidata.org/entity/Q1455120> .
+riedel:EliBard riedel:genre "masculin"@fr .
 
-riedel:MomieVivante owl:sameAS <http://www.wikidata.org/entity/Q3319750> .
+riedel:MahrVehl riedel:genre "masculin"@fr .
 
-riedel:NathanielRichards owl:sameAS <http://www.wikidata.org/entity/Q3336797> .
+riedel:DominicFortune riedel:genre "masculin"@fr .
 
-riedel:LaughingMask owl:sameAS <http://www.wikidata.org/entity/Q3925974> .
+riedel:GrandDirector riedel:genre "masculin"@fr .
 
-riedel:Nightmask owl:sameAS <http://www.wikidata.org/entity/Q3876793> .
+riedel:JeffreyMace riedel:genre "masculin"@fr .
 
-riedel:PinkPearl owl:sameAS <http://www.wikidata.org/entity/Q3899983> .
+riedel:KarolinaDean riedel:genre "féminin"@fr .
 
-riedel:Crusher owl:sameAS <http://www.wikidata.org/entity/Q5190228> .
+riedel:WarriorWoman riedel:genre "féminin"@fr .
 
-riedel:Deadalus owl:sameAS <http://www.wikidata.org/entity/Q5245531> .
+riedel:Xandu riedel:genre "masculin"@fr .
 
-riedel:Death%27s-Head%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q5247030> .
+riedel:YukonJack riedel:genre "masculin"@fr .
 
-riedel:Digger owl:sameAS <http://www.wikidata.org/entity/Q5275626> .
+riedel:AbrahamCornelius riedel:genre "masculin"@fr .
 
-riedel:DinahSoar owl:sameAS <http://www.wikidata.org/entity/Q5277911> .
+riedel:DonFortunato riedel:genre "masculin"@fr .
 
-riedel:Armadillo owl:sameAS <http://www.wikidata.org/entity/Q1645941> .
+riedel:ErikKillmonger riedel:genre "masculin"@fr .
 
-riedel:ElAguila owl:sameAS <http://www.wikidata.org/entity/Q1463228> .
+riedel:LeilaDavis riedel:genre "féminin"@fr .
 
-riedel:Doop owl:sameAS <http://www.wikidata.org/entity/Q3543766> .
+riedel:KristoffVernard riedel:genre "masculin"@fr .
 
-riedel:Terminus owl:sameAS <http://www.wikidata.org/entity/Q3984453> .
+riedel:UltimateBlackCat riedel:genre "féminin"@fr .
 
-riedel:AletaOgord owl:sameAS <http://www.wikidata.org/entity/Q1609790> .
+riedel:VeuveNoire riedel:genre "féminin"@fr .
 
-riedel:LePenseurfou owl:sameAS <http://www.wikidata.org/entity/Q1618103> .
+riedel:DogLogan riedel:genre "masculin"@fr .
 
-riedel:Spider-ManNoir owl:sameAS <http://www.wikidata.org/entity/Q3966701> .
+riedel:Korvus riedel:genre "masculin"@fr .
 
-riedel:MarvelBoy owl:sameAS <http://www.wikidata.org/entity/Q1994704>, <http://www.wikidata.org/entity/Q3296041> .
+riedel:Llyron riedel:genre "masculin"@fr .
 
-riedel:SteelSpider owl:sameAS <http://www.wikidata.org/entity/Q3497782> .
+riedel:MahaYogi riedel:genre "masculin"@fr .
 
-riedel:ApacheKid owl:sameAS <http://www.wikidata.org/entity/Q3543845> .
+riedel:UltraGirl riedel:genre "féminin"@fr .
 
-riedel:Bereet owl:sameAS <http://www.wikidata.org/entity/Q3544313> .
+riedel:PhilUrich riedel:genre "masculin"@fr .
 
-riedel:Spiritof%2776 owl:sameAS <http://www.wikidata.org/entity/Q3966838> .
+riedel:ElloeKaifi riedel:genre "féminin"@fr .
 
-riedel:Crippler owl:sameAS <http://www.wikidata.org/entity/Q5185846> .
+riedel:Machinesmith riedel:genre "masculin"@fr .
 
-riedel:DakotaNorth owl:sameAS <http://www.wikidata.org/entity/Q5210033> .
+riedel:Aero riedel:genre "féminin"@fr .
 
-riedel:Elysius owl:sameAS <http://www.wikidata.org/entity/Q3544423> .
+riedel:Foreigner riedel:genre "masculin"@fr .
 
-riedel:Surtur owl:sameAS <http://www.wikidata.org/entity/Q3247771> .
+riedel:Venus riedel:genre "féminin"@fr .
 
-riedel:CaptainMarvel owl:sameAS <http://www.wikidata.org/entity/Q3888882> .
+riedel:Hyperion riedel:genre "masculin"@fr .
 
-riedel:Devastator owl:sameAS <http://www.wikidata.org/entity/Q5266592> .
+riedel:Locust riedel:genre "masculin"@fr .
 
-riedel:BlackTalon owl:sameAS <http://www.wikidata.org/entity/Q1645925> .
+riedel:Angel riedel:genre "masculin"@fr .
 
-riedel:Manbot owl:sameAS <http://www.wikidata.org/entity/Q3285294> .
+riedel:Ultimo riedel:genre "masculin"@fr .
 
-riedel:MisterNegative owl:sameAS <http://www.wikidata.org/entity/Q3316968> .
+riedel:Zeus riedel:genre "masculin"@fr .
 
-riedel:NedLeeds owl:sameAS <http://www.wikidata.org/entity/Q3337686> .
+riedel:Bob riedel:genre "masculin"@fr .
 
-riedel:AwesomeAndroid owl:sameAS <http://www.wikidata.org/entity/Q3543784> .
+riedel:Answer riedel:genre "masculin"@fr .
 
-riedel:Tatterdemalion owl:sameAS <http://www.wikidata.org/entity/Q3516112> .
+riedel:Albert riedel:genre "masculin"@fr .
 
-riedel:ThorGirl owl:sameAS <http://www.wikidata.org/entity/Q3990774> .
+riedel:MiracleMan riedel:genre "masculin"@fr .
 
-riedel:CrimsonCurse owl:sameAS <http://www.wikidata.org/entity/Q5185685> .
+riedel:Cerise riedel:genre "féminin"@fr .
 
-riedel:DemonBear owl:sameAS <http://www.wikidata.org/entity/Q5256192> .
+riedel:ValentinaDeFontaine riedel:genre "féminin"@fr .
 
-riedel:DetroitSteel owl:sameAS <http://www.wikidata.org/entity/Q5266016> .
+riedel:Vertigo riedel:genre "féminin"@fr .
 
-riedel:DevilHulk owl:sameAS <http://www.wikidata.org/entity/Q5267302> .
+riedel:Arsenal riedel:genre "masculin"@fr .
 
-riedel:DirkAnger owl:sameAS <http://www.wikidata.org/entity/Q5280785> .
+riedel:DoctorMinerva riedel:genre "féminin"@fr .
 
-riedel:DavidMoreau owl:sameAS <http://www.wikidata.org/entity/Q5237698> .
+riedel:JeanGrey riedel:genre "féminin"@fr .
 
-riedel:Idunn owl:sameAS <http://www.wikidata.org/entity/Q3544261> .
+riedel:Maestro riedel:genre "masculin"@fr .
 
-riedel:DocteurFaustus owl:sameAS <http://www.wikidata.org/entity/Q1447249> .
+riedel:Gaea riedel:genre "féminin"@fr .
 
-riedel:Stunner owl:sameAS <http://www.wikidata.org/entity/Q3501133> .
+riedel:Ymir riedel:genre "masculin"@fr .
 
-riedel:MarikoYashida owl:sameAS <http://www.wikidata.org/entity/Q3293073> .
+riedel:Leir riedel:genre "masculin"@fr .
 
-riedel:Nagala owl:sameAS <http://www.wikidata.org/entity/Q3335051> .
+riedel:Vermin riedel:genre "masculin"@fr .
 
-riedel:Amphibion owl:sameAS <http://www.wikidata.org/entity/Q3543492> .
+riedel:Lich riedel:genre "masculin"@fr .
 
-riedel:Hogun owl:sameAS <http://www.wikidata.org/entity/Q3543614> .
+riedel:UrsaMajor riedel:genre "masculin"@fr .
 
-riedel:Jarella owl:sameAS <http://www.wikidata.org/entity/Q3543794> .
+riedel:Centennial riedel:genre "masculin"@fr .
 
-riedel:Noh-Varr owl:sameAS <http://www.wikidata.org/entity/Q3877735> .
+riedel:CordeliaFrost riedel:genre "féminin"@fr .
 
-riedel:PhineasHorton owl:sameAS <http://www.wikidata.org/entity/Q3901568> .
+riedel:Fandral riedel:genre "masculin"@fr .
 
-riedel:Ravage2099 owl:sameAS <http://www.wikidata.org/entity/Q3930550> .
+riedel:Tyrant riedel:genre "masculin"@fr .
 
-riedel:DallasRiordan owl:sameAS <http://www.wikidata.org/entity/Q5211397> .
+riedel:Unuscione riedel:genre "féminin"@fr .
 
-riedel:Debrii owl:sameAS <http://www.wikidata.org/entity/Q5248565> .
+riedel:UltimateColosso riedel:genre "masculin"@fr .
 
-riedel:DelphyneGorgon owl:sameAS <http://www.wikidata.org/entity/Q5254473> .
+riedel:Anarchist riedel:genre "masculin"@fr .
 
-riedel:DoctorBong owl:sameAS <http://www.wikidata.org/entity/Q5287299> .
+riedel:Left-Winger riedel:genre "masculin"@fr .
 
-riedel:Lunatik owl:sameAS <http://www.wikidata.org/entity/Q3267463> .
+riedel:LeperQueen riedel:genre "féminin"@fr .
 
-riedel:Malekith owl:sameAS <http://www.wikidata.org/entity/Q3281842> .
+riedel:Laufey riedel:genre "masculin"@fr .
 
-riedel:Mangog owl:sameAS <http://www.wikidata.org/entity/Q3285766> .
+riedel:Witchfire riedel:genre "féminin"@fr .
 
-riedel:SteelWind owl:sameAS <http://www.wikidata.org/entity/Q3497785> .
+riedel:Arcanna riedel:genre "féminin"@fr .
 
-riedel:Stegron owl:sameAS <http://www.wikidata.org/entity/Q3498060> .
+riedel:UlyssesBloodstone riedel:genre "masculin"@fr .
 
-riedel:SuziEndo owl:sameAS <http://www.wikidata.org/entity/Q3506090> .
+riedel:WyattWingfoot riedel:genre "masculin"@fr .
 
-riedel:PeggyCarter owl:sameAS <http://www.wikidata.org/entity/Q3898777> .
+riedel:Wong riedel:genre "masculin"@fr .
 
-riedel:SpackerDave owl:sameAS <http://www.wikidata.org/entity/Q3965823> .
+riedel:Elsie-Dee riedel:genre "féminin"@fr .
 
-riedel:Technovore owl:sameAS <http://www.wikidata.org/entity/Q3982493> .
+riedel:EricKoenig riedel:genre "masculin"@fr .
 
-riedel:CrimsonCowl owl:sameAS <http://www.wikidata.org/entity/Q5185686> .
+riedel:Kirigi riedel:genre "masculin"@fr .
 
-riedel:CynthiaVonDoom owl:sameAS <http://www.wikidata.org/entity/Q5200168> .
+riedel:LanceHunter riedel:genre "masculin"@fr .
 
-riedel:Webwing owl:sameAS <http://www.wikidata.org/entity/Q3567025> .
+riedel:LeeForrester riedel:genre "féminin"@fr .
 
-riedel:HerbertLandon owl:sameAS <http://www.wikidata.org/entity/Q4411736> .
+riedel:LucasBrand riedel:genre "masculin"@fr .
 
-riedel:EdwinCord owl:sameAS <http://www.wikidata.org/entity/Q5346313> .
+riedel:Ahab riedel:genre "masculin"@fr .
 
-riedel:LadyLotus owl:sameAS <http://www.wikidata.org/entity/Q6470342> .
+riedel:AbdulAlhazred riedel:genre "masculin"@fr .
 
-riedel:LeoZelinsky owl:sameAS <http://www.wikidata.org/entity/Q6524342> .
+riedel:ColleenWing riedel:genre "féminin"@fr .
 
-riedel:AbeBrown owl:sameAS <http://www.wikidata.org/entity/Q3545671> .
+riedel:Dr.Strangefate riedel:genre "masculin"@fr .
 
-riedel:Ereshkigal owl:sameAS <http://www.wikidata.org/entity/Q5385641> .
+riedel:Bouffonnoir riedel:genre "masculin"@fr .
 
-riedel:Bushman owl:sameAS <http://www.wikidata.org/entity/Q3545397> .
+riedel:AleksanderLukin riedel:genre "masculin"@fr .
 
-riedel:Entropy owl:sameAS <http://www.wikidata.org/entity/Q5380793> .
+riedel:FenrisWolf riedel:genre "masculin"@fr .
 
-riedel:Charlie-27 owl:sameAS <http://www.wikidata.org/entity/Q3547349> .
+riedel:Gargantus riedel:genre "masculin"@fr .
 
-riedel:DmitriBukharin owl:sameAS <http://www.wikidata.org/entity/Q3549645> .
+riedel:MickeyFondozzi riedel:genre "masculin"@fr .
 
-riedel:JudasTraveller owl:sameAS <http://www.wikidata.org/entity/Q3545907> .
+riedel:MissArrow riedel:genre "féminin"@fr .
 
-riedel:UltimateCapitanAmerica owl:sameAS <http://www.wikidata.org/entity/Q4003148> .
+riedel:HerrKleiser riedel:genre "masculin"@fr .
 
-riedel:Coldblood owl:sameAS <http://www.wikidata.org/entity/Q4135919> .
+riedel:MargaretPower riedel:genre "féminin"@fr .
 
-riedel:SquirrelGirl owl:sameAS <http://www.wikidata.org/entity/Q4353353> .
+riedel:MicheleGonzales riedel:genre "féminin"@fr .
 
-riedel:EliBard owl:sameAS <http://www.wikidata.org/entity/Q5360170> .
+riedel:Hecate riedel:genre "féminin"@fr .
 
-riedel:KnightsofPendragon owl:sameAS <http://www.wikidata.org/entity/Q6422462> .
+riedel:Hector riedel:genre "masculin"@fr .
 
-riedel:MahrVehl owl:sameAS <http://www.wikidata.org/entity/Q6734866> .
+riedel:Joseph riedel:genre "masculin"@fr .
 
-riedel:Kro owl:sameAS <http://www.wikidata.org/entity/Q6438700> .
+riedel:Gazelle riedel:genre "masculin"@fr .
 
-riedel:DominicFortune owl:sameAS <http://www.wikidata.org/entity/Q3550921> .
+riedel:GoldenGirl riedel:genre "féminin"@fr .
 
-riedel:GrandDirector owl:sameAS <http://www.wikidata.org/entity/Q3547398> .
+riedel:Blackheart riedel:genre "masculin"@fr .
 
-riedel:HauptmannDeutschland owl:sameAS <http://www.wikidata.org/entity/Q3545874> .
+riedel:Gargantua riedel:genre "masculin"@fr .
 
-riedel:Hulk2099 owl:sameAS <http://www.wikidata.org/entity/Q3549256> .
+riedel:Hermes riedel:genre "masculin"@fr .
 
-riedel:JeffreyMace owl:sameAS <http://www.wikidata.org/entity/Q3545581> .
+riedel:Frog-Man riedel:genre "masculin"@fr .
 
-riedel:KarolinaDean owl:sameAS <http://www.wikidata.org/entity/Q3546603> .
+riedel:GloryGrant riedel:genre "féminin"@fr .
 
-riedel:WarriorWoman owl:sameAS <http://www.wikidata.org/entity/Q3566425> .
+riedel:HaroldH.Harold riedel:genre "masculin"@fr .
 
-riedel:Xandu owl:sameAS <http://www.wikidata.org/entity/Q3570549> .
+riedel:Whiplash riedel:genre "masculin"@fr .
 
-riedel:YukonJack owl:sameAS <http://www.wikidata.org/entity/Q3573174> .
+riedel:Hawkeye riedel:genre "féminin"@fr .
 
-riedel:AbrahamCornelius owl:sameAS <http://www.wikidata.org/entity/Q4668817> .
+riedel:Hazmat riedel:genre "féminin"@fr .
 
-riedel:DoctorSun owl:sameAS <http://www.wikidata.org/entity/Q5287394> .
+riedel:Man-Beast riedel:genre "masculin"@fr .
 
-riedel:DonFortunato owl:sameAS <http://www.wikidata.org/entity/Q5292625> .
+riedel:Manphibian riedel:genre "masculin"@fr .
 
-riedel:DredmundtheDruid owl:sameAS <http://www.wikidata.org/entity/Q5306854> .
+riedel:MarkHazzard%3AMerc riedel:genre "masculin"@fr .
 
-riedel:ErikKillmonger owl:sameAS <http://www.wikidata.org/entity/Q5388669> .
+riedel:Mercy riedel:genre "féminin"@fr .
 
-riedel:EthanEdwards owl:sameAS <http://www.wikidata.org/entity/Q5402926> .
+riedel:MeteorMan riedel:genre "masculin"@fr .
 
-riedel:EvTeelUrizen owl:sameAS <http://www.wikidata.org/entity/Q5414980> .
+riedel:Gatecrasher riedel:genre "féminin"@fr .
 
-riedel:KulanGath owl:sameAS <http://www.wikidata.org/entity/Q6442781> .
+riedel:GrandMaître riedel:genre "masculin"@fr .
 
-riedel:LeilaDavis owl:sameAS <http://www.wikidata.org/entity/Q6519855> .
+riedel:SilverSable riedel:genre "féminin"@fr .
 
-riedel:Cutthroat owl:sameAS <http://www.wikidata.org/entity/Q3549222> .
+riedel:MarloChandler riedel:genre "féminin"@fr .
 
-riedel:KristoffVernard owl:sameAS <http://www.wikidata.org/entity/Q3545586> .
+riedel:AbrahamErskine riedel:genre "masculin"@fr .
 
-riedel:UltimateBlackCat owl:sameAS <http://www.wikidata.org/entity/Q4003164> .
+riedel:Galacta riedel:genre "féminin"@fr .
 
-riedel:VeuveNoire owl:sameAS <http://www.wikidata.org/entity/Q4009216> .
+riedel:MasterOrder riedel:genre "masculin"@fr .
 
-riedel:DogLogan owl:sameAS <http://www.wikidata.org/entity/Q5288205> .
+riedel:Mercuriothe4-DMan riedel:genre "masculin"@fr .
 
-riedel:Korvus owl:sameAS <http://www.wikidata.org/entity/Q6432784> .
+riedel:MoguloftheMysticMountain riedel:genre "masculin"@fr .
 
-riedel:Llyron owl:sameAS <http://www.wikidata.org/entity/Q6662951> .
+riedel:Mauvais riedel:genre "masculin"@fr .
 
-riedel:LurkingUnknown owl:sameAS <http://www.wikidata.org/entity/Q6704950> .
+riedel:Finesse riedel:genre "féminin"@fr .
 
-riedel:MahaYogi owl:sameAS <http://www.wikidata.org/entity/Q6732679> .
+riedel:Ronanl%27Accusateur riedel:genre "masculin"@fr .
 
-riedel:Mahkizmo owl:sameAS <http://www.wikidata.org/entity/Q6734162> .
+riedel:Zuras riedel:genre "masculin"@fr .
 
-riedel:GrowingMan owl:sameAS <http://www.wikidata.org/entity/Q3549055> .
+riedel:BernieRosenthal riedel:genre "féminin"@fr .
 
-riedel:UltraGirl owl:sameAS <http://www.wikidata.org/entity/Q3548058> .
+riedel:BrunoCosta riedel:genre "masculin"@fr .
 
-riedel:PhilUrich owl:sameAS <http://www.wikidata.org/entity/Q4483669> .
+riedel:Fire-Eater riedel:genre "masculin"@fr .
 
-riedel:ElloeKaifi owl:sameAS <http://www.wikidata.org/entity/Q5366104> .
+riedel:GabrieltheDevilHunter riedel:genre "masculin"@fr .
 
-riedel:Machinesmith owl:sameAS <http://www.wikidata.org/entity/Q6723760> .
+riedel:Gladiatrix riedel:genre "féminin"@fr .
 
-riedel:Aero owl:sameAS <http://www.wikidata.org/entity/Q3545795> .
+riedel:MiriamSharpe riedel:genre "féminin"@fr .
 
-riedel:Hitman owl:sameAS <http://www.wikidata.org/entity/Q3551286> .
+riedel:MetalMaster riedel:genre "masculin"@fr .
 
-riedel:Libra owl:sameAS <http://www.wikidata.org/entity/Q6542426> .
+riedel:HeatherHudson riedel:genre "féminin"@fr .
 
-riedel:Foreigner owl:sameAS <http://www.wikidata.org/entity/Q3545603> .
+riedel:WhiteRabbit riedel:genre "féminin"@fr .
 
-riedel:Sleeper owl:sameAS <http://www.wikidata.org/entity/Q4499914> .
+riedel:Dr.Doomsday riedel:genre "masculin"@fr .
 
-riedel:Venus owl:sameAS <http://www.wikidata.org/entity/Q4009780> .
+riedel:Kurse riedel:genre "masculin"@fr .
 
-riedel:Dreadnought owl:sameAS <http://www.wikidata.org/entity/Q3545640> .
+riedel:Dragon-lune riedel:genre "féminin"@fr .
 
-riedel:Hyperion owl:sameAS <http://www.wikidata.org/entity/Q3550487> .
+riedel:Foxfire riedel:genre "féminin"@fr .
 
-riedel:Locust owl:sameAS <http://www.wikidata.org/entity/Q6666087> .
+riedel:BlackieDrago riedel:genre "masculin"@fr .
 
-riedel:Zombie owl:sameAS <http://www.wikidata.org/entity/Q4024681> .
+riedel:CarlieCooper riedel:genre "féminin"@fr .
 
-riedel:Angel owl:sameAS <http://www.wikidata.org/entity/Q3547998> .
+riedel:FieryMask riedel:genre "masculin"@fr .
 
-riedel:Ultimo owl:sameAS <http://www.wikidata.org/entity/Q3548045> .
+riedel:GabeJones riedel:genre "masculin"@fr .
 
-riedel:Zeus owl:sameAS <http://www.wikidata.org/entity/Q3575329> .
+riedel:Glamor riedel:genre "féminin"@fr .
 
-riedel:Bob owl:sameAS <http://www.wikidata.org/entity/Q3545619> .
+riedel:Gorr riedel:genre "masculin"@fr .
 
-riedel:Answer owl:sameAS <http://www.wikidata.org/entity/Q3549707> .
+riedel:HammerHarrison riedel:genre "masculin"@fr .
 
-riedel:Justice owl:sameAS <http://www.wikidata.org/entity/Q3545426> .
+riedel:MichaelVanPatrick riedel:genre "masculin"@fr .
 
-riedel:Albert owl:sameAS <http://www.wikidata.org/entity/Q3545878> .
+riedel:AiApaec riedel:genre "masculin"@fr .
 
-riedel:Golem owl:sameAS <http://www.wikidata.org/entity/Q3546467> .
+riedel:BolivarTrask riedel:genre "masculin"@fr .
 
-riedel:MiracleMan owl:sameAS <http://www.wikidata.org/entity/Q4006172> .
+riedel:DebraWhitman riedel:genre "féminin"@fr .
 
-riedel:Cerise owl:sameAS <http://www.wikidata.org/entity/Q3546921> .
+riedel:DynamicMan riedel:genre "masculin"@fr .
 
-riedel:Darkoth owl:sameAS <http://www.wikidata.org/entity/Q3549691> .
+riedel:Merlyn riedel:genre "masculin"@fr .
 
-riedel:KidColt owl:sameAS <http://www.wikidata.org/entity/Q3546595> .
+riedel:AmandaSefton riedel:genre "féminin"@fr .
 
-riedel:ValentinaDeFontaine owl:sameAS <http://www.wikidata.org/entity/Q3553620> .
+riedel:Freakmaster riedel:genre "masculin"@fr .
 
-riedel:Vertigo owl:sameAS <http://www.wikidata.org/entity/Q19881667>, <http://www.wikidata.org/entity/Q3556263> .
+riedel:FriedrichVonRoehm riedel:genre "masculin"@fr .
 
-riedel:Arsenal owl:sameAS <http://www.wikidata.org/entity/Q3550391> .
+riedel:GabrielleHaller riedel:genre "féminin"@fr .
 
-riedel:Hit-Monkey owl:sameAS <http://www.wikidata.org/entity/Q4497911> .
+riedel:MasterIzo riedel:genre "masculin"@fr .
 
-riedel:DoctorMinerva owl:sameAS <http://www.wikidata.org/entity/Q5287358> .
+riedel:Matsu%27oTsurayaba riedel:genre "masculin"@fr .
 
-riedel:JeanGrey owl:sameAS <http://www.wikidata.org/entity/Q5350072> .
+riedel:MatthewRisman riedel:genre "masculin"@fr .
 
-riedel:Evilhawk owl:sameAS <http://www.wikidata.org/entity/Q5418475> .
+riedel:NicholasScratch riedel:genre "masculin"@fr .
 
-riedel:Firepower owl:sameAS <http://www.wikidata.org/entity/Q3545330> .
+riedel:Psyklop riedel:genre "masculin"@fr .
 
-riedel:Maestro owl:sameAS <http://www.wikidata.org/entity/Q6729338> .
+riedel:Kangleconquérant riedel:genre "masculin"@fr .
 
-riedel:Gaea owl:sameAS <http://www.wikidata.org/entity/Q3545630> .
+riedel:Terrax riedel:genre "masculin"@fr .
 
-riedel:Ymir owl:sameAS <http://www.wikidata.org/entity/Q4411755> .
+riedel:ArchieCorrigan riedel:genre "masculin"@fr .
 
-riedel:IronCross owl:sameAS <http://www.wikidata.org/entity/Q4500697> .
+riedel:Moon-Boy riedel:genre "masculin"@fr .
 
-riedel:Leir owl:sameAS <http://www.wikidata.org/entity/Q6520185> .
+riedel:MotherNight riedel:genre "féminin"@fr .
 
-riedel:Magni owl:sameAS <http://www.wikidata.org/entity/Q6731705> .
+riedel:NormieOsborn riedel:genre "masculin"@fr .
 
-riedel:Vermin owl:sameAS <http://www.wikidata.org/entity/Q4010081> .
+riedel:Kaine riedel:genre "masculin"@fr .
 
-riedel:Typhon owl:sameAS <http://www.wikidata.org/entity/Q3546216> .
+riedel:Asmodeus riedel:genre "masculin"@fr .
 
-riedel:Machete owl:sameAS <http://www.wikidata.org/entity/Q6723503> .
+riedel:Dormammu riedel:genre "masculin"@fr .
 
-riedel:Lich owl:sameAS <http://www.wikidata.org/entity/Q6543176> .
+riedel:LadyBullseye riedel:genre "féminin"@fr .
 
-riedel:UrsaMajor owl:sameAS <http://www.wikidata.org/entity/Q3552470> .
+riedel:MyronMacLain riedel:genre "masculin"@fr .
 
-riedel:Centennial owl:sameAS <http://www.wikidata.org/entity/Q3546614> .
+riedel:NobleKale riedel:genre "masculin"@fr .
 
-riedel:Whizzer owl:sameAS <http://www.wikidata.org/entity/Q3999771> .
+riedel:Nova%28SamAlexander%29 riedel:genre "masculin"@fr .
 
-riedel:BlackFox owl:sameAS <http://www.wikidata.org/entity/Q3545645> .
+riedel:Ogress riedel:genre "féminin"@fr .
 
-riedel:CordeliaFrost owl:sameAS <http://www.wikidata.org/entity/Q3549187> .
+riedel:BetaRayBill riedel:genre "masculin"@fr .
 
-riedel:Fandral owl:sameAS <http://www.wikidata.org/entity/Q3545295> .
+riedel:J.JonahJameson riedel:genre "masculin"@fr .
 
-riedel:Tyrant owl:sameAS <http://www.wikidata.org/entity/Q3546343> .
+riedel:NoahvanHelsing riedel:genre "masculin"@fr .
 
-riedel:Unuscione owl:sameAS <http://www.wikidata.org/entity/Q3552047> .
+riedel:NorahWinters riedel:genre "féminin"@fr .
 
-riedel:Yéti owl:sameAS <http://www.wikidata.org/entity/Q3574268> .
+riedel:PeterCorbeau riedel:genre "masculin"@fr .
 
-riedel:UltimateColosso owl:sameAS <http://www.wikidata.org/entity/Q4003156> .
+riedel:Phantazia riedel:genre "féminin"@fr .
 
-riedel:Anarchist owl:sameAS <http://www.wikidata.org/entity/Q3547976> .
+riedel:GrimHunter riedel:genre "masculin"@fr .
 
-riedel:Doughboy owl:sameAS <http://www.wikidata.org/entity/Q5301089> .
+riedel:Hydro-Man riedel:genre "masculin"@fr .
 
-riedel:DragonLord owl:sameAS <http://www.wikidata.org/entity/Q5305233> .
+riedel:Crânerouge riedel:genre "masculin"@fr .
 
-riedel:Dweller-in-Darkness owl:sameAS <http://www.wikidata.org/entity/Q5318067> .
+riedel:Spider-Man2099 riedel:genre "masculin"@fr .
 
-riedel:Left-Winger owl:sameAS <http://www.wikidata.org/entity/Q6516744> .
+riedel:AlexanderBont riedel:genre "masculin"@fr .
 
-riedel:LeperQueen owl:sameAS <http://www.wikidata.org/entity/Q6527356> .
+riedel:Olivier riedel:genre "masculin"@fr .
 
-riedel:Locksmith owl:sameAS <http://www.wikidata.org/entity/Q6665839> .
+riedel:Hibou riedel:genre "masculin"@fr .
 
-riedel:Laufey owl:sameAS <http://www.wikidata.org/entity/Q6497975> .
+riedel:Montana riedel:genre "masculin"@fr .
 
-riedel:Walrus owl:sameAS <http://www.wikidata.org/entity/Q3998685> .
+riedel:Ajax riedel:genre "masculin"@fr .
 
-riedel:Witchfire owl:sameAS <http://www.wikidata.org/entity/Q3569483> .
+riedel:Apollo riedel:genre "masculin"@fr .
 
-riedel:LiveWire owl:sameAS <http://www.wikidata.org/entity/Q6655699> .
+riedel:Ozymandias riedel:genre "masculin"@fr .
 
-riedel:Aragorn owl:sameAS <http://www.wikidata.org/entity/Q3549229> .
+riedel:Spider-Woman riedel:genre "féminin"@fr .
 
-riedel:Arcanna owl:sameAS <http://www.wikidata.org/entity/Q3549216> .
+riedel:Nightshade riedel:genre "féminin"@fr .
 
-riedel:Death-Stalker owl:sameAS <http://www.wikidata.org/entity/Q3550368> .
+riedel:Moonglow riedel:genre "féminin"@fr .
 
-riedel:Humbug owl:sameAS <http://www.wikidata.org/entity/Q3549301> .
+riedel:Shriek riedel:genre "féminin"@fr .
 
-riedel:UlyssesBloodstone owl:sameAS <http://www.wikidata.org/entity/Q3548162> .
+riedel:AngelDust riedel:genre "féminin"@fr .
 
-riedel:WyattWingfoot owl:sameAS <http://www.wikidata.org/entity/Q3570193> .
+riedel:Angela riedel:genre "féminin"@fr .
 
-riedel:Wong owl:sameAS <http://www.wikidata.org/entity/Q4357278> .
+riedel:MorningStar riedel:genre "masculin"@fr .
 
-riedel:Doom2099 owl:sameAS <http://www.wikidata.org/entity/Q5297058> .
+riedel:Primus riedel:genre "masculin"@fr .
 
-riedel:Elsie-Dee owl:sameAS <http://www.wikidata.org/entity/Q5367564> .
+riedel:Atalanta riedel:genre "féminin"@fr .
 
-riedel:EricKoenig owl:sameAS <http://www.wikidata.org/entity/Q5386903> .
+riedel:AdriNital riedel:genre "masculin"@fr .
 
-riedel:Kingmaker owl:sameAS <http://www.wikidata.org/entity/Q6412794> .
+riedel:Albino riedel:genre "féminin"@fr .
 
-riedel:Kirigi owl:sameAS <http://www.wikidata.org/entity/Q6415151> .
+riedel:AlyssaMoy riedel:genre "féminin"@fr .
 
-riedel:Lamprey owl:sameAS <http://www.wikidata.org/entity/Q6482504> .
+riedel:AmericanDream riedel:genre "féminin"@fr .
 
-riedel:LanceHunter owl:sameAS <http://www.wikidata.org/entity/Q6483429> .
+riedel:Ani-Mator riedel:genre "masculin"@fr .
 
-riedel:LeeForrester owl:sameAS <http://www.wikidata.org/entity/Q6513617> .
+riedel:Madman riedel:genre "masculin"@fr .
 
-riedel:LucasBrand owl:sameAS <http://www.wikidata.org/entity/Q6696096> .
+riedel:Pluto riedel:genre "masculin"@fr .
 
-riedel:Ahab owl:sameAS <http://www.wikidata.org/entity/Q3545629> .
+riedel:PowerPrincess riedel:genre "féminin"@fr .
 
-riedel:AbdulAlhazred owl:sameAS <http://www.wikidata.org/entity/Q4665259> .
+riedel:PrincessPython riedel:genre "féminin"@fr .
 
-riedel:ColleenWing owl:sameAS <http://www.wikidata.org/entity/Q1761233> .
+riedel:KatiePower riedel:genre "féminin"@fr .
 
-riedel:Dr.Strangefate owl:sameAS <http://www.wikidata.org/entity/Q1774971> .
+riedel:Nikki riedel:genre "féminin"@fr .
 
-riedel:Bouffonnoir owl:sameAS <http://www.wikidata.org/entity/Q1812152> .
+riedel:Shocker riedel:genre "masculin"@fr .
 
-riedel:AleksanderLukin owl:sameAS <http://www.wikidata.org/entity/Q3609483> .
+riedel:Sif riedel:genre "féminin"@fr .
 
-riedel:FenrisWolf owl:sameAS <http://www.wikidata.org/entity/Q5443580> .
+riedel:BlueDiamond riedel:genre "féminin"@fr .
 
-riedel:Gargantus owl:sameAS <http://www.wikidata.org/entity/Q5523171> .
+riedel:Amazing-Man riedel:genre "masculin"@fr .
 
-riedel:MasterMenace owl:sameAS <http://www.wikidata.org/entity/Q6785060> .
+riedel:AmikoKobayashi riedel:genre "féminin"@fr .
 
-riedel:MickeyFondozzi owl:sameAS <http://www.wikidata.org/entity/Q6838637> .
+riedel:Moonraker riedel:genre "masculin"@fr .
 
-riedel:MissArrow owl:sameAS <http://www.wikidata.org/entity/Q6876163> .
+riedel:Priapus riedel:genre "masculin"@fr .
 
-riedel:ModredtheMystic owl:sameAS <http://www.wikidata.org/entity/Q6889598> .
+riedel:Access riedel:genre "masculin"@fr .
 
-riedel:DoctorSpectrum owl:sameAS <http://www.wikidata.org/entity/Q1761283> .
+riedel:MaGnucci riedel:genre "féminin"@fr .
 
-riedel:HERBIE owl:sameAS <http://www.wikidata.org/entity/Q1767163> .
+riedel:FrederickFoswell riedel:genre "masculin"@fr .
 
-riedel:GoldenArcher owl:sameAS <http://www.wikidata.org/entity/Q5579140> .
+riedel:Valetdecœur riedel:genre "masculin"@fr .
 
-riedel:HerrKleiser owl:sameAS <http://www.wikidata.org/entity/Q5743866> .
+riedel:PiptheTroll riedel:genre "masculin"@fr .
 
-riedel:Man-Elephant owl:sameAS <http://www.wikidata.org/entity/Q6746101> .
+riedel:AmadeusCho riedel:genre "masculin"@fr .
 
-riedel:MargaretPower owl:sameAS <http://www.wikidata.org/entity/Q6759810> .
+riedel:AndreasvonStrucker riedel:genre "masculin"@fr .
 
-riedel:MicheleGonzales owl:sameAS <http://www.wikidata.org/entity/Q6836758> .
+riedel:AndrewChord riedel:genre "masculin"@fr .
 
-riedel:Hecate owl:sameAS <http://www.wikidata.org/entity/Q5696146> .
+riedel:PhoneRanger riedel:genre "masculin"@fr .
 
-riedel:Hector owl:sameAS <http://www.wikidata.org/entity/Q5696556> .
+riedel:ProfessorThorton riedel:genre "masculin"@fr .
 
-riedel:Max owl:sameAS <http://www.wikidata.org/entity/Q6794509> .
+riedel:Bakuto riedel:genre "masculin"@fr .
 
-riedel:Flyer owl:sameAS <http://www.wikidata.org/entity/Q5463295> .
+riedel:Beyonder riedel:genre "masculin"@fr .
 
-riedel:Grasshopper owl:sameAS <http://www.wikidata.org/entity/Q5597527> .
+riedel:AlexanderPierce riedel:genre "masculin"@fr .
 
-riedel:Joseph owl:sameAS <http://www.wikidata.org/entity/Q1771401> .
+riedel:AmberHunt riedel:genre "féminin"@fr .
 
-riedel:Gazelle owl:sameAS <http://www.wikidata.org/entity/Q5529061> .
+riedel:BenReilly riedel:genre "masculin"@fr .
 
-riedel:Feedback owl:sameAS <http://www.wikidata.org/entity/Q5441207> .
+riedel:JockJackson riedel:genre "masculin"@fr .
 
-riedel:Gemini owl:sameAS <http://www.wikidata.org/entity/Q5530633> .
+riedel:BlackKnight%28SirPercy%29 riedel:genre "masculin"@fr .
 
-riedel:Gavel owl:sameAS <http://www.wikidata.org/entity/Q5528035> .
+riedel:Hrimhari riedel:genre "masculin"@fr .
 
-riedel:GoldenGirl owl:sameAS <http://www.wikidata.org/entity/Q5579486> .
+riedel:Ion%28MarvelComics%29 riedel:genre "masculin"@fr .
 
-riedel:Blackheart owl:sameAS <http://www.wikidata.org/entity/Q1839684> .
+riedel:Spider-Girl riedel:genre "féminin"@fr .
 
-riedel:Helix owl:sameAS <http://www.wikidata.org/entity/Q5706247> .
+riedel:Killraven riedel:genre "masculin"@fr .
 
-riedel:Goliath owl:sameAS <http://www.wikidata.org/entity/Q5580715> .
+riedel:MadameMasque riedel:genre "féminin"@fr .
 
-riedel:Gargantua owl:sameAS <http://www.wikidata.org/entity/Q5523164> .
+riedel:Alkhema riedel:genre "féminin"@fr .
 
-riedel:Gabriel owl:sameAS <http://www.wikidata.org/entity/Q5515512> .
+riedel:IronManfuturo riedel:genre "masculin"@fr .
 
-riedel:Freak owl:sameAS <http://www.wikidata.org/entity/Q5494158> .
+riedel:IsmaelOrtega riedel:genre "masculin"@fr .
 
-riedel:Glob owl:sameAS <http://www.wikidata.org/entity/Q5570029> .
+riedel:JasonMacendale riedel:genre "masculin"@fr .
 
-riedel:Hermes owl:sameAS <http://www.wikidata.org/entity/Q5741352> .
+riedel:JasperSitwell riedel:genre "masculin"@fr .
 
-riedel:Force owl:sameAS <http://www.wikidata.org/entity/Q5467422> .
+riedel:Kick-Ass riedel:genre "masculin"@fr .
 
-riedel:Flipside owl:sameAS <http://www.wikidata.org/entity/Q5459730> .
+riedel:Valkyrie riedel:genre "féminin"@fr .
 
-riedel:Frog-Man owl:sameAS <http://www.wikidata.org/entity/Q5505166> .
+riedel:Kala riedel:genre "féminin"@fr .
 
-riedel:Geldoff owl:sameAS <http://www.wikidata.org/entity/Q5530400> .
+riedel:Blackbird riedel:genre "féminin"@fr .
 
-riedel:LaFurie owl:sameAS <http://www.wikidata.org/entity/Q5509838> .
+riedel:Marina riedel:genre "féminin"@fr .
 
-riedel:GloryGrant owl:sameAS <http://www.wikidata.org/entity/Q5571598> .
+riedel:Leader riedel:genre "masculin"@fr .
 
-riedel:Grindhouse owl:sameAS <http://www.wikidata.org/entity/Q5609435> .
+riedel:Vision riedel:genre "masculin"@fr .
 
-riedel:HaroldH.Harold owl:sameAS <http://www.wikidata.org/entity/Q5660908> .
+riedel:BenjaminParker riedel:genre "masculin"@fr .
 
-riedel:Whiplash owl:sameAS <http://www.wikidata.org/entity/Q1763886> .
+riedel:Requin-tigre riedel:genre "masculin"@fr .
 
-riedel:Hawkeye owl:sameAS <http://www.wikidata.org/entity/Q5685072> .
+riedel:Boomslang riedel:genre "masculin"@fr .
 
-riedel:Hazmat owl:sameAS <http://www.wikidata.org/entity/Q5688362> .
+riedel:KarimaShapandar riedel:genre "féminin"@fr .
 
-riedel:MajorMapleleaf owl:sameAS <http://www.wikidata.org/entity/Q6738244> .
+riedel:MoiraMacTaggert riedel:genre "féminin"@fr .
 
-riedel:Man-Beast owl:sameAS <http://www.wikidata.org/entity/Q6746096> .
+riedel:CaptainBritain riedel:genre "masculin"@fr .
 
-riedel:Manphibian owl:sameAS <http://www.wikidata.org/entity/Q6751485> .
+riedel:Firelord riedel:genre "masculin"@fr .
 
-riedel:MarkHazzard%3AMerc owl:sameAS <http://www.wikidata.org/entity/Q6767974> .
+riedel:Jackpot riedel:genre "féminin"@fr .
 
-riedel:Mercy owl:sameAS <http://www.wikidata.org/entity/Q6818707> .
+riedel:Darwin riedel:genre "masculin"@fr .
 
-riedel:MeteorMan owl:sameAS <http://www.wikidata.org/entity/Q6823430> .
+riedel:Joan riedel:genre "féminin"@fr .
 
-riedel:MissingLink owl:sameAS <http://www.wikidata.org/entity/Q6878351> .
+riedel:Empath riedel:genre "masculin"@fr .
 
-riedel:Fin owl:sameAS <http://www.wikidata.org/entity/Q5449313> .
+riedel:HumanTop riedel:genre "masculin"@fr .
 
-riedel:Gatecrasher owl:sameAS <http://www.wikidata.org/entity/Q5527042> .
+riedel:Mentac riedel:genre "masculin"@fr .
 
-riedel:FreeSpirit owl:sameAS <http://www.wikidata.org/entity/Q5500094> .
+riedel:JacobShaw riedel:genre "masculin"@fr .
 
-riedel:Manta owl:sameAS <http://www.wikidata.org/entity/Q2186821> .
+riedel:JimWilson riedel:genre "masculin"@fr .
 
-riedel:Mettle owl:sameAS <http://www.wikidata.org/entity/Q6825496> .
+riedel:JohnKing riedel:genre "masculin"@fr .
 
-riedel:GrandMaître owl:sameAS <http://www.wikidata.org/entity/Q5595476> .
+riedel:KateWaynesboro riedel:genre "féminin"@fr .
 
-riedel:Dusk owl:sameAS <http://www.wikidata.org/entity/Q1869290> .
+riedel:KavitaRao riedel:genre "féminin"@fr .
 
-riedel:SilverSable owl:sameAS <http://www.wikidata.org/entity/Q1877130> .
+riedel:Kelda riedel:genre "féminin"@fr .
 
-riedel:MarloChandler owl:sameAS <http://www.wikidata.org/entity/Q6771890> .
+riedel:MichaelPointer riedel:genre "masculin"@fr .
 
-riedel:Hardcore owl:sameAS <http://www.wikidata.org/entity/Q5655750> .
+riedel:Executioner riedel:genre "masculin"@fr .
 
-riedel:AbrahamErskine owl:sameAS <http://www.wikidata.org/entity/Q3603774> .
+riedel:Éternité riedel:genre "masculin"@fr .
 
-riedel:Gog owl:sameAS <http://www.wikidata.org/entity/Q5577293> .
+riedel:Astronome riedel:genre "masculin"@fr .
 
-riedel:Galacta owl:sameAS <http://www.wikidata.org/entity/Q5517781> .
+riedel:JackFrost riedel:genre "masculin"@fr .
 
-riedel:Gorgolla owl:sameAS <http://www.wikidata.org/entity/Q5586291> .
+riedel:JackRussell riedel:genre "masculin"@fr .
 
-riedel:GreatGambonnos owl:sameAS <http://www.wikidata.org/entity/Q5599232> .
+riedel:BlackKnight riedel:genre "masculin"@fr .
 
-riedel:Martinex owl:sameAS <http://www.wikidata.org/entity/Q5643213> .
+riedel:Electro riedel:genre "masculin"@fr .
 
-riedel:MasterOrder owl:sameAS <http://www.wikidata.org/entity/Q6785073> .
+riedel:Gazer riedel:genre "masculin"@fr .
 
-riedel:Mathemanic owl:sameAS <http://www.wikidata.org/entity/Q6786820> .
+riedel:Mystério riedel:genre "masculin"@fr .
 
-riedel:Mercuriothe4-DMan owl:sameAS <http://www.wikidata.org/entity/Q6818545> .
+riedel:Starfox riedel:genre "masculin"@fr .
 
-riedel:MisterJip owl:sameAS <http://www.wikidata.org/entity/Q6880154> .
+riedel:JuliePower riedel:genre "féminin"@fr .
 
-riedel:MoguloftheMysticMountain owl:sameAS <http://www.wikidata.org/entity/Q6890756> .
+riedel:JoeFixit riedel:genre "masculin"@fr .
 
-riedel:Mauvais owl:sameAS <http://www.wikidata.org/entity/Q6794078> .
+riedel:Bird-Man riedel:genre "masculin"@fr .
 
-riedel:Finesse owl:sameAS <http://www.wikidata.org/entity/Q5450156> .
+riedel:Bloodwraith riedel:genre "masculin"@fr .
 
-riedel:Aftershock owl:sameAS <http://www.wikidata.org/entity/Q3606305> .
+riedel:HomertheHappyGhost riedel:genre "masculin"@fr .
 
-riedel:Ronanl%27Accusateur owl:sameAS <http://www.wikidata.org/entity/Q1772041> .
+riedel:JenniferKale riedel:genre "féminin"@fr .
 
-riedel:Zuras owl:sameAS <http://www.wikidata.org/entity/Q3576299> .
+riedel:Kamuu riedel:genre "masculin"@fr .
 
-riedel:BernieRosenthal owl:sameAS <http://www.wikidata.org/entity/Q3638843> .
+riedel:KarlMalus riedel:genre "masculin"@fr .
 
-riedel:Frenchie owl:sameAS <http://www.wikidata.org/entity/Q5502692> .
+riedel:KennyMcFarlane riedel:genre "masculin"@fr .
 
-riedel:BrunoCosta owl:sameAS <http://www.wikidata.org/entity/Q3645710> .
+riedel:Kamal riedel:genre "masculin"@fr .
 
-riedel:Fire-Eater owl:sameAS <http://www.wikidata.org/entity/Q5451254> .
+riedel:Hit-Girl riedel:genre "féminin"@fr .
 
-riedel:Fixer owl:sameAS <http://www.wikidata.org/entity/Q5456394> .
+riedel:Hoodwink riedel:genre "féminin"@fr .
 
-riedel:GabrieltheDevilHunter owl:sameAS <http://www.wikidata.org/entity/Q5515923> .
+riedel:JamesPower riedel:genre "masculin"@fr .
 
-riedel:Gladiatrix owl:sameAS <http://www.wikidata.org/entity/Q5566285> .
+riedel:KarenPage riedel:genre "féminin"@fr .
 
-riedel:MasterMindExcello owl:sameAS <http://www.wikidata.org/entity/Q6785063> .
+riedel:Corredor riedel:genre "masculin"@fr .
 
-riedel:MidgardSerpent owl:sameAS <http://www.wikidata.org/entity/Q6842189> .
+riedel:Blackthorn riedel:genre "féminin"@fr .
 
-riedel:Midnight%27sFire owl:sameAS <http://www.wikidata.org/entity/Q6842622> .
+riedel:RobbieBaldwin riedel:genre "masculin"@fr .
 
-riedel:MiriamSharpe owl:sameAS <http://www.wikidata.org/entity/Q6873416> .
+riedel:AgathaHarkness riedel:genre "féminin"@fr .
 
-riedel:MistressLove owl:sameAS <http://www.wikidata.org/entity/Q6880448> .
+riedel:ChristopherSummers riedel:genre "masculin"@fr .
 
-riedel:MetalMaster owl:sameAS <http://www.wikidata.org/entity/Q6822672> .
+riedel:ChrisMcCarthy riedel:genre "masculin"@fr .
 
-riedel:HeatherHudson owl:sameAS <http://www.wikidata.org/entity/Q5693896> .
+riedel:Aquiles riedel:genre "masculin"@fr .
 
-riedel:Feron owl:sameAS <http://www.wikidata.org/entity/Q5445195> .
+riedel:Torunn riedel:genre "féminin"@fr .
 
-riedel:WhiteRabbit owl:sameAS <http://www.wikidata.org/entity/Q3686980> .
+riedel:Clea riedel:genre "féminin"@fr .
 
-riedel:Mallen owl:sameAS <http://www.wikidata.org/entity/Q6744122> .
+riedel:Lockheed riedel:genre "masculin"@fr .
 
-riedel:Dr.Doomsday owl:sameAS <http://www.wikidata.org/entity/Q1774912> .
+riedel:BlackTomCassidy riedel:genre "masculin"@fr .
 
-riedel:Kurse owl:sameAS <http://www.wikidata.org/entity/Q1775092> .
+riedel:Shang-Chi riedel:genre "masculin"@fr .
 
-riedel:Dragon-lune owl:sameAS <http://www.wikidata.org/entity/Q1908572> .
+riedel:Ancien riedel:genre "masculin"@fr .
 
-riedel:Foxfire owl:sameAS <http://www.wikidata.org/entity/Q5477145> .
+riedel:Attuma riedel:genre "masculin"@fr .
 
-riedel:Ahura owl:sameAS <http://www.wikidata.org/entity/Q3607026> .
+riedel:Hiro-Kala riedel:genre "masculin"@fr .
 
-riedel:AmericanAce owl:sameAS <http://www.wikidata.org/entity/Q3614022> .
+riedel:BeverlySwitzler riedel:genre "féminin"@fr .
 
-riedel:BlackieDrago owl:sameAS <http://www.wikidata.org/entity/Q3640800> .
+riedel:JadeDragon riedel:genre "femelle"@fr .
 
-riedel:CarlieCooper owl:sameAS <http://www.wikidata.org/entity/Q3658902> .
+riedel:Hussar riedel:genre "féminin"@fr .
 
-riedel:FieryMask owl:sameAS <http://www.wikidata.org/entity/Q3744640> .
+riedel:Batroc riedel:genre "masculin"@fr .
 
-riedel:GabeJones owl:sameAS <http://www.wikidata.org/entity/Q5515336> .
+riedel:Thanos riedel:genre "masculin"@fr .
 
-riedel:GalaxyMaster owl:sameAS <http://www.wikidata.org/entity/Q5518135> .
+riedel:BenjaminRichardParker riedel:genre "masculin"@fr .
 
-riedel:Glamor owl:sameAS <http://www.wikidata.org/entity/Q5566524> .
+riedel:BrianBanner riedel:genre "masculin"@fr .
 
-riedel:Gorr owl:sameAS <http://www.wikidata.org/entity/Q5586850> .
+riedel:Javelynn riedel:genre "féminin"@fr .
 
-riedel:HammerHarrison owl:sameAS <http://www.wikidata.org/entity/Q5645626> .
+riedel:JohnRyker riedel:genre "masculin"@fr .
 
-riedel:MichaelVanPatrick owl:sameAS <http://www.wikidata.org/entity/Q6835049> .
+riedel:JohntheSkrull riedel:genre "masculin"@fr .
 
-riedel:AiApaec owl:sameAS <http://www.wikidata.org/entity/Q3607032> .
+riedel:Kukulcan riedel:genre "masculin"@fr .
 
-riedel:BolivarTrask owl:sameAS <http://www.wikidata.org/entity/Q3641739> .
+riedel:JessicaJones riedel:genre "féminin"@fr .
 
-riedel:DebraWhitman owl:sameAS <http://www.wikidata.org/entity/Q3704417> .
+riedel:BlondePhantom riedel:genre "féminin"@fr .
 
-riedel:Digitek owl:sameAS <http://www.wikidata.org/entity/Q3707609> .
+riedel:JuneCovington riedel:genre "féminin"@fr .
 
-riedel:DynamicMan owl:sameAS <http://www.wikidata.org/entity/Q3716888> .
+riedel:OmegaRed riedel:genre "masculin"@fr .
 
-riedel:ScourgeoftheUnderworld owl:sameAS <http://www.wikidata.org/entity/Q3746329> .
+riedel:Deathlok riedel:genre "masculin"@fr .
 
-riedel:Foundry owl:sameAS <http://www.wikidata.org/entity/Q5474644> .
+riedel:RockwellDavis riedel:genre "masculin"@fr .
 
-riedel:Goom owl:sameAS <http://www.wikidata.org/entity/Q5583952> .
+riedel:SadieSinclair riedel:genre "féminin"@fr .
 
-riedel:GorillaGirl owl:sameAS <http://www.wikidata.org/entity/Q5586467> .
+riedel:RoxanneSimpson riedel:genre "féminin"@fr .
 
-riedel:HarbingerofApocalypse owl:sameAS <http://www.wikidata.org/entity/Q5654500> .
+riedel:Rubbermaid riedel:genre "féminin"@fr .
 
-riedel:MasterKhan owl:sameAS <http://www.wikidata.org/entity/Q6785042> .
+riedel:Punisher2099 riedel:genre "masculin"@fr .
 
-riedel:Merlyn owl:sameAS <http://www.wikidata.org/entity/Q6819829> .
+riedel:BaronMordo riedel:genre "masculin"@fr .
 
-riedel:Mind-Wave owl:sameAS <http://www.wikidata.org/entity/Q6863395> .
+riedel:DarkClaw riedel:genre "masculin"@fr .
 
-riedel:AmandaSefton owl:sameAS <http://www.wikidata.org/entity/Q3613591> .
+riedel:IronMonger riedel:genre "masculin"@fr .
 
-riedel:ForbushMan owl:sameAS <http://www.wikidata.org/entity/Q5467404> .
+riedel:RawhideKid riedel:genre "masculin"@fr .
 
-riedel:Freakmaster owl:sameAS <http://www.wikidata.org/entity/Q5494255> .
+riedel:RebelRalston riedel:genre "masculin"@fr .
 
-riedel:FriedrichVonRoehm owl:sameAS <http://www.wikidata.org/entity/Q5503921> .
+riedel:JoshuaWaldemeyer riedel:genre "masculin"@fr .
 
-riedel:GabrielleHaller owl:sameAS <http://www.wikidata.org/entity/Q5516076> .
+riedel:MayReillyParker riedel:genre "féminin"@fr .
 
-riedel:Glorian owl:sameAS <http://www.wikidata.org/entity/Q5571493> .
+riedel:Pythondesroches riedel:genre "masculin"@fr .
 
-riedel:HappySamSawyer owl:sameAS <http://www.wikidata.org/entity/Q5653016> .
+riedel:SamuelSilke riedel:genre "masculin"@fr .
 
-riedel:MasterIzo owl:sameAS <http://www.wikidata.org/entity/Q6785038> .
+riedel:Xavin riedel:genre "féminin"@fr, "masculin"@fr .
 
-riedel:MasterPandemonium owl:sameAS <http://www.wikidata.org/entity/Q6785074> .
+riedel:Jocaste riedel:genre "féminin"@fr .
 
-riedel:Matsu%27oTsurayaba owl:sameAS <http://www.wikidata.org/entity/Q6788002> .
+riedel:Roma riedel:genre "féminin"@fr .
 
-riedel:MatthewRisman owl:sameAS <http://www.wikidata.org/entity/Q6791137> .
+riedel:Echo riedel:genre "féminin"@fr .
 
-riedel:MonarkStarstalker owl:sameAS <http://www.wikidata.org/entity/Q6898200> .
+riedel:Runner riedel:genre "masculin"@fr .
 
-riedel:NicholasScratch owl:sameAS <http://www.wikidata.org/entity/Q7026186> .
+riedel:Mephisto riedel:genre "masculin"@fr .
 
-riedel:Psyklop owl:sameAS <http://www.wikidata.org/entity/Q7256565> .
+riedel:L%27Homme-taupe riedel:genre "masculin"@fr .
 
-riedel:Quagmire owl:sameAS <http://www.wikidata.org/entity/Q7268463> .
+riedel:LilandraNeramani riedel:genre "féminin"@fr .
 
-riedel:Kangleconquérant owl:sameAS <http://www.wikidata.org/entity/Q1982051> .
+riedel:Silvermane riedel:genre "masculin"@fr .
 
-riedel:Terrax owl:sameAS <http://www.wikidata.org/entity/Q1984020> .
+riedel:Conan riedel:genre "masculin"@fr .
 
-riedel:Americop owl:sameAS <http://www.wikidata.org/entity/Q4745681> .
+riedel:Gladiator riedel:genre "masculin"@fr .
 
-riedel:ArchieCorrigan owl:sameAS <http://www.wikidata.org/entity/Q4786659> .
+riedel:Quasimodo riedel:genre "masculin"@fr .
 
-riedel:Moon-Boy owl:sameAS <http://www.wikidata.org/entity/Q6907416> .
+riedel:RickJones riedel:genre "masculin"@fr .
 
-riedel:MotherNight owl:sameAS <http://www.wikidata.org/entity/Q6917411> .
+riedel:Balder riedel:genre "masculin"@fr .
 
-riedel:NormieOsborn owl:sameAS <http://www.wikidata.org/entity/Q7053134> .
+riedel:Starbolt riedel:genre "masculin"@fr .
 
-riedel:Piecemeal owl:sameAS <http://www.wikidata.org/entity/Q7191374> .
+riedel:Tigra riedel:genre "féminin"@fr .
 
-riedel:Psi-Hawk owl:sameAS <http://www.wikidata.org/entity/Q7255749> .
+riedel:Eon riedel:genre "masculin"@fr .
 
-riedel:Psycho-Man owl:sameAS <http://www.wikidata.org/entity/Q7256285> .
+riedel:Cloak riedel:genre "masculin"@fr .
 
-riedel:Kaine owl:sameAS <http://www.wikidata.org/entity/Q2000166> .
+riedel:JohnJameson riedel:genre "masculin"@fr .
 
-riedel:Asmodeus owl:sameAS <http://www.wikidata.org/entity/Q4807448> .
+riedel:LeMandarin riedel:genre "masculin"@fr .
 
-riedel:Dormammu owl:sameAS <http://www.wikidata.org/entity/Q2066394> .
+riedel:LeRusse riedel:genre "masculin"@fr .
 
-riedel:LadyBullseye owl:sameAS <http://www.wikidata.org/entity/Q2071347> .
+riedel:RichardFisk riedel:genre "masculin"@fr .
 
-riedel:Backhand owl:sameAS <http://www.wikidata.org/entity/Q4839658> .
+riedel:Hulkling riedel:genre "masculin"@fr .
 
-riedel:MyronMacLain owl:sameAS <http://www.wikidata.org/entity/Q6948470> .
+riedel:RedBarbarian riedel:genre "masculin"@fr .
 
-riedel:NobleKale owl:sameAS <http://www.wikidata.org/entity/Q7045734> .
+riedel:RichardRory riedel:genre "masculin"@fr .
 
-riedel:Nova%28SamAlexander%29 owl:sameAS <http://www.wikidata.org/entity/Q7063995> .
+riedel:RingoKid riedel:genre "masculin"@fr .
 
-riedel:ObnoxiotheClown owl:sameAS <http://www.wikidata.org/entity/Q7075225> .
+riedel:Saturnyne riedel:genre "féminin"@fr .
 
-riedel:Ogress owl:sameAS <http://www.wikidata.org/entity/Q7080242> .
+riedel:Sat-Yr-9 riedel:genre "féminin"@fr .
 
-riedel:OmegatheUnknown owl:sameAS <http://www.wikidata.org/entity/Q7090050> .
+riedel:Ultron riedel:genre "masculin"@fr .
 
-riedel:PrettyBoy owl:sameAS <http://www.wikidata.org/entity/Q7242210> .
+riedel:LivingBrain riedel:genre "agenre"@fr .
 
-riedel:Psynapse owl:sameAS <http://www.wikidata.org/entity/Q7256581> .
+riedel:MelissaBowen riedel:genre "féminin"@fr .
 
-riedel:BetaRayBill owl:sameAS <http://www.wikidata.org/entity/Q1987662> .
+riedel:SharonFriedlander riedel:genre "féminin"@fr .
 
-riedel:J.JonahJameson owl:sameAS <http://www.wikidata.org/entity/Q1992523> .
+riedel:Bricoleur riedel:genre "masculin"@fr .
 
-riedel:Amatsu-Mikaboshi owl:sameAS <http://www.wikidata.org/entity/Q4740629> .
+riedel:DumDumDugan riedel:genre "masculin"@fr .
 
-riedel:Amphibian owl:sameAS <http://www.wikidata.org/entity/Q4748176> .
+riedel:AlexPower riedel:genre "masculin"@fr .
 
-riedel:ArabianKnight owl:sameAS <http://www.wikidata.org/entity/Q4783369> .
+riedel:SeanandChris riedel:genre "masculin"@fr .
 
-riedel:NoahvanHelsing owl:sameAS <http://www.wikidata.org/entity/Q7045478> .
+riedel:Geiger riedel:genre "féminin"@fr .
 
-riedel:NorahWinters owl:sameAS <http://www.wikidata.org/entity/Q7050233> .
+riedel:Inferno riedel:genre "masculin"@fr .
 
-riedel:NthMan owl:sameAS <http://www.wikidata.org/entity/Q7067621> .
+riedel:Janus riedel:genre "masculin"@fr .
 
-riedel:PeterCorbeau owl:sameAS <http://www.wikidata.org/entity/Q7173385> .
+riedel:Puma riedel:genre "masculin"@fr .
 
-riedel:Phantazia owl:sameAS <http://www.wikidata.org/entity/Q7180530> .
+riedel:Silhouette riedel:genre "féminin"@fr .
 
-riedel:GrimHunter owl:sameAS <http://www.wikidata.org/entity/Q2003141> .
+riedel:Shuri riedel:genre "féminin"@fr .
 
-riedel:Hydro-Man owl:sameAS <http://www.wikidata.org/entity/Q1990090> .
+riedel:Scorpia riedel:genre "féminin"@fr .
 
-riedel:Crânerouge owl:sameAS <http://www.wikidata.org/entity/Q2034529> .
+riedel:Fantomex riedel:genre "masculin"@fr .
 
-riedel:Spider-Man2099 owl:sameAS <http://www.wikidata.org/entity/Q2092660> .
+riedel:EriktheRed riedel:genre "masculin"@fr .
 
-riedel:AlexanderBont owl:sameAS <http://www.wikidata.org/entity/Q4718393> .
+riedel:FinFangFoom riedel:genre "mâle"@fr .
 
-riedel:Pulsar owl:sameAS <http://www.wikidata.org/entity/Q7259613> .
+riedel:Toxin riedel:genre "masculin"@fr .
 
-riedel:Alpha owl:sameAS <http://www.wikidata.org/entity/Q4734967> .
+riedel:Boomerang riedel:genre "masculin"@fr .
 
-riedel:Olivier owl:sameAS <http://www.wikidata.org/entity/Q7088114> .
+riedel:Ego riedel:genre "masculin"@fr .
 
-riedel:Hibou owl:sameAS <http://www.wikidata.org/entity/Q2070834> .
+riedel:Shathra riedel:genre "féminin"@fr .
 
-riedel:Montana owl:sameAS <http://www.wikidata.org/entity/Q6904213> .
+riedel:AikkuJokinen riedel:genre "féminin"@fr .
 
-riedel:Ajax owl:sameAS <http://www.wikidata.org/entity/Q4699585> .
+riedel:NilesVanRoekel riedel:genre "masculin"@fr .
 
-riedel:Apollo owl:sameAS <http://www.wikidata.org/entity/Q4780263> .
+riedel:Chevaliernoir riedel:genre "masculin"@fr .
 
-riedel:Nimrod owl:sameAS <http://www.wikidata.org/entity/Q7037761> .
+riedel:DemolitionMan riedel:genre "masculin"@fr .
 
-riedel:Pisces owl:sameAS <http://www.wikidata.org/entity/Q7198241> .
+riedel:Diamondback riedel:genre "féminin"@fr .
 
-riedel:Overdrive owl:sameAS <http://www.wikidata.org/entity/Q7113631> .
+riedel:Swordsman riedel:genre "masculin"@fr .
 
-riedel:Punisher owl:sameAS <http://www.wikidata.org/entity/Q7260214> .
+riedel:BettyBrant riedel:genre "féminin"@fr .
 
-riedel:Akasha owl:sameAS <http://www.wikidata.org/entity/Q4700335> .
+riedel:MachineMan riedel:genre "masculin"@fr .
 
-riedel:Ozymandias owl:sameAS <http://www.wikidata.org/entity/Q7116706> .
+riedel:TheHood riedel:genre "masculin"@fr .
 
-riedel:Pestilence owl:sameAS <http://www.wikidata.org/entity/Q7171506> .
+riedel:ArnimZola riedel:genre "masculin"@fr .
 
-riedel:Spider-Woman owl:sameAS <http://www.wikidata.org/entity/Q2095786>, <http://www.wikidata.org/entity/Q20979395> .
+riedel:Shalla-Bal riedel:genre "féminin"@fr .
 
-riedel:Nightshade owl:sameAS <http://www.wikidata.org/entity/Q7034042> .
+riedel:Sise-Neg riedel:genre "masculin"@fr .
 
-riedel:Moonglow owl:sameAS <http://www.wikidata.org/entity/Q6907797> .
+riedel:SistersofSin riedel:genre "féminin"@fr .
 
-riedel:Omega owl:sameAS <http://www.wikidata.org/entity/Q7089971> .
+riedel:Southpaw riedel:genre "féminin"@fr .
 
-riedel:Shriek owl:sameAS <http://www.wikidata.org/entity/Q2087326> .
+riedel:Kaluu riedel:genre "masculin"@fr .
 
-riedel:Paris owl:sameAS <http://www.wikidata.org/entity/Q7137188> .
+riedel:Carrion riedel:genre "masculin"@fr .
 
-riedel:Osiris owl:sameAS <http://www.wikidata.org/entity/Q7106866> .
+riedel:Adversaire riedel:genre "masculin"@fr .
 
-riedel:AngelDust owl:sameAS <http://www.wikidata.org/entity/Q4762131> .
+riedel:U.S.Agent riedel:genre "masculin"@fr .
 
-riedel:Angela owl:sameAS <http://www.wikidata.org/entity/Q2037952> .
+riedel:WilliamStryker riedel:genre "masculin"@fr .
 
-riedel:Agamemnon owl:sameAS <http://www.wikidata.org/entity/Q4691169> .
+riedel:Bushwhacker riedel:genre "masculin"@fr .
 
-riedel:MorningStar owl:sameAS <http://www.wikidata.org/entity/Q6912880> .
+riedel:ShingenYashida riedel:genre "masculin"@fr .
 
-riedel:Poison owl:sameAS <http://www.wikidata.org/entity/Q7208437> .
+riedel:JimmyWoo riedel:genre "masculin"@fr .
 
-riedel:Primus owl:sameAS <http://www.wikidata.org/entity/Q7243705> .
+riedel:Darkhawk riedel:genre "masculin"@fr .
 
-riedel:Atalanta owl:sameAS <http://www.wikidata.org/entity/Q4812688> .
+riedel:Solarman riedel:genre "masculin"@fr .
 
-riedel:AdriNital owl:sameAS <http://www.wikidata.org/entity/Q4684760> .
+riedel:EddieBrock riedel:genre "masculin"@fr .
 
-riedel:Albino owl:sameAS <http://www.wikidata.org/entity/Q4712422> .
+riedel:Maîtredel%27évolution riedel:genre "masculin"@fr .
 
-riedel:AlyssaMoy owl:sameAS <http://www.wikidata.org/entity/Q4738772> .
+riedel:AnyaCorazon riedel:genre "féminin"@fr .
 
-riedel:AmericanDream owl:sameAS <http://www.wikidata.org/entity/Q4743631> .
+riedel:MendelStromm riedel:genre "masculin"@fr .
 
-riedel:Ani-Mator owl:sameAS <http://www.wikidata.org/entity/Q4764399> .
+riedel:Grotesk riedel:genre "masculin"@fr .
 
-riedel:Madman owl:sameAS <http://www.wikidata.org/entity/Q4781622> .
+riedel:ZhengBaoYu riedel:genre "féminin"@fr .
 
-riedel:Armory owl:sameAS <http://www.wikidata.org/entity/Q4793757> .
+riedel:Gueuled%27or riedel:genre "masculin"@fr .
 
-riedel:Morpheus owl:sameAS <http://www.wikidata.org/entity/Q6913382> .
+riedel:Sepulchre riedel:genre "féminin"@fr .
 
-riedel:Motormouth owl:sameAS <http://www.wikidata.org/entity/Q6918346> .
+riedel:Isbisa riedel:genre "masculin"@fr .
 
-riedel:Oddball owl:sameAS <http://www.wikidata.org/entity/Q7077466> .
+riedel:StevenLang riedel:genre "masculin"@fr .
 
-riedel:Perrikus owl:sameAS <http://www.wikidata.org/entity/Q7169623> .
+riedel:StacyDolan riedel:genre "féminin"@fr .
 
-riedel:Pluto owl:sameAS <http://www.wikidata.org/entity/Q7205675> .
+riedel:SteelVengeance riedel:genre "féminin"@fr .
 
-riedel:Polestar owl:sameAS <http://www.wikidata.org/entity/Q7209335> .
+riedel:ThomasLogan riedel:genre "masculin"@fr .
 
-riedel:PowerPrincess owl:sameAS <http://www.wikidata.org/entity/Q7236397> .
+riedel:Tyrak riedel:genre "masculin"@fr .
 
-riedel:PrincessPython owl:sameAS <http://www.wikidata.org/entity/Q7244787> .
+riedel:ElaineGrey riedel:genre "féminin"@fr .
 
-riedel:KatiePower owl:sameAS <http://www.wikidata.org/entity/Q1996513> .
+riedel:StainedGlassScarlet riedel:genre "féminin"@fr .
 
-riedel:Nikki owl:sameAS <http://www.wikidata.org/entity/Q7035187> .
+riedel:GeorgeStacy riedel:genre "masculin"@fr .
 
-riedel:Pyre owl:sameAS <http://www.wikidata.org/entity/Q7263422> .
+riedel:TrishTilby riedel:genre "féminin"@fr .
 
-riedel:Plunderer owl:sameAS <http://www.wikidata.org/entity/Q7205504> .
+riedel:VictoriaHand riedel:genre "féminin"@fr .
 
-riedel:Orb owl:sameAS <http://www.wikidata.org/entity/Q7099985> .
+riedel:ValerieCooper riedel:genre "féminin"@fr .
 
-riedel:Necrom owl:sameAS <http://www.wikidata.org/entity/Q6985650> .
+riedel:AliciaMasters riedel:genre "féminin"@fr .
 
-riedel:Hornet owl:sameAS <http://www.wikidata.org/entity/Q2053102> .
+riedel:Asp%28comics%29 riedel:genre "féminin"@fr .
 
-riedel:Shocker owl:sameAS <http://www.wikidata.org/entity/Q2015743> .
+riedel:Thialfi riedel:genre "masculin"@fr .
 
-riedel:Sif owl:sameAS <http://www.wikidata.org/entity/Q2001628> .
+riedel:Tiboro riedel:genre "masculin"@fr .
 
-riedel:BlueDiamond owl:sameAS <http://www.wikidata.org/entity/Q2016099> .
+riedel:StevieHunter riedel:genre "féminin"@fr .
 
-riedel:Obliterator owl:sameAS <http://www.wikidata.org/entity/Q7075190> .
+riedel:TakiMatsuya riedel:genre "mâle"@fr .
 
-riedel:Prime owl:sameAS <http://www.wikidata.org/entity/Q7243228> .
+riedel:TomCorsi riedel:genre "masculin"@fr .
 
-riedel:Amazing-Man owl:sameAS <http://www.wikidata.org/entity/Q4740770> .
+riedel:She-Venom riedel:genre "féminin"@fr .
 
-riedel:AmikoKobayashi owl:sameAS <http://www.wikidata.org/entity/Q4746268> .
+riedel:MariaVásquez riedel:genre "féminin"@fr .
 
-riedel:Moonraker owl:sameAS <http://www.wikidata.org/entity/Q6907921> .
+riedel:YunGuangHan riedel:genre "masculin"@fr .
 
-riedel:Morrat owl:sameAS <http://www.wikidata.org/entity/Q6913487> .
+riedel:KatherineAnnSummers riedel:genre "féminin"@fr .
 
-riedel:Ogun owl:sameAS <http://www.wikidata.org/entity/Q7080283> .
+riedel:Titan riedel:genre "masculin"@fr .
 
-riedel:OutlawKid owl:sameAS <http://www.wikidata.org/entity/Q7112128> .
+riedel:Bastion riedel:genre "masculin"@fr .
 
-riedel:Priapus owl:sameAS <http://www.wikidata.org/entity/Q7242519> .
+riedel:Mort riedel:genre "féminin"@fr .
 
-riedel:Pinball owl:sameAS <http://www.wikidata.org/entity/Q7194858> .
+riedel:Hammerhead riedel:genre "masculin"@fr .
 
-riedel:Access owl:sameAS <http://www.wikidata.org/entity/Q1984262> .
+riedel:Tyrannus riedel:genre "masculin"@fr .
 
-riedel:MaGnucci owl:sameAS <http://www.wikidata.org/entity/Q1982323> .
+riedel:Tai riedel:genre "féminin"@fr .
 
-riedel:FrederickFoswell owl:sameAS <http://www.wikidata.org/entity/Q2032965> .
+riedel:Tempo riedel:genre "féminin"@fr .
 
-riedel:Valetdecœur owl:sameAS <http://www.wikidata.org/entity/Q2003117> .
+riedel:Box riedel:genre "masculin"@fr .
 
-riedel:Null owl:sameAS <http://www.wikidata.org/entity/Q7068939> .
+riedel:CarolynTrainer riedel:genre "féminin"@fr .
 
-riedel:PiptheTroll owl:sameAS <http://www.wikidata.org/entity/Q4703036> .
+riedel:Achebe riedel:genre "masculin"@fr .
 
-riedel:AmadeusCho owl:sameAS <http://www.wikidata.org/entity/Q4739036> .
+riedel:Aiguille%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:AndreasvonStrucker owl:sameAS <http://www.wikidata.org/entity/Q4755702> .
+riedel:Torgo riedel:genre "masculin"@fr .
 
-riedel:AndrewChord owl:sameAS <http://www.wikidata.org/entity/Q4756604> .
+riedel:Aquarian riedel:genre "masculin"@fr .
 
-riedel:NanceWinters owl:sameAS <http://www.wikidata.org/entity/Q6962468> .
+riedel:Klaw riedel:genre "masculin"@fr .
 
-riedel:PhoneRanger owl:sameAS <http://www.wikidata.org/entity/Q7187186> .
+riedel:TexTaylor riedel:genre "masculin"@fr .
 
-riedel:PowerhousePepper owl:sameAS <http://www.wikidata.org/entity/Q7236726> .
+riedel:Thousand riedel:genre "masculin"@fr .
 
-riedel:ProfessorThorton owl:sameAS <http://www.wikidata.org/entity/Q7248194> .
+riedel:JohnGrey riedel:genre "masculin"@fr .
 
-riedel:Adept owl:sameAS <http://www.wikidata.org/entity/Q4682335> .
+riedel:Gamora riedel:genre "féminin"@fr .
 
-riedel:Bakuto owl:sameAS <http://www.wikidata.org/entity/Q4811410> .
+riedel:Jolt riedel:genre "féminin"@fr .
 
-riedel:Beyonder owl:sameAS <http://www.wikidata.org/entity/Q1994866> .
+riedel:SunGirl riedel:genre "féminin"@fr .
 
-riedel:AlexanderPierce owl:sameAS <http://www.wikidata.org/entity/Q4718969> .
+riedel:Temugin riedel:genre "masculin"@fr .
 
-riedel:All-American owl:sameAS <http://www.wikidata.org/entity/Q4727774> .
+riedel:TurkBarrett riedel:genre "masculin"@fr .
 
-riedel:AmberHunt owl:sameAS <http://www.wikidata.org/entity/Q4741258> .
+riedel:TyroneCash riedel:genre "masculin"@fr .
 
-riedel:Mr.Fish owl:sameAS <http://www.wikidata.org/entity/Q6928642> .
+riedel:Veranke riedel:genre "féminin"@fr .
 
-riedel:BenReilly owl:sameAS <http://www.wikidata.org/entity/Q2343504> .
+riedel:VictorMancha riedel:genre "masculin"@fr .
 
-riedel:JockJackson owl:sameAS <http://www.wikidata.org/entity/Q3808615> .
+riedel:VictoriaMontesi riedel:genre "féminin"@fr .
 
-riedel:BlackKnight%28SirPercy%29 owl:sameAS <http://www.wikidata.org/entity/Q4921112> .
+riedel:Volla riedel:genre "féminin"@fr .
 
-riedel:Hrimhari owl:sameAS <http://www.wikidata.org/entity/Q5923690> .
+riedel:Turac riedel:genre "masculin"@fr .
 
-riedel:Ion%28MarvelComics%29 owl:sameAS <http://www.wikidata.org/entity/Q6062838> .
+riedel:L%27Homme-dragon riedel:genre "masculin"@fr .
 
-riedel:Spider-Girl owl:sameAS <http://www.wikidata.org/entity/Q2186500> .
+riedel:Nébula riedel:genre "féminin"@fr .
 
-riedel:Killraven owl:sameAS <http://www.wikidata.org/entity/Q2323492> .
+riedel:KevinSydney riedel:genre "masculin"@fr .
 
-riedel:MadameMasque owl:sameAS <http://www.wikidata.org/entity/Q2339160> .
+riedel:tribunalVivant riedel:genre "masculin"@fr .
 
-riedel:Alkhema owl:sameAS <http://www.wikidata.org/entity/Q2383531> .
+riedel:TamaraRahn riedel:genre "féminin"@fr .
 
-riedel:Bird-Brain owl:sameAS <http://www.wikidata.org/entity/Q4915814> .
+riedel:TylerStone riedel:genre "masculin"@fr .
 
-riedel:BlueBlade owl:sameAS <http://www.wikidata.org/entity/Q4928885> .
+riedel:U-Man riedel:genre "masculin"@fr .
 
-riedel:BlueShield owl:sameAS <http://www.wikidata.org/entity/Q4929836> .
+riedel:KamalaKhan riedel:genre "féminin"@fr .
 
-riedel:Hoarfen owl:sameAS <http://www.wikidata.org/entity/Q5874567> .
+riedel:Umar riedel:genre "féminin"@fr .
 
-riedel:IronManfuturo owl:sameAS <http://www.wikidata.org/entity/Q6072691> .
+riedel:Ulik riedel:genre "masculin"@fr .
 
-riedel:IsmaelOrtega owl:sameAS <http://www.wikidata.org/entity/Q6084597> .
+riedel:DonaldPierce riedel:genre "masculin"@fr .
 
-riedel:JasonMacendale owl:sameAS <http://www.wikidata.org/entity/Q6163022> .
+riedel:Annex riedel:genre "masculin"@fr .
 
-riedel:JasperSitwell owl:sameAS <http://www.wikidata.org/entity/Q6164049> .
+riedel:Steppin%27Razor riedel:genre "masculin"@fr .
 
-riedel:JunzoMuto owl:sameAS <http://www.wikidata.org/entity/Q6314435> .
+riedel:TanaNile riedel:genre "féminin"@fr .
 
-riedel:Kick-Ass owl:sameAS <http://www.wikidata.org/entity/Q6404178> .
+riedel:VanessaFisk riedel:genre "féminin"@fr .
 
-riedel:Valkyrie owl:sameAS <http://www.wikidata.org/entity/Q2128793> .
+riedel:HoneyLemon riedel:genre "féminin"@fr .
 
-riedel:Kala owl:sameAS <http://www.wikidata.org/entity/Q6349929> .
+riedel:Smasher riedel:genre "masculin"@fr .
 
-riedel:Blackbird owl:sameAS <http://www.wikidata.org/entity/Q4922579> .
+riedel:AndrewForson riedel:genre "masculin"@fr .
 
-riedel:Marina owl:sameAS <http://www.wikidata.org/entity/Q2295556> .
+riedel:Hellcow riedel:genre "féminin"@fr .
 
-riedel:Leader owl:sameAS <http://www.wikidata.org/entity/Q2328990> .
+riedel:PowerMan riedel:genre "masculin"@fr .
 
-riedel:Vision owl:sameAS <http://www.wikidata.org/entity/Q2307071>, <http://www.wikidata.org/entity/Q17031584> .
+riedel:Hummingbird riedel:genre "féminin"@fr .
 
-riedel:ISAAC owl:sameAS <http://www.wikidata.org/entity/Q5973719> .
+riedel:Minotaur riedel:genre "masculin"@fr .
 
-riedel:BenjaminParker owl:sameAS <http://www.wikidata.org/entity/Q2299139> .
+riedel:PrettyPersuasions riedel:genre "féminin"@fr .
 
-riedel:Pygargue owl:sameAS <http://www.wikidata.org/entity/Q2296728> .
+riedel:SusanBanner riedel:genre "féminin"@fr .
 
-riedel:Requin-tigre owl:sameAS <http://www.wikidata.org/entity/Q2297765> .
+riedel:Painter riedel:genre "masculin"@fr .
 
-riedel:Boomslang owl:sameAS <http://www.wikidata.org/entity/Q2374861> .
+riedel:Hebe riedel:genre "féminin"@fr .
 
-riedel:Inertia owl:sameAS <http://www.wikidata.org/entity/Q6028472> .
+riedel:Slash riedel:genre "féminin"@fr .
 
-riedel:KarimaShapandar owl:sameAS <http://www.wikidata.org/entity/Q2354713> .
+riedel:Lodestone riedel:genre "féminin"@fr .
 
-riedel:MoiraMacTaggert owl:sameAS <http://www.wikidata.org/entity/Q2361279> .
+riedel:GoGoTomago riedel:genre "féminin"@fr .
 
-riedel:CaptainBritain owl:sameAS <http://www.wikidata.org/entity/Q2405949> .
+riedel:Sarnak riedel:genre "masculin"@fr .
 
-riedel:Firelord owl:sameAS <http://www.wikidata.org/entity/Q2405958> .
+riedel:Flashfire riedel:genre "masculin"@fr .
 
-riedel:Jackpot owl:sameAS <http://www.wikidata.org/entity/Q3805733> .
+riedel:HiroTakachiho riedel:genre "masculin"@fr .
 
-riedel:Darwin owl:sameAS <http://www.wikidata.org/entity/Q2204855> .
+riedel:Nightside riedel:genre "féminin"@fr .
 
-riedel:Joan owl:sameAS <http://www.wikidata.org/entity/Q3808541> .
+riedel:SteelSerpent riedel:genre "masculin"@fr .
 
-riedel:Hardball owl:sameAS <http://www.wikidata.org/entity/Q3783340> .
+riedel:RebeccaBanner riedel:genre "féminin"@fr .
 
-riedel:Leap-Frog owl:sameAS <http://www.wikidata.org/entity/Q3829270> .
+riedel:ElaineBanner riedel:genre "féminin"@fr .
 
-riedel:BlackFury owl:sameAS <http://www.wikidata.org/entity/Q4920813> .
+riedel:MODAM riedel:genre "féminin"@fr .
 
-riedel:BlackRider owl:sameAS <http://www.wikidata.org/entity/Q4921594> .
+riedel:Athéna%28MarvelComics%29 riedel:genre "féminin"@fr .
 
-riedel:BlueEagle owl:sameAS <http://www.wikidata.org/entity/Q4929083> .
+riedel:BrentJackson riedel:genre "masculin"@fr .
 
-riedel:BrainDrain owl:sameAS <http://www.wikidata.org/entity/Q4955758> .
+riedel:Chthon riedel:genre "masculin"@fr .
 
-riedel:Bug owl:sameAS <http://www.wikidata.org/entity/Q4986067> .
+riedel:Coldheart riedel:genre "féminin"@fr .
 
-riedel:Empath owl:sameAS <http://www.wikidata.org/entity/Q2364510> .
+riedel:Deathcry riedel:genre "féminin"@fr .
 
-riedel:Hippo owl:sameAS <http://www.wikidata.org/entity/Q5768353> .
+riedel:FabianCortez riedel:genre "mâle"@fr .
 
-riedel:Huntsman owl:sameAS <http://www.wikidata.org/entity/Q5945793> .
+riedel:G.W.Bridge riedel:genre "masculin"@fr .
 
-riedel:HumanTop owl:sameAS <http://www.wikidata.org/entity/Q5937631> .
+riedel:WalterHardy riedel:genre "masculin"@fr .
 
-riedel:Mentac owl:sameAS <http://www.wikidata.org/entity/Q6010325> .
+riedel:X-Cutioner riedel:genre "masculin"@fr .
 
-riedel:JacobShaw owl:sameAS <http://www.wikidata.org/entity/Q6119272> .
+riedel:UltimateRickJones riedel:genre "masculin"@fr .
 
-riedel:JimWilson owl:sameAS <http://www.wikidata.org/entity/Q6198986> .
+riedel:Cardiac riedel:genre "masculin"@fr .
 
-riedel:JohnKing owl:sameAS <http://www.wikidata.org/entity/Q6243123> .
+riedel:Femme-sable riedel:genre "féminin"@fr .
 
-riedel:KateWaynesboro owl:sameAS <http://www.wikidata.org/entity/Q6375847> .
+riedel:Sauron riedel:genre "masculin"@fr .
 
-riedel:KavitaRao owl:sameAS <http://www.wikidata.org/entity/Q6379297> .
+riedel:Ecstasy riedel:genre "féminin"@fr .
 
-riedel:Kelda owl:sameAS <http://www.wikidata.org/entity/Q6385536> .
+riedel:Firebird riedel:genre "féminin"@fr .
 
-riedel:MichaelPointer owl:sameAS <http://www.wikidata.org/entity/Q2396146> .
+riedel:FrankDrake riedel:genre "masculin"@fr .
 
-riedel:Bloodshed owl:sameAS <http://www.wikidata.org/entity/Q4928002> .
+riedel:Hermod riedel:genre "masculin"@fr .
 
-riedel:Executioner owl:sameAS <http://www.wikidata.org/entity/Q2162035> .
+riedel:Condor riedel:genre "masculin"@fr .
 
-riedel:Éternité owl:sameAS <http://www.wikidata.org/entity/Q2271107> .
+riedel:JohnGarrett riedel:genre "masculin"@fr .
 
-riedel:Astronome owl:sameAS <http://www.wikidata.org/entity/Q2399434> .
+riedel:Intermédiaire riedel:genre "masculin"@fr .
 
-riedel:LeRôdeur owl:sameAS <http://www.wikidata.org/entity/Q2274942> .
+riedel:Blaquesmith riedel:genre "masculin"@fr .
 
-riedel:JackFrost owl:sameAS <http://www.wikidata.org/entity/Q3805581> .
+riedel:Cadaver%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:JackRussell owl:sameAS <http://www.wikidata.org/entity/Q2268707> .
+riedel:Tyr riedel:genre "masculin"@fr .
 
-riedel:BlackKnight owl:sameAS <http://www.wikidata.org/entity/Q4921115> .
+riedel:DocteurDruid riedel:genre "masculin"@fr .
 
-riedel:Electro owl:sameAS <http://www.wikidata.org/entity/Q2297886> .
+riedel:Earthmover riedel:genre "masculin"@fr .
 
-riedel:Gazer owl:sameAS <http://www.wikidata.org/entity/Q2296681> .
+riedel:EliasBogan riedel:genre "masculin"@fr .
 
-riedel:Mystério owl:sameAS <http://www.wikidata.org/entity/Q2283843> .
+riedel:BigWheel riedel:genre "masculin"@fr .
 
-riedel:Starfox owl:sameAS <http://www.wikidata.org/entity/Q2295563> .
+riedel:Confesseur riedel:genre "masculin"@fr .
 
-riedel:JuliePower owl:sameAS <http://www.wikidata.org/entity/Q2334997> .
+riedel:DJ riedel:genre "masculin"@fr .
 
-riedel:BlackCrow owl:sameAS <http://www.wikidata.org/entity/Q4920613> .
+riedel:Hoss riedel:genre "masculin"@fr .
 
-riedel:Hiroim owl:sameAS <http://www.wikidata.org/entity/Q3785764> .
+riedel:Karkas riedel:genre "masculin"@fr .
 
-riedel:Hobgoblin owl:sameAS <http://www.wikidata.org/entity/Q5875033> .
+riedel:Nightwatch riedel:genre "masculin"@fr .
 
-riedel:JoeFixit owl:sameAS <http://www.wikidata.org/entity/Q3808653> .
+riedel:Volstagg riedel:genre "masculin"@fr .
 
-riedel:Bird-Man owl:sameAS <http://www.wikidata.org/entity/Q4915817> .
+riedel:Yellowjacket riedel:genre "féminin"@fr .
 
-riedel:BlackJackTarr owl:sameAS <http://www.wikidata.org/entity/Q4921080> .
+riedel:YonduUdonta riedel:genre "masculin"@fr .
 
-riedel:Blank owl:sameAS <http://www.wikidata.org/entity/Q4925117> .
+riedel:Poundcakes riedel:genre "féminin"@fr .
 
-riedel:Bloodstrike owl:sameAS <http://www.wikidata.org/entity/Q4928026> .
+riedel:SolomonKane riedel:genre "masculin"@fr .
 
-riedel:Bloodwraith owl:sameAS <http://www.wikidata.org/entity/Q4928045> .
+riedel:Nefarius riedel:genre "masculin"@fr .
 
-riedel:BrotherTode owl:sameAS <http://www.wikidata.org/entity/Q4975568> .
+riedel:SallyFloyd riedel:genre "féminin"@fr .
 
-riedel:Brynocki owl:sameAS <http://www.wikidata.org/entity/Q4981031> .
+riedel:MonicaRappaccini riedel:genre "féminin"@fr .
 
-riedel:Hindsight owl:sameAS <http://www.wikidata.org/entity/Q5766254> .
+riedel:Ganymède riedel:genre "féminin"@fr .
 
-riedel:HomertheHappyGhost owl:sameAS <http://www.wikidata.org/entity/Q5890307> .
+riedel:Century riedel:genre "masculin"@fr .
 
-riedel:JenniferKale owl:sameAS <http://www.wikidata.org/entity/Q6178488> .
+riedel:Knull riedel:genre "masculin"@fr .
 
-riedel:Jolen owl:sameAS <http://www.wikidata.org/entity/Q6269892> .
+riedel:Rom riedel:genre "masculin"@fr .
 
-riedel:JustonSeyfert owl:sameAS <http://www.wikidata.org/entity/Q6318512> .
+riedel:Collectionneur riedel:genre "masculin"@fr .
 
-riedel:Kamuu owl:sameAS <http://www.wikidata.org/entity/Q6359883> .
+riedel:Bres riedel:genre "masculin"@fr .
 
-riedel:KarlMalus owl:sameAS <http://www.wikidata.org/entity/Q6372059> .
+riedel:Discus riedel:genre "masculin"@fr .
 
-riedel:KennyMcFarlane owl:sameAS <http://www.wikidata.org/entity/Q6391154> .
+riedel:Hela riedel:genre "féminin"@fr .
 
-riedel:Kamal owl:sameAS <http://www.wikidata.org/entity/Q6355355> .
+riedel:Cheetah riedel:genre "masculin"@fr .
 
-riedel:Hit-Girl owl:sameAS <http://www.wikidata.org/entity/Q3785909> .
+riedel:Devos riedel:genre "masculin"@fr .
 
-riedel:Hoodwink owl:sameAS <http://www.wikidata.org/entity/Q5897666> .
+riedel:BaronBrimstone riedel:genre "masculin"@fr .
 
-riedel:Junta owl:sameAS <http://www.wikidata.org/entity/Q6314350> .
+riedel:Batwing%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:JamesPower owl:sameAS <http://www.wikidata.org/entity/Q6141397> .
+riedel:Bison%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:KarenPage owl:sameAS <http://www.wikidata.org/entity/Q2298077> .
+riedel:Centurius riedel:genre "masculin"@fr .
 
-riedel:Corredor owl:sameAS <http://www.wikidata.org/entity/Q5789101> .
+riedel:ElsaBloodstone riedel:genre "féminin"@fr .
 
-riedel:Blackthorn owl:sameAS <http://www.wikidata.org/entity/Q4923455> .
+riedel:WillieLumpkin riedel:genre "masculin"@fr .
 
-riedel:Brute owl:sameAS <http://www.wikidata.org/entity/Q4979856> .
+riedel:Fer-de-lance riedel:genre "féminin"@fr .
 
-riedel:RobbieBaldwin owl:sameAS <http://www.wikidata.org/entity/Q2276949> .
+riedel:Gargouille riedel:genre "masculin"@fr .
 
-riedel:AgathaHarkness owl:sameAS <http://www.wikidata.org/entity/Q2339646> .
+riedel:Hippolyta riedel:genre "féminin"@fr .
 
-riedel:Zzzax owl:sameAS <http://www.wikidata.org/entity/Q2309083> .
+riedel:Zabu riedel:genre "masculin"@fr .
 
-riedel:ChristopherSummers owl:sameAS <http://www.wikidata.org/entity/Q2385117> .
+riedel:Widget riedel:genre "féminin"@fr .
 
-riedel:ChrisMcCarthy owl:sameAS <http://www.wikidata.org/entity/Q5767352> .
+riedel:Bi-bête riedel:genre "masculin"@fr .
 
-riedel:Aquiles owl:sameAS <http://www.wikidata.org/entity/Q5778065> .
+riedel:BlazingSkull riedel:genre "masculin"@fr .
 
-riedel:Torunn owl:sameAS <http://www.wikidata.org/entity/Q6151029> .
+riedel:Cardinal%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:Clea owl:sameAS <http://www.wikidata.org/entity/Q2404595> .
+riedel:Dreadknight riedel:genre "masculin"@fr .
 
-riedel:Lockheed owl:sameAS <http://www.wikidata.org/entity/Q2196544> .
+riedel:SpencerSmythe riedel:genre "masculin"@fr .
 
-riedel:BlackTomCassidy owl:sameAS <http://www.wikidata.org/entity/Q2236431> .
+riedel:WesternKid riedel:genre "masculin"@fr .
 
-riedel:Shang-Chi owl:sameAS <http://www.wikidata.org/entity/Q2262357> .
+riedel:Zarrko riedel:genre "masculin"@fr .
 
-riedel:Ancien owl:sameAS <http://www.wikidata.org/entity/Q2365240> .
+riedel:Phage riedel:genre "masculin"@fr .
 
-riedel:Attuma owl:sameAS <http://www.wikidata.org/entity/Q2393694> .
+riedel:AbnerJenkins riedel:genre "masculin"@fr .
 
-riedel:Hiro-Kala owl:sameAS <http://www.wikidata.org/entity/Q3785756> .
+riedel:CullenBloodstone riedel:genre "masculin"@fr .
 
-riedel:BeverlySwitzler owl:sameAS <http://www.wikidata.org/entity/Q4899624> .
+riedel:Bloodaxe riedel:genre "féminin"@fr .
 
-riedel:Blackwulf owl:sameAS <http://www.wikidata.org/entity/Q4923646> .
+riedel:Calypso%28comics%29 riedel:genre "féminin"@fr .
 
-riedel:JadeDragon owl:sameAS <http://www.wikidata.org/entity/Q6121288> .
+riedel:Coachwhip riedel:genre "féminin"@fr .
 
-riedel:Hussar owl:sameAS <http://www.wikidata.org/entity/Q5949702> .
+riedel:Contemplateur riedel:genre "masculin"@fr .
 
-riedel:Batroc owl:sameAS <http://www.wikidata.org/entity/Q2308669> .
+riedel:LaTâche riedel:genre "masculin"@fr .
 
-riedel:Thanos owl:sameAS <http://www.wikidata.org/entity/Q2276627> .
+riedel:Yukio riedel:genre "féminin"@fr .
 
-riedel:BenjaminRichardParker owl:sameAS <http://www.wikidata.org/entity/Q4889166> .
+riedel:Hypno-Hustler riedel:genre "masculin"@fr .
 
-riedel:BlackRaazer owl:sameAS <http://www.wikidata.org/entity/Q3777295> .
+riedel:JaniceLincoln riedel:genre "féminin"@fr .
 
-riedel:BlackSpectre owl:sameAS <http://www.wikidata.org/entity/Q4921877> .
+riedel:AlphonsoMacKenzie riedel:genre "masculin"@fr .
 
-riedel:Bonebreaker owl:sameAS <http://www.wikidata.org/entity/Q4941589> .
+riedel:AshleyKafka riedel:genre "féminin"@fr .
 
-riedel:BrianBanner owl:sameAS <http://www.wikidata.org/entity/Q4963042> .
+riedel:Baphomet riedel:genre "masculin"@fr .
 
-riedel:Javelynn owl:sameAS <http://www.wikidata.org/entity/Q6165352> .
+riedel:Cyttorak riedel:genre "masculin"@fr .
 
-riedel:Jimmy-6 owl:sameAS <http://www.wikidata.org/entity/Q6199450> .
+riedel:DaimonHellstrom riedel:genre "masculin"@fr .
 
-riedel:JohnRyker owl:sameAS <http://www.wikidata.org/entity/Q6256126> .
+riedel:Griffejaune riedel:genre "masculin"@fr .
 
-riedel:JohntheSkrull owl:sameAS <http://www.wikidata.org/entity/Q6265907> .
+riedel:Bloodscream riedel:genre "masculin"@fr .
 
-riedel:Kukulcan owl:sameAS <http://www.wikidata.org/entity/Q3810885> .
+riedel:Corrupteur riedel:genre "masculin"@fr .
 
-riedel:JessicaJones owl:sameAS <http://www.wikidata.org/entity/Q2271377> .
+riedel:WernervonStrucker riedel:genre "masculin"@fr .
 
-riedel:Eight-ball owl:sameAS <http://www.wikidata.org/entity/Q2339590> .
+riedel:Jazinda riedel:genre "féminin"@fr .
 
-riedel:BlondePhantom owl:sameAS <http://www.wikidata.org/entity/Q4927450> .
+riedel:HeinrichZemo riedel:genre "masculin"@fr .
 
-riedel:HulkRobot owl:sameAS <http://www.wikidata.org/entity/Q5935743> .
+riedel:Dagger riedel:genre "féminin"@fr .
 
-riedel:JuneCovington owl:sameAS <http://www.wikidata.org/entity/Q6312256> .
+riedel:Plazm riedel:genre "masculin"@fr .
 
-riedel:KatFarrell owl:sameAS <http://www.wikidata.org/entity/Q6374955> .
+riedel:DuendeCinza riedel:genre "masculin"@fr .
 
-riedel:OmegaRed owl:sameAS <http://www.wikidata.org/entity/Q2420335> .
+riedel:IreneMerryweather riedel:genre "féminin"@fr .
 
-riedel:Deathlok owl:sameAS <http://www.wikidata.org/entity/Q2526966> .
+riedel:PhillipHayes riedel:genre "masculin"@fr .
 
-riedel:Right-Winger owl:sameAS <http://www.wikidata.org/entity/Q7333443> .
+riedel:ProximaMidnight riedel:genre "féminin"@fr .
 
-riedel:RockwellDavis owl:sameAS <http://www.wikidata.org/entity/Q7355664> .
+riedel:Lash%28comics%29 riedel:genre "masculin"@fr .
 
-riedel:SadieSinclair owl:sameAS <http://www.wikidata.org/entity/Q7397939> .
+riedel:HaroldMeachum riedel:genre "masculin"@fr .
 
-riedel:3-dman owl:sameAS <http://www.wikidata.org/entity/Q2511584> .
+riedel:AnnamariaMarconi riedel:genre "féminin"@fr .
 
-riedel:RomanyWisdom owl:sameAS <http://www.wikidata.org/entity/Q7362866> .
+riedel:NicoMinoru riedel:genre "féminin"@fr .
 
-riedel:RoxanneSimpson owl:sameAS <http://www.wikidata.org/entity/Q7372377> .
+riedel:CorvusGlaive riedel:genre "masculin"@fr .
 
-riedel:Rubbermaid owl:sameAS <http://www.wikidata.org/entity/Q7375849> .
+riedel:EbonyMaw riedel:genre "masculin"@fr .
 
-riedel:Punisher2099 owl:sameAS <http://www.wikidata.org/entity/Q10750145> .
+riedel:Shock riedel:genre "féminin"@fr .
 
-riedel:SonnyBurch owl:sameAS <http://www.wikidata.org/entity/Q60826745> .
+riedel:X-Ray riedel:genre "masculin"@fr .
 
-riedel:BaronMordo owl:sameAS <http://www.wikidata.org/entity/Q2435970> .
+riedel:Silk riedel:genre "féminin"@fr .
 
-riedel:DarkClaw owl:sameAS <http://www.wikidata.org/entity/Q2438285> .
+riedel:Scorpion riedel:genre "féminin"@fr .
 
-riedel:IronMonger owl:sameAS <http://www.wikidata.org/entity/Q2487192> .
+riedel:RichardParker riedel:genre "masculin"@fr .
 
-riedel:RawhideKid owl:sameAS <http://www.wikidata.org/entity/Q7296989> .
+riedel:SapphireStyx%28MarvelComics%29 riedel:genre "féminin"@fr .
 
-riedel:RebelRalston owl:sameAS <http://www.wikidata.org/entity/Q7302047> .
+riedel:MidnightSun riedel:genre "masculin"@fr .
 
-riedel:Roboduck owl:sameAS <http://www.wikidata.org/entity/Q7353279> .
+riedel:JacobConover riedel:genre "masculin"@fr .
 
-riedel:JoshuaWaldemeyer owl:sameAS <http://www.wikidata.org/entity/Q11897361> .
+riedel:SergeantBlume riedel:genre "masculin"@fr .
 
-riedel:MayReillyParker owl:sameAS <http://www.wikidata.org/entity/Q2453332> .
+riedel:KraventheHunter riedel:genre "féminin"@fr .
 
-riedel:Pythondesroches owl:sameAS <http://www.wikidata.org/entity/Q2420171> .
+riedel:MaryParker riedel:genre "féminin"@fr .
 
-riedel:SamuelSilke owl:sameAS <http://www.wikidata.org/entity/Q7412627> .
+riedel:HeinzKruger riedel:genre "masculin"@fr .
 
-riedel:Xavin owl:sameAS <http://www.wikidata.org/entity/Q10394292> .
+riedel:JerynHogarth riedel:genre "masculin"@fr .
 
-riedel:Jocaste owl:sameAS <http://www.wikidata.org/entity/Q2526805> .
+riedel:Ironheart riedel:genre "féminin"@fr .
 
-riedel:Roma owl:sameAS <http://www.wikidata.org/entity/Q7361474> .
+riedel:FuManchu riedel:genre "masculin"@fr .
 
-riedel:Echo owl:sameAS <http://www.wikidata.org/entity/Q2519959> .
+riedel:UltimateSpider-Woman riedel:genre "féminin"@fr .
 
-riedel:Runner owl:sameAS <http://www.wikidata.org/entity/Q7379906> .
+riedel:DancingWater riedel:genre "féminin"@fr .
 
-riedel:Redstone owl:sameAS <http://www.wikidata.org/entity/Q7306278> .
+riedel:Eye-Scream riedel:genre "masculin"@fr .
 
-riedel:Mephisto owl:sameAS <http://www.wikidata.org/entity/Q2418665> .
+riedel:GorrtheGodButcher riedel:genre "masculin"@fr .
 
-riedel:Ringmaster owl:sameAS <http://www.wikidata.org/entity/Q7334931> .
+riedel:DarrenCross riedel:genre "masculin"@fr .
 
-riedel:Radian owl:sameAS <http://www.wikidata.org/entity/Q7280286> .
+riedel:JackMurdock riedel:genre "masculin"@fr .
 
-riedel:L%27Homme-taupe owl:sameAS <http://www.wikidata.org/entity/Q2478988> .
+riedel:ChesterPhillips riedel:genre "masculin"@fr .
 
-riedel:LilandraNeramani owl:sameAS <http://www.wikidata.org/entity/Q2504688> .
+riedel:IngridThysson riedel:genre "féminin"@fr .
 
-riedel:Silvermane owl:sameAS <http://www.wikidata.org/entity/Q2500449> .
+riedel:Reptilla riedel:genre "féminin"@fr .
 
-riedel:Conan owl:sameAS <http://www.wikidata.org/entity/Q11680834> .
+riedel:T%27Chaka riedel:genre "masculin"@fr .
 
-riedel:Gladiator owl:sameAS <http://www.wikidata.org/entity/Q2420331> .
+riedel:Freya riedel:genre "féminin"@fr .
 
-riedel:Quasimodo owl:sameAS <http://www.wikidata.org/entity/Q11889545> .
+riedel:WardMeachum riedel:genre "masculin"@fr .
 
-riedel:RaaoftheCaves owl:sameAS <http://www.wikidata.org/entity/Q7278369> .
+riedel:SarahStacy riedel:genre "féminin"@fr .
 
-riedel:Raiders owl:sameAS <http://www.wikidata.org/entity/Q7283783> .
+riedel:TheodoreSlaght riedel:genre "masculin"@fr .
 
-riedel:RickJones owl:sameAS <http://www.wikidata.org/entity/Q2535955> .
+riedel:Serpente riedel:genre "masculin"@fr .
 
-riedel:Balder owl:sameAS <http://www.wikidata.org/entity/Q2440279> .
+riedel:Annalee%28MarvelComics%29 riedel:genre "féminin"@fr .
 
-riedel:Starbolt owl:sameAS <http://www.wikidata.org/entity/Q10747699> .
+riedel:DuendeMacabro%28ArnoldDonovan%29 riedel:genre "masculin"@fr .
 
-riedel:Tigra owl:sameAS <http://www.wikidata.org/entity/Q2532716> .
+riedel:Pigmeu%28MarvelComics%29 riedel:genre "masculin"@fr .
 
-riedel:Eon owl:sameAS <http://www.wikidata.org/entity/Q2487157> .
+riedel:JimMorita riedel:genre "masculin"@fr .
 
-riedel:Cloak owl:sameAS <http://www.wikidata.org/entity/Q60450767> .
+riedel:RachelCole-Alves riedel:genre "féminin"@fr .
 
-riedel:JohnJameson owl:sameAS <http://www.wikidata.org/entity/Q2423326> .
+riedel:HopePym riedel:genre "féminin"@fr .
 
-riedel:LeMandarin owl:sameAS <http://www.wikidata.org/entity/Q2417914> .
+riedel:DorrekVII riedel:genre "masculin"@fr .
 
-riedel:LeRusse owl:sameAS <http://www.wikidata.org/entity/Q2438411> .
+riedel:BuckyBarnes riedel:genre "masculin"@fr .
 
-riedel:RichardFisk owl:sameAS <http://www.wikidata.org/entity/Q2436122> .
+riedel:Bi-Beast riedel:genre "masculin"@fr .
 
-riedel:Hulkling owl:sameAS <http://www.wikidata.org/entity/Q2526766> .
+riedel:GustavFiers riedel:genre "masculin"@fr .
 
-riedel:RedBarbarian owl:sameAS <http://www.wikidata.org/entity/Q7303706> .
+riedel:ClaireTemple riedel:genre "féminin"@fr .
 
-riedel:RedRonin owl:sameAS <http://www.wikidata.org/entity/Q7304948> .
+riedel:FranklinStorm riedel:genre "masculin"@fr .
 
-riedel:RichardRory owl:sameAS <http://www.wikidata.org/entity/Q7328732> .
+riedel:JasonStryker riedel:genre "masculin"@fr .
 
-riedel:RingoKid owl:sameAS <http://www.wikidata.org/entity/Q7334949> .
+riedel:MaggieMurdock riedel:genre "féminin"@fr .
 
-riedel:Saturnyne owl:sameAS <http://www.wikidata.org/entity/Q7426843> .
+riedel:JoyMeachum riedel:genre "féminin"@fr .
 
-riedel:Doppelganger owl:sameAS <http://www.wikidata.org/entity/Q2440293> .
+riedel:AntonRodriguez riedel:genre "masculin"@fr .
 
-riedel:Ringer owl:sameAS <http://www.wikidata.org/entity/Q7334852> .
+riedel:Shiklah riedel:genre "féminin"@fr .
 
-riedel:Sat-Yr-9 owl:sameAS <http://www.wikidata.org/entity/Q7425843> .
+riedel:AldrichKillian riedel:genre "masculin"@fr .
 
-riedel:Ravage owl:sameAS <http://www.wikidata.org/entity/Q7296298> .
+riedel:HamirtheHermit riedel:genre "masculin"@fr .
 
-riedel:Ultron owl:sameAS <http://www.wikidata.org/entity/Q2474195> .
+riedel:Thim riedel:genre "masculin"@fr .
 
-riedel:Reptil owl:sameAS <http://www.wikidata.org/entity/Q7314338> .
+riedel:RoderickKingsley riedel:genre "masculin"@fr .
 
-riedel:RikkiBarnes owl:sameAS <http://www.wikidata.org/entity/Q7334071> .
+riedel:BattleGuy riedel:genre "masculin"@fr .
 
-riedel:LivingBrain owl:sameAS <http://www.wikidata.org/entity/Q10568194> .
+riedel:BlackDwarf riedel:genre "masculin"@fr .
 
-riedel:Warstar owl:sameAS <http://www.wikidata.org/entity/Q10748328> .
+riedel:Eitri riedel:genre "masculin"@fr .
 
-riedel:MelissaBowen owl:sameAS <http://www.wikidata.org/entity/Q60828180> .
+riedel:BillyRusso riedel:genre "masculin"@fr .
 
-riedel:Scaredycat owl:sameAS <http://www.wikidata.org/entity/Q7430385> .
+riedel:CarltonDrake riedel:genre "masculin"@fr .
 
-riedel:SharonFriedlander owl:sameAS <http://www.wikidata.org/entity/Q7490065> .
+riedel:DangerousJinn riedel:genre "masculin"@fr .
 
-riedel:Shriker owl:sameAS <http://www.wikidata.org/entity/Q7503973> .
+riedel:TheInsect riedel:genre "masculin"@fr .
 
-riedel:InfantTerrible owl:sameAS <http://www.wikidata.org/entity/Q12964987> .
+riedel:CletusKasady riedel:genre "masculin"@fr .
 
-riedel:Bricoleur owl:sameAS <http://www.wikidata.org/entity/Q2623764> .
+riedel:NadiavanDyne riedel:genre "féminin"@fr .
 
-riedel:DumDumDugan owl:sameAS <http://www.wikidata.org/entity/Q2642001> .
+riedel:Singularity riedel:genre "féminin"@fr .
 
-riedel:AlexPower owl:sameAS <http://www.wikidata.org/entity/Q2670637> .
+riedel:FeiLian riedel:genre "féminin"@fr .
 
-riedel:SeanandChris owl:sameAS <http://www.wikidata.org/entity/Q7441548> .
+riedel:Thumbelina riedel:genre "féminin"@fr .
 
-riedel:SkrullianSkymaster owl:sameAS <http://www.wikidata.org/entity/Q7536674> .
+riedel:TeresaParker riedel:genre "féminin"@fr .
 
-riedel:Slaymaster owl:sameAS <http://www.wikidata.org/entity/Q7539558> .
+riedel:ZanderRice riedel:genre "masculin"@fr .
 
-riedel:Guardsman owl:sameAS <http://www.wikidata.org/entity/Q12964384> .
+riedel:BrettMahoney riedel:genre "masculin"@fr .
 
-riedel:Killpower owl:sameAS <http://www.wikidata.org/entity/Q13512249> .
+riedel:UltimateGreenGoblin riedel:genre "masculin"@fr .
 
-riedel:Geiger owl:sameAS <http://www.wikidata.org/entity/Q13564943> .
+riedel:AndreavonStrucker riedel:genre "féminin"@fr .
 
-riedel:Inferno owl:sameAS <http://www.wikidata.org/entity/Q12964986> .
+riedel:HonestJohn riedel:genre "masculin"@fr .
 
-riedel:Janus owl:sameAS <http://www.wikidata.org/entity/Q13564968> .
+riedel:Mzee riedel:genre "masculin"@fr .
 
-riedel:Puma owl:sameAS <http://www.wikidata.org/entity/Q2628556> .
+riedel:Ban-Luck riedel:genre "féminin"@fr .
 
-riedel:Silhouette owl:sameAS <http://www.wikidata.org/entity/Q7514881> .
+riedel:BrokenHaiku riedel:genre "masculin"@fr .
 
-riedel:Shuri owl:sameAS <http://www.wikidata.org/entity/Q7505397> .
-
-riedel:Scorpia owl:sameAS <http://www.wikidata.org/entity/Q7435371> .
-
-riedel:Shellshock owl:sameAS <http://www.wikidata.org/entity/Q7493874> .
-
-riedel:Scimitar owl:sameAS <http://www.wikidata.org/entity/Q7433906> .
-
-riedel:Fantomex owl:sameAS <http://www.wikidata.org/entity/Q2539413> .
-
-riedel:EriktheRed owl:sameAS <http://www.wikidata.org/entity/Q2613302> .
-
-riedel:FinFangFoom owl:sameAS <http://www.wikidata.org/entity/Q2604737> .
-
-riedel:Toxin owl:sameAS <http://www.wikidata.org/entity/Q2657400> .
-
-riedel:Boomerang owl:sameAS <http://www.wikidata.org/entity/Q2604725> .
-
-riedel:Shotgun owl:sameAS <http://www.wikidata.org/entity/Q7502480> .
-
-riedel:Ego owl:sameAS <http://www.wikidata.org/entity/Q2642342> .
-
-riedel:Haywire owl:sameAS <http://www.wikidata.org/entity/Q12964573> .
-
-riedel:ScarletScarab owl:sameAS <http://www.wikidata.org/entity/Q7430450> .
-
-riedel:Scatterbrain owl:sameAS <http://www.wikidata.org/entity/Q7430600> .
-
-riedel:Shathra owl:sameAS <http://www.wikidata.org/entity/Q7490639> .
-
-riedel:Shatterstar owl:sameAS <http://www.wikidata.org/entity/Q7490722> .
-
-riedel:Shear owl:sameAS <http://www.wikidata.org/entity/Q7492168> .
-
-riedel:Shape owl:sameAS <http://www.wikidata.org/entity/Q7489217> .
-
-riedel:Slapstick owl:sameAS <http://www.wikidata.org/entity/Q7538752> .
-
-riedel:AikkuJokinen owl:sameAS <http://www.wikidata.org/entity/Q12639882> .
-
-riedel:Oshtur owl:sameAS <http://www.wikidata.org/entity/Q13411132> .
-
-riedel:Futurist owl:sameAS <http://www.wikidata.org/entity/Q13564939> .
-
-riedel:Skinner owl:sameAS <http://www.wikidata.org/entity/Q7535500> .
-
-riedel:NilesVanRoekel owl:sameAS <http://www.wikidata.org/entity/Q66368460> .
-
-riedel:Scorpio owl:sameAS <http://www.wikidata.org/entity/Q7435377> .
-
-riedel:Chevaliernoir owl:sameAS <http://www.wikidata.org/entity/Q2539056> .
-
-riedel:Sentry owl:sameAS <http://www.wikidata.org/entity/Q16961733> .
-
-riedel:Helio owl:sameAS <http://www.wikidata.org/entity/Q12964586> .
-
-riedel:Pitre owl:sameAS <http://www.wikidata.org/entity/Q2539445> .
-
-riedel:DemolitionMan owl:sameAS <http://www.wikidata.org/entity/Q2555961> .
-
-riedel:Seeker owl:sameAS <http://www.wikidata.org/entity/Q7445783> .
-
-riedel:Diamondback owl:sameAS <http://www.wikidata.org/entity/Q2555973> .
-
-riedel:Swordsman owl:sameAS <http://www.wikidata.org/entity/Q2552350> .
-
-riedel:BettyBrant owl:sameAS <http://www.wikidata.org/entity/Q2628255> .
-
-riedel:MachineMan owl:sameAS <http://www.wikidata.org/entity/Q2601925> .
-
-riedel:TheHood owl:sameAS <http://www.wikidata.org/entity/Q2624726> .
-
-riedel:ArnimZola owl:sameAS <http://www.wikidata.org/entity/Q2663969> .
-
-riedel:Shuma-Gorath owl:sameAS <http://www.wikidata.org/entity/Q2639507> .
-
-riedel:Silencer owl:sameAS <http://www.wikidata.org/entity/Q7514430> .
-
-riedel:Shalla-Bal owl:sameAS <http://www.wikidata.org/entity/Q7487249> .
-
-riedel:Siege owl:sameAS <http://www.wikidata.org/entity/Q7509770> .
-
-riedel:Sise-Neg owl:sameAS <http://www.wikidata.org/entity/Q7530782> .
-
-riedel:SistersofSin owl:sameAS <http://www.wikidata.org/entity/Q7531362> .
-
-riedel:Southpaw owl:sameAS <http://www.wikidata.org/entity/Q7570933> .
-
-riedel:Kaluu owl:sameAS <http://www.wikidata.org/entity/Q12965698> .
-
-riedel:Carrion owl:sameAS <http://www.wikidata.org/entity/Q2555885> .
-
-riedel:Adversaire owl:sameAS <http://www.wikidata.org/entity/Q2604584> .
-
-riedel:U.S.Agent owl:sameAS <http://www.wikidata.org/entity/Q2540291> .
-
-riedel:WilliamStryker owl:sameAS <http://www.wikidata.org/entity/Q2551564> .
-
-riedel:Bushwhacker owl:sameAS <http://www.wikidata.org/entity/Q2633496> .
-
-riedel:ShaperofWorlds owl:sameAS <http://www.wikidata.org/entity/Q7489254> .
-
-riedel:ShingenYashida owl:sameAS <http://www.wikidata.org/entity/Q7497450> .
-
-riedel:SkulltheSlayer owl:sameAS <http://www.wikidata.org/entity/Q7536965> .
-
-riedel:Ship owl:sameAS <http://www.wikidata.org/entity/Q7497914> .
-
-riedel:Ghaur owl:sameAS <http://www.wikidata.org/entity/Q12964231> .
-
-riedel:Goldeneye owl:sameAS <http://www.wikidata.org/entity/Q12964321> .
-
-riedel:JimmyWoo owl:sameAS <http://www.wikidata.org/entity/Q12965310> .
-
-riedel:Darkhawk owl:sameAS <http://www.wikidata.org/entity/Q2539485> .
-
-riedel:Sentry-459 owl:sameAS <http://www.wikidata.org/entity/Q7451392> .
-
-riedel:Solarman owl:sameAS <http://www.wikidata.org/entity/Q7557064> .
-
-riedel:EddieBrock owl:sameAS <http://www.wikidata.org/entity/Q2604715> .
-
-riedel:Maîtredel%27évolution owl:sameAS <http://www.wikidata.org/entity/Q2568013> .
-
-riedel:AnyaCorazon owl:sameAS <http://www.wikidata.org/entity/Q2604744> .
-
-riedel:MendelStromm owl:sameAS <http://www.wikidata.org/entity/Q2585537> .
-
-riedel:Skullbuster owl:sameAS <http://www.wikidata.org/entity/Q7536967> .
-
-riedel:Grotesk owl:sameAS <http://www.wikidata.org/entity/Q13564951> .
-
-riedel:ZhengBaoYu owl:sameAS <http://www.wikidata.org/entity/Q65163165> .
-
-riedel:Gueuled%27or owl:sameAS <http://www.wikidata.org/entity/Q2558667> .
-
-riedel:Sepulchre owl:sameAS <http://www.wikidata.org/entity/Q7452388> .
-
-riedel:Skornn owl:sameAS <http://www.wikidata.org/entity/Q7536337> .
-
-riedel:SnakeMarston owl:sameAS <http://www.wikidata.org/entity/Q7547033> .
-
-riedel:Isbisa owl:sameAS <http://www.wikidata.org/entity/Q12965056> .
-
-riedel:JARVIS owl:sameAS <http://www.wikidata.org/entity/Q65089566> .
-
-riedel:StevenLang owl:sameAS <http://www.wikidata.org/entity/Q7614956> .
-
-riedel:Aspic%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2866817> .
-
-riedel:StacyDolan owl:sameAS <http://www.wikidata.org/entity/Q7596021> .
-
-riedel:StarrtheSlayer owl:sameAS <http://www.wikidata.org/entity/Q7602237> .
-
-riedel:SteelVengeance owl:sameAS <http://www.wikidata.org/entity/Q7605733> .
-
-riedel:ThomasLogan owl:sameAS <http://www.wikidata.org/entity/Q7791911> .
-
-riedel:Tyrak owl:sameAS <http://www.wikidata.org/entity/Q7861424> .
-
-riedel:VinGonzales owl:sameAS <http://www.wikidata.org/entity/Q7931326> .
-
-riedel:ElaineGrey owl:sameAS <http://www.wikidata.org/entity/Q15229036> .
-
-riedel:ExNihilo owl:sameAS <http://www.wikidata.org/entity/Q15796480> .
-
-riedel:Spider-X owl:sameAS <http://www.wikidata.org/entity/Q7576995> .
-
-riedel:StainedGlassScarlet owl:sameAS <http://www.wikidata.org/entity/Q7597019> .
-
-riedel:GeorgeStacy owl:sameAS <http://www.wikidata.org/entity/Q7879740> .
-
-riedel:TrishTilby owl:sameAS <http://www.wikidata.org/entity/Q7844005> .
-
-riedel:Typeface owl:sameAS <http://www.wikidata.org/entity/Q7860927> .
-
-riedel:Venomm owl:sameAS <http://www.wikidata.org/entity/Q7920179> .
-
-riedel:VictoriaHand owl:sameAS <http://www.wikidata.org/entity/Q7926755> .
-
-riedel:Anachronism owl:sameAS <http://www.wikidata.org/entity/Q16199092> .
-
-riedel:ValerieCooper owl:sameAS <http://www.wikidata.org/entity/Q2720199> .
-
-riedel:AliciaMasters owl:sameAS <http://www.wikidata.org/entity/Q2836774> .
-
-riedel:Asp%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2866760> .
-
-riedel:Tenebrous owl:sameAS <http://www.wikidata.org/entity/Q7699680> .
-
-riedel:Thialfi owl:sameAS <http://www.wikidata.org/entity/Q7783866> .
-
-riedel:Tiboro owl:sameAS <http://www.wikidata.org/entity/Q7800523> .
-
-riedel:Valkyrior owl:sameAS <http://www.wikidata.org/entity/Q7911780> .
-
-riedel:VampirebyNight owl:sameAS <http://www.wikidata.org/entity/Q7913015> .
-
-riedel:StevieHunter owl:sameAS <http://www.wikidata.org/entity/Q7615587> .
-
-riedel:StrawMan owl:sameAS <http://www.wikidata.org/entity/Q7622370> .
-
-riedel:TakiMatsuya owl:sameAS <http://www.wikidata.org/entity/Q7678276> .
-
-riedel:Titannus owl:sameAS <http://www.wikidata.org/entity/Q7809863> .
-
-riedel:TomCorsi owl:sameAS <http://www.wikidata.org/entity/Q7815410> .
-
-riedel:She-Venom owl:sameAS <http://www.wikidata.org/entity/Q14475812> .
-
-riedel:MariaVásquez owl:sameAS <http://www.wikidata.org/entity/Q14619263> .
-
-riedel:YunGuangHan owl:sameAS <http://www.wikidata.org/entity/Q14619349> .
-
-riedel:KatherineAnnSummers owl:sameAS <http://www.wikidata.org/entity/Q15229053> .
-
-riedel:Supernova owl:sameAS <http://www.wikidata.org/entity/Q7644055> .
-
-riedel:Titan owl:sameAS <http://www.wikidata.org/entity/Q7809726> .
-
-riedel:Bastion owl:sameAS <http://www.wikidata.org/entity/Q2737565> .
-
-riedel:Taurus owl:sameAS <http://www.wikidata.org/entity/Q7688914> .
-
-riedel:Mort owl:sameAS <http://www.wikidata.org/entity/Q2732505> .
-
-riedel:Torpedo owl:sameAS <http://www.wikidata.org/entity/Q7826731> .
-
-riedel:Turbo owl:sameAS <http://www.wikidata.org/entity/Q7853799> .
-
-riedel:Thermite owl:sameAS <http://www.wikidata.org/entity/Q7783105> .
-
-riedel:Hammerhead owl:sameAS <http://www.wikidata.org/entity/Q2719607> .
-
-riedel:Swarm owl:sameAS <http://www.wikidata.org/entity/Q7653886> .
-
-riedel:Thea owl:sameAS <http://www.wikidata.org/entity/Q7777197> .
-
-riedel:Tyrannus owl:sameAS <http://www.wikidata.org/entity/Q2749614> .
-
-riedel:Voice owl:sameAS <http://www.wikidata.org/entity/Q7939471> .
-
-riedel:Sputnik owl:sameAS <http://www.wikidata.org/entity/Q7581618> .
-
-riedel:Tai owl:sameAS <http://www.wikidata.org/entity/Q7675721> .
-
-riedel:Tempo owl:sameAS <http://www.wikidata.org/entity/Q7698867> .
-
-riedel:Box owl:sameAS <http://www.wikidata.org/entity/Q2735518> .
-
-riedel:CarolynTrainer owl:sameAS <http://www.wikidata.org/entity/Q2744835> .
-
-riedel:Achebe owl:sameAS <http://www.wikidata.org/entity/Q2823008> .
-
-riedel:Aiguille%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2827872> .
-
-riedel:Apex owl:sameAS <http://www.wikidata.org/entity/Q16152675> .
-
-riedel:Torgo owl:sameAS <http://www.wikidata.org/entity/Q7825726> .
-
-riedel:Aquarian owl:sameAS <http://www.wikidata.org/entity/Q2859171> .
-
-riedel:Klaw owl:sameAS <http://www.wikidata.org/entity/Q2703749> .
-
-riedel:Starbrand owl:sameAS <http://www.wikidata.org/entity/Q7601483> .
-
-riedel:Steeplejack owl:sameAS <http://www.wikidata.org/entity/Q7605936> .
-
-riedel:Super-Patriot owl:sameAS <http://www.wikidata.org/entity/Q7641941> .
-
-riedel:Tangerine owl:sameAS <http://www.wikidata.org/entity/Q7682899> .
-
-riedel:TexTaylor owl:sameAS <http://www.wikidata.org/entity/Q7707285> .
-
-riedel:Thousand owl:sameAS <http://www.wikidata.org/entity/Q7797035> .
-
-riedel:Tri-Sentinel owl:sameAS <http://www.wikidata.org/entity/Q7839739> .
-
-riedel:ThinMan owl:sameAS <http://www.wikidata.org/entity/Q7784269> .
-
-riedel:JohnGrey owl:sameAS <http://www.wikidata.org/entity/Q15228910> .
-
-riedel:Gamora owl:sameAS <http://www.wikidata.org/entity/Q2721152> .
-
-riedel:Tracer owl:sameAS <http://www.wikidata.org/entity/Q7831175> .
-
-riedel:Sprocket owl:sameAS <http://www.wikidata.org/entity/Q7581333> .
-
-riedel:Strangers owl:sameAS <http://www.wikidata.org/entity/Q7621586> .
-
-riedel:Tête-d%27œuf owl:sameAS <http://www.wikidata.org/entity/Q2757603> .
-
-riedel:Jolt owl:sameAS <http://www.wikidata.org/entity/Q2757620> .
-
-riedel:Tusk owl:sameAS <http://www.wikidata.org/entity/Q7856779> .
-
-riedel:Spyder owl:sameAS <http://www.wikidata.org/entity/Q7581733> .
-
-riedel:StarThief owl:sameAS <http://www.wikidata.org/entity/Q7600939> .
-
-riedel:SunGirl owl:sameAS <http://www.wikidata.org/entity/Q7638302> .
-
-riedel:Temugin owl:sameAS <http://www.wikidata.org/entity/Q7699080> .
-
-riedel:TurkBarrett owl:sameAS <http://www.wikidata.org/entity/Q7855000> .
-
-riedel:TyroneCash owl:sameAS <http://www.wikidata.org/entity/Q7861585> .
-
-riedel:Veranke owl:sameAS <http://www.wikidata.org/entity/Q7920882> .
-
-riedel:VictorMancha owl:sameAS <http://www.wikidata.org/entity/Q7926126> .
-
-riedel:VictoriaMontesi owl:sameAS <http://www.wikidata.org/entity/Q7926876> .
-
-riedel:Volla owl:sameAS <http://www.wikidata.org/entity/Q7940346> .
-
-riedel:Tumbler owl:sameAS <http://www.wikidata.org/entity/Q7852565> .
-
-riedel:Nightmare owl:sameAS <http://www.wikidata.org/entity/Q15222919> .
-
-riedel:Turac owl:sameAS <http://www.wikidata.org/entity/Q7853643> .
-
-riedel:Underworld owl:sameAS <http://www.wikidata.org/entity/Q7883938> .
-
-riedel:L%27Homme-dragon owl:sameAS <http://www.wikidata.org/entity/Q2714410> .
-
-riedel:Nébula owl:sameAS <http://www.wikidata.org/entity/Q2721134> .
-
-riedel:KevinSydney owl:sameAS <http://www.wikidata.org/entity/Q2734801> .
-
-riedel:tribunalVivant owl:sameAS <http://www.wikidata.org/entity/Q2735212> .
-
-riedel:Stellaris owl:sameAS <http://www.wikidata.org/entity/Q7607226> .
-
-riedel:SupremeIntelligence owl:sameAS <http://www.wikidata.org/entity/Q7645047> .
-
-riedel:TamaraRahn owl:sameAS <http://www.wikidata.org/entity/Q7680819> .
-
-riedel:Tutinax owl:sameAS <http://www.wikidata.org/entity/Q7856948> .
-
-riedel:TylerStone owl:sameAS <http://www.wikidata.org/entity/Q7860164> .
-
-riedel:U-Man owl:sameAS <http://www.wikidata.org/entity/Q7862909> .
-
-riedel:Uni-Mind owl:sameAS <http://www.wikidata.org/entity/Q7884611> .
-
-riedel:KamalaKhan owl:sameAS <http://www.wikidata.org/entity/Q15208946> .
-
-riedel:ArmlessTigerMan owl:sameAS <http://www.wikidata.org/entity/Q16153053> .
-
-riedel:Umar owl:sameAS <http://www.wikidata.org/entity/Q7881102> .
-
-riedel:Ulik owl:sameAS <http://www.wikidata.org/entity/Q2746596> .
-
-riedel:DonaldPierce owl:sameAS <http://www.wikidata.org/entity/Q2741605> .
-
-riedel:Stiletto owl:sameAS <http://www.wikidata.org/entity/Q7616965> .
-
-riedel:Annex owl:sameAS <http://www.wikidata.org/entity/Q2851524> .
-
-riedel:Steppin%27Razor owl:sameAS <http://www.wikidata.org/entity/Q7611106> .
-
-riedel:TanaNile owl:sameAS <http://www.wikidata.org/entity/Q7682174> .
-
-riedel:TheFinisher owl:sameAS <http://www.wikidata.org/entity/Q7733990> .
-
-riedel:Thunderclap owl:sameAS <http://www.wikidata.org/entity/Q7799130> .
-
-riedel:Timebroker owl:sameAS <http://www.wikidata.org/entity/Q7805510> .
-
-riedel:Toxyn owl:sameAS <http://www.wikidata.org/entity/Q7830489> .
-
-riedel:VanessaFisk owl:sameAS <http://www.wikidata.org/entity/Q7914646> .
-
-riedel:Victorius owl:sameAS <http://www.wikidata.org/entity/Q7927435> .
-
-riedel:AsbestosMan owl:sameAS <http://www.wikidata.org/entity/Q17013405> .
-
-riedel:HoneyLemon owl:sameAS <http://www.wikidata.org/entity/Q17049560> .
-
-riedel:MadDogRassitano owl:sameAS <http://www.wikidata.org/entity/Q17110079> .
-
-riedel:Smasher owl:sameAS <http://www.wikidata.org/entity/Q17105883> .
-
-riedel:Recorder451 owl:sameAS <http://www.wikidata.org/entity/Q17149306> .
-
-riedel:AndrewForson owl:sameAS <http://www.wikidata.org/entity/Q16993672> .
-
-riedel:EbonSamurai owl:sameAS <http://www.wikidata.org/entity/Q16992243> .
-
-riedel:Fredzilla owl:sameAS <http://www.wikidata.org/entity/Q16993801> .
-
-riedel:Hellcow owl:sameAS <http://www.wikidata.org/entity/Q16995128> .
-
-riedel:Nara owl:sameAS <http://www.wikidata.org/entity/Q17012003> .
-
-riedel:PowerMan owl:sameAS <http://www.wikidata.org/entity/Q17014311> .
-
-riedel:Terraformer owl:sameAS <http://www.wikidata.org/entity/Q17066232> .
-
-riedel:Tazza owl:sameAS <http://www.wikidata.org/entity/Q17110322> .
-
-riedel:homer owl:sameAS <http://www.wikidata.org/entity/Q16994678> .
-
-riedel:Hummingbird owl:sameAS <http://www.wikidata.org/entity/Q16996128> .
-
-riedel:Lifeform owl:sameAS <http://www.wikidata.org/entity/Q17000894> .
-
-riedel:Minotaur owl:sameAS <http://www.wikidata.org/entity/Q17010226> .
-
-riedel:PrettyPersuasions owl:sameAS <http://www.wikidata.org/entity/Q17009756> .
-
-riedel:SusanBanner owl:sameAS <http://www.wikidata.org/entity/Q17039638> .
-
-riedel:Zadkiel owl:sameAS <http://www.wikidata.org/entity/Q16968396> .
-
-riedel:Virgo owl:sameAS <http://www.wikidata.org/entity/Q17040888> .
-
-riedel:Painter owl:sameAS <http://www.wikidata.org/entity/Q17061625> .
-
-riedel:Hebe owl:sameAS <http://www.wikidata.org/entity/Q16995088> .
-
-riedel:Slash owl:sameAS <http://www.wikidata.org/entity/Q17012293> .
-
-riedel:DelroyGarrett owl:sameAS <http://www.wikidata.org/entity/Q16993964> .
-
-riedel:Gronk owl:sameAS <http://www.wikidata.org/entity/Q16994555> .
-
-riedel:LotusShinchuko owl:sameAS <http://www.wikidata.org/entity/Q17019261> .
-
-riedel:Zota owl:sameAS <http://www.wikidata.org/entity/Q17144928> .
-
-riedel:Sigyn owl:sameAS <http://www.wikidata.org/entity/Q17019529> .
-
-riedel:Pandemic owl:sameAS <http://www.wikidata.org/entity/Q17013368> .
-
-riedel:Nuke owl:sameAS <http://www.wikidata.org/entity/Q17012835> .
-
-riedel:Thog owl:sameAS <http://www.wikidata.org/entity/Q17110364> .
-
-riedel:Lodestone owl:sameAS <http://www.wikidata.org/entity/Q17005708> .
-
-riedel:GoGoTomago owl:sameAS <http://www.wikidata.org/entity/Q16994243> .
-
-riedel:Vibro owl:sameAS <http://www.wikidata.org/entity/Q17040710> .
-
-riedel:Sarnak owl:sameAS <http://www.wikidata.org/entity/Q17017560> .
-
-riedel:Flashfire owl:sameAS <http://www.wikidata.org/entity/Q16993464> .
-
-riedel:Ludi owl:sameAS <http://www.wikidata.org/entity/Q17090329> .
-
-riedel:Brutacus owl:sameAS <http://www.wikidata.org/entity/Q16988033> .
-
-riedel:HiroTakachiho owl:sameAS <http://www.wikidata.org/entity/Q16995485> .
-
-riedel:Nightside owl:sameAS <http://www.wikidata.org/entity/Q17012493> .
-
-riedel:SteelSerpent owl:sameAS <http://www.wikidata.org/entity/Q17022155> .
-
-riedel:Pandapool owl:sameAS <http://www.wikidata.org/entity/Q17061931> .
-
-riedel:RebeccaBanner owl:sameAS <http://www.wikidata.org/entity/Q17066180> .
-
-riedel:DeathLocket owl:sameAS <http://www.wikidata.org/entity/Q16989280> .
-
-riedel:ElaineBanner owl:sameAS <http://www.wikidata.org/entity/Q16992320> .
-
-riedel:MisterRasputin owl:sameAS <http://www.wikidata.org/entity/Q17144714> .
-
-riedel:BreezeBarton owl:sameAS <http://www.wikidata.org/entity/Q16987999> .
-
-riedel:MODAM owl:sameAS <http://www.wikidata.org/entity/Q17000916> .
-
-riedel:Athéna%28MarvelComics%29 owl:sameAS <http://www.wikidata.org/entity/Q2869292> .
-
-riedel:BrentJackson owl:sameAS <http://www.wikidata.org/entity/Q2924479> .
-
-riedel:Chthon owl:sameAS <http://www.wikidata.org/entity/Q2967499> .
-
-riedel:Coldheart owl:sameAS <http://www.wikidata.org/entity/Q2982398> .
-
-riedel:Deathcry owl:sameAS <http://www.wikidata.org/entity/Q3020767> .
-
-riedel:FabianCortez owl:sameAS <http://www.wikidata.org/entity/Q3063514> .
-
-riedel:G.W.Bridge owl:sameAS <http://www.wikidata.org/entity/Q3093070> .
-
-riedel:WalterHardy owl:sameAS <http://www.wikidata.org/entity/Q7965074> .
-
-riedel:Warwolf owl:sameAS <http://www.wikidata.org/entity/Q7971248> .
-
-riedel:Windeagle owl:sameAS <http://www.wikidata.org/entity/Q8024087> .
-
-riedel:Woodgod owl:sameAS <http://www.wikidata.org/entity/Q8032685> .
-
-riedel:X-Cutioner owl:sameAS <http://www.wikidata.org/entity/Q8041439> .
-
-riedel:UltimateRickJones owl:sameAS <http://www.wikidata.org/entity/Q16619139> .
-
-riedel:Lloigoroth owl:sameAS <http://www.wikidata.org/entity/Q16915891> .
-
-riedel:Bullet%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2928024> .
-
-riedel:Cardiac owl:sameAS <http://www.wikidata.org/entity/Q2938033> .
-
-riedel:Femme-sable owl:sameAS <http://www.wikidata.org/entity/Q3068232> .
-
-riedel:Sauron owl:sameAS <http://www.wikidata.org/entity/Q2915564> .
-
-riedel:Ecstasy owl:sameAS <http://www.wikidata.org/entity/Q3047108> .
-
-riedel:Frey owl:sameAS <http://www.wikidata.org/entity/Q3087594> .
-
-riedel:Firebird owl:sameAS <http://www.wikidata.org/entity/Q3072826> .
-
-riedel:Worm owl:sameAS <http://www.wikidata.org/entity/Q8036841> .
-
-riedel:Whiteface owl:sameAS <http://www.wikidata.org/entity/Q7995833> .
-
-riedel:FrankDrake owl:sameAS <http://www.wikidata.org/entity/Q3082584> .
-
-riedel:Hermod owl:sameAS <http://www.wikidata.org/entity/Q3048755> .
-
-riedel:Condor owl:sameAS <http://www.wikidata.org/entity/Q2992315> .
-
-riedel:JohnGarrett owl:sameAS <http://www.wikidata.org/entity/Q16567433> .
-
-riedel:Intermédiaire owl:sameAS <http://www.wikidata.org/entity/Q3029214> .
-
-riedel:Blackout%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2905575> .
-
-riedel:Blaquesmith owl:sameAS <http://www.wikidata.org/entity/Q2906156> .
-
-riedel:Cadaver%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2932602> .
-
-riedel:Hommedetitanium owl:sameAS <http://www.wikidata.org/entity/Q2915396> .
-
-riedel:Tyr owl:sameAS <http://www.wikidata.org/entity/Q2887139> .
-
-riedel:Crusader owl:sameAS <http://www.wikidata.org/entity/Q3005608> .
-
-riedel:DocteurDruid owl:sameAS <http://www.wikidata.org/entity/Q3033512> .
-
-riedel:Earthmover owl:sameAS <http://www.wikidata.org/entity/Q3046465> .
-
-riedel:EliasBogan owl:sameAS <http://www.wikidata.org/entity/Q3050923> .
-
-riedel:Flux owl:sameAS <http://www.wikidata.org/entity/Q3074539> .
-
-riedel:Magician owl:sameAS <http://www.wikidata.org/entity/Q16253735> .
-
-riedel:BigWheel owl:sameAS <http://www.wikidata.org/entity/Q2902368> .
-
-riedel:Confesseur owl:sameAS <http://www.wikidata.org/entity/Q2992417> .
-
-riedel:DJ owl:sameAS <http://www.wikidata.org/entity/Q3011263> .
-
-riedel:Hoss owl:sameAS <http://www.wikidata.org/entity/Q16844842> .
-
-riedel:Karkas owl:sameAS <http://www.wikidata.org/entity/Q3094340> .
-
-riedel:Nightwatch owl:sameAS <http://www.wikidata.org/entity/Q8327297> .
-
-riedel:Volstagg owl:sameAS <http://www.wikidata.org/entity/Q7940698> .
-
-riedel:Vyking owl:sameAS <http://www.wikidata.org/entity/Q7943936> .
-
-riedel:Warwolves owl:sameAS <http://www.wikidata.org/entity/Q7971249> .
-
-riedel:Wildstreak owl:sameAS <http://www.wikidata.org/entity/Q8001519> .
-
-riedel:Wink owl:sameAS <http://www.wikidata.org/entity/Q8025444> .
-
-riedel:Yellowjacket owl:sameAS <http://www.wikidata.org/entity/Q8051948> .
-
-riedel:Yon-Rogg owl:sameAS <http://www.wikidata.org/entity/Q8054873> .
-
-riedel:YonduUdonta owl:sameAS <http://www.wikidata.org/entity/Q8054918> .
-
-riedel:Poundcakes owl:sameAS <http://www.wikidata.org/entity/Q16227516> .
-
-riedel:SolomonKane owl:sameAS <http://www.wikidata.org/entity/Q16210414> .
-
-riedel:GuiltHulk owl:sameAS <http://www.wikidata.org/entity/Q16385891> .
-
-riedel:Nefarius owl:sameAS <http://www.wikidata.org/entity/Q16387269> .
-
-riedel:SallyFloyd owl:sameAS <http://www.wikidata.org/entity/Q16838683> .
-
-riedel:MonicaRappaccini owl:sameAS <http://www.wikidata.org/entity/Q16953153> .
-
-riedel:Witness owl:sameAS <http://www.wikidata.org/entity/Q8028382> .
-
-riedel:Ganymède owl:sameAS <http://www.wikidata.org/entity/Q3095222> .
-
-riedel:Century owl:sameAS <http://www.wikidata.org/entity/Q2946300> .
-
-riedel:Kazann owl:sameAS <http://www.wikidata.org/entity/Q16255630> .
-
-riedel:Knull owl:sameAS <http://www.wikidata.org/entity/Q85774745> .
-
-riedel:Rom owl:sameAS <http://www.wikidata.org/entity/Q3088458> .
-
-riedel:Collectionneur owl:sameAS <http://www.wikidata.org/entity/Q2982927> .
-
-riedel:Bres owl:sameAS <http://www.wikidata.org/entity/Q2924508> .
-
-riedel:Discus owl:sameAS <http://www.wikidata.org/entity/Q3030252> .
-
-riedel:Hela owl:sameAS <http://www.wikidata.org/entity/Q3043221> .
-
-riedel:Cheetah owl:sameAS <http://www.wikidata.org/entity/Q2961967> .
-
-riedel:Contrôleur owl:sameAS <http://www.wikidata.org/entity/Q2996189> .
-
-riedel:Devos owl:sameAS <http://www.wikidata.org/entity/Q3025537> .
-
-riedel:BaronBrimstone owl:sameAS <http://www.wikidata.org/entity/Q2884769> .
-
-riedel:Batwing%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2891934> .
-
-riedel:Bison%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2904716> .
-
-riedel:Centurius owl:sameAS <http://www.wikidata.org/entity/Q2946302> .
-
-riedel:Chtylok owl:sameAS <http://www.wikidata.org/entity/Q2967561> .
-
-riedel:ElsaBloodstone owl:sameAS <http://www.wikidata.org/entity/Q3051712> .
-
-riedel:WillieLumpkin owl:sameAS <http://www.wikidata.org/entity/Q3000429> .
-
-riedel:Fer-de-lance owl:sameAS <http://www.wikidata.org/entity/Q3068456> .
-
-riedel:WhiteTiger owl:sameAS <http://www.wikidata.org/entity/Q7995470> .
-
-riedel:Gargouille owl:sameAS <http://www.wikidata.org/entity/Q16638639> .
-
-riedel:Monsteroso owl:sameAS <http://www.wikidata.org/entity/Q16387076> .
-
-riedel:Hippolyta owl:sameAS <http://www.wikidata.org/entity/Q16843408> .
-
-riedel:KingCobra owl:sameAS <http://www.wikidata.org/entity/Q3089125> .
-
-riedel:Zabu owl:sameAS <http://www.wikidata.org/entity/Q8063640> .
-
-riedel:Widget owl:sameAS <http://www.wikidata.org/entity/Q7998718> .
-
-riedel:Bi-bête owl:sameAS <http://www.wikidata.org/entity/Q2900730> .
-
-riedel:BlazingSkull owl:sameAS <http://www.wikidata.org/entity/Q2906321> .
-
-riedel:CaptainUniverse owl:sameAS <http://www.wikidata.org/entity/Q2973579> .
-
-riedel:Cardinal%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2938051> .
-
-riedel:Chemistro owl:sameAS <http://www.wikidata.org/entity/Q2962576> .
-
-riedel:Dreadknight owl:sameAS <http://www.wikidata.org/entity/Q3039224> .
-
-riedel:SpencerSmythe owl:sameAS <http://www.wikidata.org/entity/Q3080800> .
-
-riedel:WesternKid owl:sameAS <http://www.wikidata.org/entity/Q7988008> .
-
-riedel:Wysper owl:sameAS <http://www.wikidata.org/entity/Q8040592> .
-
-riedel:Zarrko owl:sameAS <http://www.wikidata.org/entity/Q8066914> .
-
-riedel:Zom owl:sameAS <http://www.wikidata.org/entity/Q8073711> .
-
-riedel:Phage owl:sameAS <http://www.wikidata.org/entity/Q2886408> .
-
-riedel:AbnerJenkins owl:sameAS <http://www.wikidata.org/entity/Q16203115> .
-
-riedel:CullenBloodstone owl:sameAS <http://www.wikidata.org/entity/Q16275149> .
-
-riedel:MachineTeen owl:sameAS <http://www.wikidata.org/entity/Q16949826> .
-
-riedel:Epoch owl:sameAS <http://www.wikidata.org/entity/Q3055843> .
-
-riedel:Bloodaxe owl:sameAS <http://www.wikidata.org/entity/Q2906981> .
-
-riedel:Calypso%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q2934584> .
-
-riedel:Coachwhip owl:sameAS <http://www.wikidata.org/entity/Q2981045> .
-
-riedel:Contemplateur owl:sameAS <http://www.wikidata.org/entity/Q2995519> .
-
-riedel:FauconPèlerin owl:sameAS <http://www.wikidata.org/entity/Q3067340> .
-
-riedel:LaTâche owl:sameAS <http://www.wikidata.org/entity/Q3031868> .
-
-riedel:Yukio owl:sameAS <http://www.wikidata.org/entity/Q8060735> .
-
-riedel:Hypno-Hustler owl:sameAS <http://www.wikidata.org/entity/Q8253761> .
-
-riedel:JaniceLincoln owl:sameAS <http://www.wikidata.org/entity/Q16203548> .
-
-riedel:AlphonsoMacKenzie owl:sameAS <http://www.wikidata.org/entity/Q16386826> .
-
-riedel:AshleyKafka owl:sameAS <http://www.wikidata.org/entity/Q16385069> .
-
-riedel:LordDarkWind owl:sameAS <http://www.wikidata.org/entity/Q16386749> .
-
-riedel:Cammi owl:sameAS <http://www.wikidata.org/entity/Q16828778> .
-
-riedel:Baphomet owl:sameAS <http://www.wikidata.org/entity/Q2881360> .
-
-riedel:Cyttorak owl:sameAS <http://www.wikidata.org/entity/Q3009556> .
-
-riedel:DaimonHellstrom owl:sameAS <http://www.wikidata.org/entity/Q3012120> .
-
-riedel:Griffejaune owl:sameAS <http://www.wikidata.org/entity/Q8051696> .
-
-riedel:Yu-Ti owl:sameAS <http://www.wikidata.org/entity/Q8059879> .
-
-riedel:Bloodscream owl:sameAS <http://www.wikidata.org/entity/Q2906990> .
-
-riedel:Corrupteur owl:sameAS <http://www.wikidata.org/entity/Q2997998> .
-
-riedel:Korvac owl:sameAS <http://www.wikidata.org/entity/Q3067381> .
-
-riedel:WernervonStrucker owl:sameAS <http://www.wikidata.org/entity/Q7983536> .
-
-riedel:Jazinda owl:sameAS <http://www.wikidata.org/entity/Q16210347> .
-
-riedel:RazMalhotra owl:sameAS <http://www.wikidata.org/entity/Q24953530> .
-
-riedel:Kidogo owl:sameAS <http://www.wikidata.org/entity/Q27950273> .
-
-riedel:HeinrichZemo owl:sameAS <http://www.wikidata.org/entity/Q30315324> .
-
-riedel:Dagger owl:sameAS <http://www.wikidata.org/entity/Q9582149> .
-
-riedel:Plazm owl:sameAS <http://www.wikidata.org/entity/Q43267130> .
-
-riedel:DuendeCinza owl:sameAS <http://www.wikidata.org/entity/Q10269003> .
-
-riedel:IreneMerryweather owl:sameAS <http://www.wikidata.org/entity/Q10303579> .
-
-riedel:BlueTalon owl:sameAS <http://www.wikidata.org/entity/Q17985973> .
-
-riedel:PhillipHayes owl:sameAS <http://www.wikidata.org/entity/Q17853992> .
-
-riedel:ProximaMidnight owl:sameAS <http://www.wikidata.org/entity/Q18153345> .
-
-riedel:Lash%28comics%29 owl:sameAS <http://www.wikidata.org/entity/Q20967752> .
-
-riedel:Cobra%28MarvelComics%29 owl:sameAS <http://www.wikidata.org/entity/Q26919651> .
-
-riedel:HaroldMeachum owl:sameAS <http://www.wikidata.org/entity/Q27231263> .
-
-riedel:AnnamariaMarconi owl:sameAS <http://www.wikidata.org/entity/Q39052372> .
-
-riedel:NicoMinoru owl:sameAS <http://www.wikidata.org/entity/Q9049926> .
-
-riedel:CorvusGlaive owl:sameAS <http://www.wikidata.org/entity/Q17986678> .
-
-riedel:RoscoeSweeney owl:sameAS <http://www.wikidata.org/entity/Q19867044> .
-
-riedel:EbonyMaw owl:sameAS <http://www.wikidata.org/entity/Q20979240> .
-
-riedel:Sniper owl:sameAS <http://www.wikidata.org/entity/Q19840837> .
-
-riedel:Shock owl:sameAS <http://www.wikidata.org/entity/Q18154016> .
-
-riedel:Saracen owl:sameAS <http://www.wikidata.org/entity/Q19867270> .
-
-riedel:X-Ray owl:sameAS <http://www.wikidata.org/entity/Q9096342> .
-
-riedel:Silk owl:sameAS <http://www.wikidata.org/entity/Q18754954> .
-
-riedel:Scorpion owl:sameAS <http://www.wikidata.org/entity/Q9697486> .
-
-riedel:RichardParker owl:sameAS <http://www.wikidata.org/entity/Q102268961> .
-
-riedel:Zero owl:sameAS <http://www.wikidata.org/entity/Q19882064> .
-
-riedel:Sunturion owl:sameAS <http://www.wikidata.org/entity/Q9290745> .
-
-riedel:SapphireStyx%28MarvelComics%29 owl:sameAS <http://www.wikidata.org/entity/Q10368362> .
-
-riedel:Cosmo owl:sameAS <http://www.wikidata.org/entity/Q20979233> .
-
-riedel:MidnightSun owl:sameAS <http://www.wikidata.org/entity/Q25393808> .
-
-riedel:JacobConover owl:sameAS <http://www.wikidata.org/entity/Q17853991> .
-
-riedel:SergeantBlume owl:sameAS <http://www.wikidata.org/entity/Q17853989> .
-
-riedel:RogerDooley owl:sameAS <http://www.wikidata.org/entity/Q18968495> .
-
-riedel:KraventheHunter owl:sameAS <http://www.wikidata.org/entity/Q19875028> .
-
-riedel:MaryParker owl:sameAS <http://www.wikidata.org/entity/Q102268990> .
-
-riedel:Stunt-Master owl:sameAS <http://www.wikidata.org/entity/Q19868255> .
-
-riedel:HeinzKruger owl:sameAS <http://www.wikidata.org/entity/Q20745564> .
-
-riedel:JerynHogarth owl:sameAS <http://www.wikidata.org/entity/Q21127582> .
-
-riedel:ConteOttoVermis owl:sameAS <http://www.wikidata.org/entity/Q21188818> .
-
-riedel:Ironheart owl:sameAS <http://www.wikidata.org/entity/Q28127085> .
-
-riedel:FuManchu owl:sameAS <http://www.wikidata.org/entity/Q20708768> .
-
-riedel:UltimateSpider-Woman owl:sameAS <http://www.wikidata.org/entity/Q39052195> .
-
-riedel:DancingWater owl:sameAS <http://www.wikidata.org/entity/Q42530728> .
-
-riedel:Eye-Scream owl:sameAS <http://www.wikidata.org/entity/Q42530540> .
-
-riedel:GorrtheGodButcher owl:sameAS <http://www.wikidata.org/entity/Q96379736> .
-
-riedel:DarrenCross owl:sameAS <http://www.wikidata.org/entity/Q19838966> .
-
-riedel:JackMurdock owl:sameAS <http://www.wikidata.org/entity/Q21188801> .
-
-riedel:ChesterPhillips owl:sameAS <http://www.wikidata.org/entity/Q8345266> .
-
-riedel:IngridThysson owl:sameAS <http://www.wikidata.org/entity/Q10302207> .
-
-riedel:Reptilla owl:sameAS <http://www.wikidata.org/entity/Q19866875> .
-
-riedel:T%27Chaka owl:sameAS <http://www.wikidata.org/entity/Q24022642> .
-
-riedel:Freya owl:sameAS <http://www.wikidata.org/entity/Q25479397> .
-
-riedel:WardMeachum owl:sameAS <http://www.wikidata.org/entity/Q28403782> .
-
-riedel:SarahStacy owl:sameAS <http://www.wikidata.org/entity/Q28944431> .
-
-riedel:TheodoreSlaght owl:sameAS <http://www.wikidata.org/entity/Q42530980> .
-
-riedel:Serpente owl:sameAS <http://www.wikidata.org/entity/Q23306604> .
-
-riedel:Annalee%28MarvelComics%29 owl:sameAS <http://www.wikidata.org/entity/Q9616368> .
-
-riedel:DuendeMacabro%28ArnoldDonovan%29 owl:sameAS <http://www.wikidata.org/entity/Q10269006> .
-
-riedel:Pigmeu%28MarvelComics%29 owl:sameAS <http://www.wikidata.org/entity/Q10349709> .
-
-riedel:TalostheUntamed owl:sameAS <http://www.wikidata.org/entity/Q18225043> .
-
-riedel:JimMorita owl:sameAS <http://www.wikidata.org/entity/Q19573067> .
-
-riedel:RachelCole-Alves owl:sameAS <http://www.wikidata.org/entity/Q19839850> .
-
-riedel:HopePym owl:sameAS <http://www.wikidata.org/entity/Q19880512> .
-
-riedel:DorrekVII owl:sameAS <http://www.wikidata.org/entity/Q22907914> .
-
-riedel:BuckyBarnes owl:sameAS <http://www.wikidata.org/entity/Q28006858> .
-
-riedel:Bi-Beast owl:sameAS <http://www.wikidata.org/entity/Q43267136> .
-
-riedel:Mainframe owl:sameAS <http://www.wikidata.org/entity/Q20657244> .
-
-riedel:Hellfire owl:sameAS <http://www.wikidata.org/entity/Q25214275> .
-
-riedel:Fizzle owl:sameAS <http://www.wikidata.org/entity/Q19878234> .
-
-riedel:GustavFiers owl:sameAS <http://www.wikidata.org/entity/Q18154942> .
-
-riedel:ClaireTemple owl:sameAS <http://www.wikidata.org/entity/Q19571310> .
-
-riedel:FranklinStorm owl:sameAS <http://www.wikidata.org/entity/Q20858389> .
-
-riedel:JasonStryker owl:sameAS <http://www.wikidata.org/entity/Q20979405> .
-
-riedel:MaggieMurdock owl:sameAS <http://www.wikidata.org/entity/Q23306601> .
-
-riedel:JoyMeachum owl:sameAS <http://www.wikidata.org/entity/Q28403779> .
-
-riedel:Overmind owl:sameAS <http://www.wikidata.org/entity/Q30597357> .
-
-riedel:AntonRodriguez owl:sameAS <http://www.wikidata.org/entity/Q17620613> .
-
-riedel:Shiklah owl:sameAS <http://www.wikidata.org/entity/Q19867627> .
-
-riedel:AldrichKillian owl:sameAS <http://www.wikidata.org/entity/Q20979300> .
-
-riedel:HamirtheHermit owl:sameAS <http://www.wikidata.org/entity/Q28404662> .
-
-riedel:Thim owl:sameAS <http://www.wikidata.org/entity/Q10382127> .
-
-riedel:WildPack owl:sameAS <http://www.wikidata.org/entity/Q8965181> .
-
-riedel:RoderickKingsley owl:sameAS <http://www.wikidata.org/entity/Q9311511> .
-
-riedel:BattleGuy owl:sameAS <http://www.wikidata.org/entity/Q20850416> .
-
-riedel:BlackDwarf owl:sameAS <http://www.wikidata.org/entity/Q20979209> .
-
-riedel:Eitri owl:sameAS <http://www.wikidata.org/entity/Q52315124> .
-
-riedel:BillyRusso owl:sameAS <http://www.wikidata.org/entity/Q49164659> .
-
-riedel:CarltonDrake owl:sameAS <http://www.wikidata.org/entity/Q54829259> .
-
-riedel:DangerousJinn owl:sameAS <http://www.wikidata.org/entity/Q56112206> .
-
-riedel:TheInsect owl:sameAS <http://www.wikidata.org/entity/Q56112157> .
-
-riedel:CletusKasady owl:sameAS <http://www.wikidata.org/entity/Q55607777> .
-
-riedel:NadiavanDyne owl:sameAS <http://www.wikidata.org/entity/Q48740648> .
-
-riedel:Singularity owl:sameAS <http://www.wikidata.org/entity/Q49164682> .
-
-riedel:FeiLian owl:sameAS <http://www.wikidata.org/entity/Q56112180> .
-
-riedel:Thumbelina owl:sameAS <http://www.wikidata.org/entity/Q56759775> .
-
-riedel:TeresaParker owl:sameAS <http://www.wikidata.org/entity/Q49164669> .
-
-riedel:ZanderRice owl:sameAS <http://www.wikidata.org/entity/Q51817275> .
-
-riedel:BrettMahoney owl:sameAS <http://www.wikidata.org/entity/Q55315983> .
-
-riedel:UltimateGreenGoblin owl:sameAS <http://www.wikidata.org/entity/Q48544198> .
-
-riedel:AndreavonStrucker owl:sameAS <http://www.wikidata.org/entity/Q54833756> .
-
-riedel:HonestJohn owl:sameAS <http://www.wikidata.org/entity/Q56112166> .
-
-riedel:Mzee owl:sameAS <http://www.wikidata.org/entity/Q56112161> .
-
-riedel:Ban-Luck owl:sameAS <http://www.wikidata.org/entity/Q49164655> .
-
-riedel:BrokenHaiku owl:sameAS <http://www.wikidata.org/entity/Q49164662> .
+<https://cours.iut-orsay.fr/npbd/projet/riedel/C.F.> riedel:genre "masculin"@fr .

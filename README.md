@@ -49,3 +49,42 @@ Ce projet a été conçu pour être exécuté dans un environnement Python 3.11.
      ```
 
 Ces étapes vous permettront de créer un environnement virtuel, d'installer les bibliothèques nécessaires, et de démarrer le site web localement. Assurez-vous également d'ajouter les fichiers d'ontologie et de déclarations dans le référentiel "PROJECT" pour la partie GraphDB.
+
+
+## INSERT SPARQL
+
+```js
+PREFIX riedel: <https://cours.iut-orsay.fr/npbd/projet/riedel/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema>
+PREFIX iut: <https://cours.iut-orsay.fr/qar/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology>
+PREFIX : <http://www.semanticweb.org/nriedel/ontologies/2023/11/untitled-ontology-3/>
+
+
+INSERT {
+    ?item rdf:type riedel:Personnage ;
+        riedel:genre ?Genre.
+} 
+WHERE {
+  ?item rdf:type riedel:Personnage ;
+        riedel:nom ?nom .
+
+  SERVICE <https://query.wikidata.org/bigdata/namespace/wdq/sparql> {
+    ?itemWikidata wdt:P31 wd:Q1114461;
+        wdt:P1080 ?universe;
+          rdfs:label ?itemWikidataLabel;
+        wdt:P21 ?genre.
+    ?genre rdfs:label ?genreLabel.
+        FILTER(?universe = wd:Q931597)
+        FILTER(LANG(?itemWikidataLabel) = "fr")
+        FILTER(LANG(?genreLabel) = "fr")
+  }
+    FILTER(?nom = ?itemWikidataLabel)
+    BIND(?genreLabel AS ?Genre)
+} 
+```
